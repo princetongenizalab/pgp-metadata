@@ -225,7 +225,16 @@
             "description": "temporary - empty admin field"
           }
         ]
-      }
+      },
+      "foreignKeys": [
+          {
+              "fields": "document_id",
+              "reference": {
+                  "resource": "documents",
+                  "fields": "pgpid"
+              }
+          }
+      ]
     },
     {
       "path": "data/fragments.csv",
