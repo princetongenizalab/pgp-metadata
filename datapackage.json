@@ -1,0 +1,374 @@
+{
+  "profile": "tabular-data-package",
+  "title": "Princeton Geniza Project metadata",
+  "resources": [
+    {
+      "path": "data/documents.csv",
+      "name": "documents",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "pgpid",
+            "constraints": {
+              "required": true
+            },
+            "description": "PGP identifier"
+          },
+          {
+            "type": "string",
+            "name": "url",
+            "description": "permalink; public view of this document"
+          },
+          {
+            "type": "string",
+            "name": "iiif_urls",
+            "description": "URLs for one or more IIIF manifests, if available for associated fragments"
+          },
+          {
+            "type": "string",
+            "name": "fragment_urls",
+            "description": "URLs to access associated fragments at owning library or museum site, if available"
+          },
+          {
+            "type": "string",
+            "name": "shelfmark",
+            "constraints": {
+              "required": true
+            },
+            "description": "shelfmark or combined shelfmark for the fragments this document appears on"
+          },
+          {
+            "name": "multifragment",
+            "type": "any",
+            "description": "Identifier for fragment part, if any associated fragments are part of a multifragment"
+          },
+          {
+            "type": "string",
+            "name": "side",
+            "description": "sides of associated fragments where this document appears"
+          },
+          {
+            "type": "string",
+            "name": "region",
+            "description": "Label for region of fragment that document text occupies, for each associated fragment"
+          },
+          {
+            "type": "string",
+            "name": "type",
+            "description": "type of document"
+          },
+          {
+            "type": "string",
+            "name": "tags",
+            "description": "tags describing the document"
+          },
+          {
+            "type": "string",
+            "name": "description",
+            "description": "text description summarizing the document"
+          },
+          {
+            "type": "string",
+            "name": "scholarship_records",
+            "description": "Short citations for known scholarship about this document"
+          },
+          {
+            "type": "string",
+            "name": "shelfmarks_historic",
+            "description": "Historic shelfmarks, if any, for associated fragments"
+          },
+          {
+            "type": "string",
+            "name": "languages_primary",
+            "description": "Primary languages used in the text of this document"
+          },
+          {
+            "type": "string",
+            "name": "languages_secondary",
+            "description": "Additional languages used in the text of this document"
+          },
+          {
+            "name": "language_note",
+            "type": "string",
+            "description": "Additional information about the languages or scripts used in this document"
+          },
+          {
+            "type": "string",
+            "name": "doc_date_original",
+            "description": "Date on document — date in original calendar"
+          },
+          {
+            "type": "string",
+            "name": "doc_date_calendar",
+            "description": "Calendar for document date"
+          },
+          {
+            "type": "string",
+            "name": "doc_date_standard",
+            "description": "Date on document, standardized - CE date (convert to Julian before 1582, Gregorian after 1582)"
+          },
+          {
+            "type": "string",
+            "name": "notes",
+            "description": "temporary - empty admin field"
+          },
+          {
+            "type": "string",
+            "name": "needs_review",
+            "description": "temporary - empty admin field"
+          },
+          {
+            "type": "string",
+            "name": "url_admin",
+            "description": "temporary - empty admin field"
+          },
+          {
+            "type": "datetime",
+            "name": "initial_entry",
+            "description": "Date document was added to PGP"
+          },
+          {
+            "type": "datetime",
+            "name": "last_modified",
+            "description": "Date document was last modified in PGP"
+          },
+          {
+            "type": "string",
+            "name": "input_by",
+            "description": "Researchers who contributed to the metadata for this document"
+          },
+          {
+            "type": "string",
+            "name": "status",
+            "description": "temporary - empty admin field"
+          },
+          {
+            "type": "string",
+            "name": "library",
+            "description": "Library location/ownership for associated fragments"
+          },
+          {
+            "type": "string",
+            "name": "collection",
+            "description": "Library collection for associated fragments"
+          },
+          {
+            "type": "string",
+            "name": "has_transcription",
+            "description": "Boolean indicator if document has transcription available",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "type": "string",
+            "name": "has_translation",
+            "description": "Boolean indicator if document has translation available",
+            "constraints": {
+              "required": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/footnotes.csv",
+      "name": "footnotes",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "document"
+          },
+          {
+            "type": "integer",
+            "name": "document_id"
+          },
+          {
+            "type": "string",
+            "name": "source"
+          },
+          {
+            "type": "string",
+            "name": "location"
+          },
+          {
+            "type": "string",
+            "name": "doc_relation"
+          },
+          {
+            "type": "string",
+            "name": "notes"
+          },
+          {
+            "type": "string",
+            "name": "url"
+          },
+          {
+            "type": "string",
+            "name": "content"
+          },
+          {
+            "name": "admin_url",
+            "type": "any",
+            "description": "temporary - empty admin field"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/fragments.csv",
+      "name": "fragments",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "shelfmark"
+          },
+          {
+            "type": "string",
+            "name": "pgpids"
+          },
+          {
+            "type": "string",
+            "name": "old_shelfmarks"
+          },
+          {
+            "type": "string",
+            "name": "collection"
+          },
+          {
+            "type": "string",
+            "name": "library"
+          },
+          {
+            "type": "string",
+            "name": "library_abbrev"
+          },
+          {
+            "type": "string",
+            "name": "collection_name"
+          },
+          {
+            "type": "string",
+            "name": "collection_abbrev"
+          },
+          {
+            "name": "url",
+            "type": "any"
+          },
+          {
+            "name": "iiif_url",
+            "type": "any"
+          },
+          {
+            "type": "string",
+            "name": "is_multifragment"
+          },
+          {
+            "type": "datetime",
+            "name": "created"
+          },
+          {
+            "type": "datetime",
+            "name": "last_modified"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/sources.csv",
+      "name": "sources",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "source_type"
+          },
+          {
+            "type": "string",
+            "name": "authors"
+          },
+          {
+            "type": "string",
+            "name": "title"
+          },
+          {
+            "type": "string",
+            "name": "journal_book"
+          },
+          {
+            "type": "string",
+            "name": "volume"
+          },
+          {
+            "type": "integer",
+            "name": "issue"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "string",
+            "name": "place_published"
+          },
+          {
+            "type": "string",
+            "name": "publisher"
+          },
+          {
+            "type": "integer",
+            "name": "edition"
+          },
+          {
+            "type": "string",
+            "name": "other_info"
+          },
+          {
+            "type": "string",
+            "name": "page_range"
+          },
+          {
+            "type": "string",
+            "name": "languages"
+          },
+          {
+            "type": "string",
+            "name": "url"
+          },
+          {
+            "type": "string",
+            "name": "notes"
+          },
+          {
+            "type": "integer",
+            "name": "num_footnotes"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package"
+}
