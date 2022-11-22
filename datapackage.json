@@ -23,6 +23,7 @@
           {
             "type": "string",
             "name": "url",
+            "format": "uri",
             "description": "permalink; public view of this document"
           },
           {
@@ -159,22 +160,28 @@
             "description": "Library collection for associated fragments"
           },
           {
-            "type": "string",
+            "type": "boolean",
             "name": "has_transcription",
             "description": "Boolean indicator if document has transcription available",
+            "trueValues": ["Y"],
+            "falseValues": ["N"],
             "constraints": {
               "required": true
             }
           },
           {
-            "type": "string",
+            "type": "boolean",
             "name": "has_translation",
             "description": "Boolean indicator if document has translation available",
+            "trueValues": ["Y"],
+            "falseValues": ["N"],
             "constraints": {
               "required": true
             }
           }
-        ]
+        ],
+       "primaryKey": "pgpid",
+        "missingValues": [""]
       }
     },
     {
@@ -213,7 +220,8 @@
           },
           {
             "type": "string",
-            "name": "url"
+            "name": "url",
+            "format": "uri"
           },
           {
             "type": "string",
@@ -226,6 +234,7 @@
           }
         ]
       },
+      "missingValues": [""],
       "foreignKeys": [
           {
               "fields": "document_id",
@@ -280,11 +289,13 @@
           },
           {
             "name": "url",
-            "type": "any"
+            "type": "string",
+            "format": "uri"
           },
           {
             "name": "iiif_url",
-            "type": "any"
+            "type": "string",
+            "format": "uri"
           },
           {
             "type": "string",
@@ -298,7 +309,8 @@
             "type": "datetime",
             "name": "last_modified"
           }
-        ]
+        ],
+        "missingValues": [""]
       }
     },
     {
@@ -365,7 +377,8 @@
           },
           {
             "type": "string",
-            "name": "url"
+            "name": "url",
+            "format": "uri"
           },
           {
             "type": "string",
@@ -376,7 +389,8 @@
             "name": "num_footnotes"
           }
         ]
-      }
+      },
+      "missingValues": [""]
     }
   ],
   "profile": "data-package"
