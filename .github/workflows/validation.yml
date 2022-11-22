@@ -1,12 +1,13 @@
 name: validation
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
+  schedule:
+   schedule: # run automatically on main branch each Tuesday at 11am
+    - cron: "0 16 * * 2"
+
 
 jobs:
 
