@@ -33,6 +33,7 @@ Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,h
 Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,4,4,0,https://geniza.princeton.edu/places/jerusalem/
 Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://geniza.princeton.edu/places/jurbattan/
 Kūlam,"Kollam, Quilon","8° 53′ 24″ N, 76° 36′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/kulam/
+London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/london/
 Lucena,,"37° 24′ 35″ N, 4° 28′ 59″ W",,1,1,0,https://geniza.princeton.edu/places/lucena/
 Lukk,,"32° 0′ 0″ N, 24° 45′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/lukk/
 Malibar,,"12° 1′ 11″ N, 75° 16′ 48″ E",,1,0,0,https://geniza.princeton.edu/places/malibar/
@@ -40,7 +41,9 @@ Mangaluru,"Mangalore, Manjarūr, מנגרור","12° 52′ 11″ N, 74° 50′ 2
 Masada,מצדה‎,"31° 18′ 55″ N, 35° 21′ 13″ E",,1,0,0,https://geniza.princeton.edu/places/masada/
 Mazara,Mazara del Vallo,"37° 38′ 59″ N, 12° 34′ 48″ E",,8,5,0,https://geniza.princeton.edu/places/mazara/
 Minyat Ziftā,,"30° 42′ 36″ N, 31° 14′ 23″ E",,2,0,0,https://geniza.princeton.edu/places/minyat-zifta/
+Mirbāṭ,,"16° 59′ 16″ N, 54° 41′ 31″ E",,6,0,0,https://geniza.princeton.edu/places/mirbat/
 Mosul,"אלמוצל, الموصل","36° 20′ 24″ N, 43° 7′ 48″ E",,9,0,0,https://geniza.princeton.edu/places/mosul/
+Nafūsa,Jebel Nafūsa,"31° 51′ 53″ N, 11° 47′ 35″ E","The Nafusa mountains (Jebel Nafusa) or sometimes known simply as Nafusa, is a mountain range in modern-day western Libya. A not insignificant number of Geniza merchants hailed from Nafusa, but it is technically not a settlement location itself. Rather, the mountain is home to several towns and cities, most notably Zintan, Nalut, Jadu, Gharyan, Yefren, Kabaw, and others.",1,1,0,https://geniza.princeton.edu/places/nafusa/
 Palermo,,"38° 6′ 39″ N, 13° 21′ 7″ E",,11,13,3,https://geniza.princeton.edu/places/palermo/
 Qabīl,,"31° 4′ 59″ N, 30° 30′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/qabil/
 Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,1,3,0,https://geniza.princeton.edu/places/qabis/
@@ -51,10 +54,12 @@ Sciacca,,"37° 30′ 32″ N, 13° 5′ 20″ E",,1,0,0,https://geniza.princeton
 Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,2,1,1,https://geniza.princeton.edu/places/sfax/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
 Shingli,Kodungallur,"10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
+Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,"31° 16′ 48″ N, 4° 16′ 48″ W",,0,1,0,https://geniza.princeton.edu/places/sijilmasa/
 Sūsa,"Soussa, Sousse","35° 49′ 47″ N, 10° 37′ 48″ E",,2,0,0,https://geniza.princeton.edu/places/susa/
 Suwākin,,"19° 6′ 0″ N, 37° 19′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/suwakin/
 Tānā,"Thana, Thane","19° 11′ 49″ N, 72° 58′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/tana/
+Tinnīs,תניס,"31° 11′ 59″ N, 32° 13′ 59″ E",,4,0,0,https://geniza.princeton.edu/places/tinnis/
 Tlemcen,تلمسان,"34° 52′ 48″ N, 1° 19′ 12″ W",,1,0,0,https://geniza.princeton.edu/places/tlemcen/
 Toledo,Ṭulayṭula,"39° 51′ 35″ N, 4° 1′ 38″ W",,1,1,0,https://geniza.princeton.edu/places/toledo/
 Trapani,אטראבנש,"38° 1′ 1″ N, 12° 30′ 54″ E",,2,0,0,https://geniza.princeton.edu/places/trapani/
@@ -62,11 +67,6 @@ Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus","32° 53�
 Tunis,تونس,"36° 48′ 21″ N, 10° 10′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/tunis/
 Turūja,تروجة,"30° 30′ 0″ N, 30° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/turuja/
 Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/tyre/
+Urbus,"Arbus, Lares","36° 4′ 30″ N, 8° 50′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/urbus/
+Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,1,0,0,https://geniza.princeton.edu/places/venice/
 Wāsiț,,"32° 11′ 16″ N, 46° 17′ 52″ E",,1,0,0,https://geniza.princeton.edu/places/wasit/
-Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/None/
-London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/None/
-Mirbāṭ,,"16° 59′ 35″ N, 54° 42′ 9″ E",,6,0,0,https://geniza.princeton.edu/places/None/
-Urbus,"Arbus, Lares","36° 4′ 30″ N, 8° 50′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/None/
-Nafūsa,Jebel Nafūsa,"31° 51′ 53″ N, 11° 47′ 35″ E","The Nafusa mountains (Jebel Nafusa) or sometimes known simply as Nafusa, is a mountain range in modern-day western Libya. A not insignificant number of Geniza merchants hailed from Nafusa, but it is technically not a settlement location itself. Rather, the mountain is home to several towns and cities, most notably Zintan, Nalut, Jadu, Gharyan, Yefren, Kabaw, and others.",1,1,0,https://geniza.princeton.edu/places/None/
-Tinnīs,תניס,"31° 11′ 59″ N, 32° 13′ 59″ E",,4,0,0,https://geniza.princeton.edu/places/None/
-Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,1,0,0,https://geniza.princeton.edu/places/None/
