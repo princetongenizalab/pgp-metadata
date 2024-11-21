@@ -1,6 +1,6 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
 Aden,,"12° 47′ 28″ N, 44° 59′ 7″ E",,5,3,0,https://geniza.princeton.edu/places/aden/
-Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,47,19,0,https://geniza.princeton.edu/places/alexandria/
+Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,48,19,0,https://geniza.princeton.edu/places/alexandria/
 al-Gharbiyya,,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,1,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
 al-Maḥalla al-Kubrā,al-Maḥalla,"30° 58′ 11″ N, 31° 9′ 36″ E",,2,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,6,1,0,https://geniza.princeton.edu/places/al-mahdiyya/
@@ -24,7 +24,7 @@ Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","
 Cairo,,"30° 3′ 6″ N, 31° 15′ 41″ E",,1,1,0,https://geniza.princeton.edu/places/cairo/
 Castrogiovanni,Enna,"37° 33′ 46″ N, 14° 16′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/castrogiovanni/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/dahlak/
-Damietta,"Dimyāṭ, Dumyāṭ, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,1,0,0,https://geniza.princeton.edu/places/damietta/
+Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,5,0,0,https://geniza.princeton.edu/places/damietta/
 Damsīs,,"30° 49′ 12″ N, 31° 13′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/damsis/
 Dhāt al-Ṣafā,,,,1,0,0,https://geniza.princeton.edu/places/dhat-al-safa/
 Fāknūr,"Barkur, فاكنور","13° 27′ 36″ N, 74° 45′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/faknur/
@@ -32,7 +32,7 @@ Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,1,0,0,https://geniza.pri
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,0,1,0,https://geniza.princeton.edu/places/fez/
 Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,66,30,1,https://geniza.princeton.edu/places/fustat/
 Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,https://geniza.princeton.edu/places/ghadames/
-Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,4,4,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,5,4,0,https://geniza.princeton.edu/places/jerusalem/
 Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://geniza.princeton.edu/places/jurbattan/
 Kūlam,"Kollam, Quilon","8° 53′ 24″ N, 76° 36′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/kulam/
 London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/london/
@@ -46,12 +46,15 @@ Minyat Ziftā,,"30° 42′ 36″ N, 31° 14′ 23″ E",,2,0,0,https://geniza.pr
 Mirbāṭ,,"16° 59′ 16″ N, 54° 41′ 31″ E",,6,0,0,https://geniza.princeton.edu/places/mirbat/
 Mosul,"אלמוצל, الموصل","36° 20′ 24″ N, 43° 7′ 48″ E",,9,0,0,https://geniza.princeton.edu/places/mosul/
 Nafūsa,Jebel Nafūsa,"31° 51′ 53″ N, 11° 47′ 35″ E","The Nafusa mountains (Jebel Nafusa) or sometimes known simply as Nafusa, is a mountain range in modern-day western Libya. A not insignificant number of Geniza merchants hailed from Nafusa, but it is technically not a settlement location itself. Rather, the mountain is home to several towns and cities, most notably Zintan, Nalut, Jadu, Gharyan, Yefren, Kabaw, and others.",1,1,0,https://geniza.princeton.edu/places/nafusa/
+Ouarsenis,Wānsharīs,"35° 52′ 0″ N, 1° 37′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/oarsenis/
 Palermo,,"38° 6′ 39″ N, 13° 21′ 7″ E",,12,13,3,https://geniza.princeton.edu/places/palermo/
 Qabīl,,"31° 4′ 59″ N, 30° 30′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/qabil/
 Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,1,3,0,https://geniza.princeton.edu/places/qabis/
 Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,4,0,0,https://geniza.princeton.edu/places/qalyub/
 Qayrawān,Kairouan,"35° 40′ 1″ N, 10° 6′ 3″ E",,11,7,0,https://geniza.princeton.edu/places/qayrawan/
 Qūṣ,,"25° 55′ 47″ N, 32° 46′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/qus/
+Rosetta,Rashīd,"31° 23′ 58″ N, 30° 25′ 1″ E",,1,0,0,https://geniza.princeton.edu/places/rosetta/
+Ṣā,"Sais, Ṣā al-Ḥajar","30° 57′ 52″ N, 30° 45′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/sa/
 Sciacca,,"37° 30′ 32″ N, 13° 5′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/sciacca/
 Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,2,1,1,https://geniza.princeton.edu/places/sfax/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
