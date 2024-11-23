@@ -1,6 +1,6 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
 Aden,,"12° 47′ 28″ N, 44° 59′ 7″ E",,6,3,0,https://geniza.princeton.edu/places/aden/
-Aleppo,"חלב, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/aleppo/
+Aleppo,"חלב, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/aleppo/
 Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,50,19,0,https://geniza.princeton.edu/places/alexandria/
 al-Gharbiyya,,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,1,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
 al-Maḥalla al-Kubrā,al-Maḥalla,"30° 58′ 11″ N, 31° 9′ 36″ E",,2,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
@@ -8,6 +8,7 @@ al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,7,1,0,http
 Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,2,0,0,https://geniza.princeton.edu/places/almeria/
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,2,0,0,https://geniza.princeton.edu/places/al-ramla/
+Antioch,Antakya,"36° 12′ 23″ N, 36° 9′ 25″ E",,1,0,0,https://geniza.princeton.edu/places/antioch/
 Ascalon,"אשקלון, عسقلان","31° 40′ 12″ N, 34° 34′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/ascalon/
 Asyūṭ,,"27° 10′ 59″ N, 31° 10′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/asyut/
 Aṭfīḥ,"Aphroditopolis, אתפיח, أطفيح","29° 25′ 12″ N, 31° 15′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/atfih/
@@ -26,19 +27,23 @@ Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","
 Cairo,,"30° 3′ 6″ N, 31° 15′ 41″ E",,7,1,0,https://geniza.princeton.edu/places/cairo/
 Candia,Heraklion,"35° 20′ 27″ N, 25° 8′ 53″ E",,1,0,0,https://geniza.princeton.edu/places/candia/
 Castrogiovanni,Enna,"37° 33′ 46″ N, 14° 16′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/castrogiovanni/
+Chios,,"38° 22′ 7″ N, 26° 8′ 13″ E",,1,0,0,https://geniza.princeton.edu/places/chios/
+Constantinople,Istanbul,"41° 0′ 54″ N, 28° 58′ 46″ E",,1,0,0,https://geniza.princeton.edu/places/constantinople/
 Corfu,,"39° 37′ 26″ N, 19° 55′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/corfu/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/dahlak/
+Damascus,Dimashq,"33° 30′ 37″ N, 36° 16′ 41″ E",,1,0,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,5,0,0,https://geniza.princeton.edu/places/damietta/
 Damsīs,,"30° 49′ 12″ N, 31° 13′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/damsis/
 Dhāt al-Ṣafā,,,,1,0,0,https://geniza.princeton.edu/places/dhat-al-safa/
 Fāknūr,"Barkur, فاكنور","13° 27′ 36″ N, 74° 45′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/faknur/
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,1,0,0,https://geniza.princeton.edu/places/fansur/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,0,1,0,https://geniza.princeton.edu/places/fez/
-Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,81,30,1,https://geniza.princeton.edu/places/fustat/
+Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,82,30,1,https://geniza.princeton.edu/places/fustat/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,https://geniza.princeton.edu/places/ghadames/
 Hebron,Ḥevron,"31° 31′ 45″ N, 35° 5′ 37″ E",,3,0,0,https://geniza.princeton.edu/places/hebron/
 Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/izmir/
+Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,1,0,0,https://geniza.princeton.edu/places/jaffa/
 Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,11,4,0,https://geniza.princeton.edu/places/jerusalem/
 Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://geniza.princeton.edu/places/jurbattan/
 Kūlam,"Kollam, Quilon","8° 53′ 24″ N, 76° 36′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/kulam/
@@ -64,16 +69,19 @@ Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,1,3,0,https:/
 Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,4,0,0,https://geniza.princeton.edu/places/qalyub/
 Qayrawān,Kairouan,"35° 40′ 1″ N, 10° 6′ 3″ E",,12,7,0,https://geniza.princeton.edu/places/qayrawan/
 Qūṣ,,"25° 55′ 47″ N, 32° 46′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/qus/
+Rhodes,רודס,"36° 26′ 8″ N, 28° 13′ 19″ E",,1,0,0,https://geniza.princeton.edu/places/rhodes/
 Rome,,"41° 53′ 48″ N, 12° 28′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/rome/
 Rosetta,Rashīd,"31° 23′ 58″ N, 30° 25′ 1″ E",,3,0,0,https://geniza.princeton.edu/places/rosetta/
 Ṣā,"Sais, Ṣā al-Ḥajar","30° 57′ 52″ N, 30° 45′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/sa/
-Thessaloniki,Salonica,"40° 37′ 45″ N, 22° 56′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/salonica/
+Thessaloniki,Salonica,"40° 37′ 45″ N, 22° 56′ 50″ E",,3,0,0,https://geniza.princeton.edu/places/salonica/
 Sciacca,,"37° 30′ 32″ N, 13° 5′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/sciacca/
 Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,2,1,1,https://geniza.princeton.edu/places/sfax/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
 Shingli,Kodungallur,"10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
 Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,"31° 16′ 48″ N, 4° 16′ 48″ W",,0,1,0,https://geniza.princeton.edu/places/sijilmasa/
+Silifke,Seleucia,"36° 22′ 39″ N, 33° 56′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/silifke/
+Skopje,אישקופייה,"41° 59′ 47″ N, 21° 25′ 53″ E",,1,0,0,https://geniza.princeton.edu/places/skopje/
 Sūsa,"Soussa, Sousse","35° 49′ 47″ N, 10° 37′ 48″ E",,2,0,0,https://geniza.princeton.edu/places/susa/
 Suwākin,,"19° 6′ 0″ N, 37° 19′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/suwakin/
 Tānā,"Thana, Thane","19° 11′ 49″ N, 72° 58′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/tana/
@@ -92,3 +100,4 @@ Valencia,,"39° 28′ 10″ N, 0° 22′ 38″ E",,2,0,0,https://geniza.princeto
 Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,2,0,0,https://geniza.princeton.edu/places/venice/
 Wārjalān,Ouargla,"31° 56′ 57″ N, 5° 19′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,"32° 11′ 16″ N, 46° 17′ 52″ E",,1,0,0,https://geniza.princeton.edu/places/wasit/
+Zinjibār,,"13° 7′ 40″ N, 45° 22′ 48″ E",,1,0,0,https://geniza.princeton.edu/places/zinjibar/
