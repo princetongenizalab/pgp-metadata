@@ -22,7 +22,7 @@ https://geohack.toolforge.org/geohack.php?params=32.4983_N_20.8928_E_globe:earth
 Baṣra,البصرة,"30° 30′ 54″ N, 47° 48′ 36″ E",,2,0,0,https://geniza.princeton.edu/places/basra/
 Beirut,Bayrūt,"33° 53′ 18″ N, 35° 29′ 43″ E",,2,0,0,https://geniza.princeton.edu/places/beirut/
 Bharuch,"Bharutkutccha, Broach","21° 41′ 59″ N, 72° 59′ 23″ E",,4,0,0,https://geniza.princeton.edu/places/bharuch/
-Bilbays,Bulbays,"30° 25′ 12″ N, 31° 33′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/bilbays/
+Bilbays,Bulbays,"30° 25′ 12″ N, 31° 33′ 35″ E",,2,1,0,https://geniza.princeton.edu/places/bilbays/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 10′ 12″ N, 31° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/bush/
 Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/busir/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/caesarea/
@@ -34,7 +34,7 @@ Constantinople,Istanbul,"41° 0′ 54″ N, 28° 58′ 46″ E",,1,0,0,https://g
 Corfu,,"39° 37′ 26″ N, 19° 55′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/corfu/
 Cyprus,,"35° 5′ 42″ N, 33° 12′ 12″ E",,6,0,0,https://geniza.princeton.edu/places/cyprus/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/dahlak/
-Damascus,Dimashq,"33° 30′ 37″ N, 36° 16′ 41″ E",,1,0,0,https://geniza.princeton.edu/places/damascus/
+Damascus,Dimashq,"33° 30′ 37″ N, 36° 16′ 41″ E",,2,0,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,5,0,0,https://geniza.princeton.edu/places/damietta/
 Damsīs,,"30° 49′ 12″ N, 31° 13′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/damsis/
 Dhāt al-Ṣafā,,,,1,0,0,https://geniza.princeton.edu/places/dhat-al-safa/
@@ -49,6 +49,7 @@ Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,1,0,0,https://geniza.princ
 Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,2,0,0,https://geniza.princeton.edu/places/jaffa/
 Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,12,4,0,https://geniza.princeton.edu/places/jerusalem/
 Jubayl,Byblos,"34° 7′ 24″ N, 35° 39′ 6″ E",,1,0,0,https://geniza.princeton.edu/places/jubayl/
+Jūjar,,"31° 3′ 0″ N, 31° 20′ 41″ E","31.0406° N, ° E",1,0,0,https://geniza.princeton.edu/places/jujar/
 Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://geniza.princeton.edu/places/jurbattan/
 Kūlam,"Kollam, Quilon","8° 53′ 24″ N, 76° 36′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/kulam/
 London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/london/
