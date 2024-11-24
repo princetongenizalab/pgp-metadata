@@ -10,7 +10,7 @@ Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,2,0,0,https://geniza.princeton.
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,3,0,0,https://geniza.princeton.edu/places/al-ramla/
 Antioch,Antakya,"36° 12′ 23″ N, 36° 9′ 25″ E",,1,0,0,https://geniza.princeton.edu/places/antioch/
-Ascalon,"אשקלון, عسقلان","31° 40′ 12″ N, 34° 34′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/ascalon/
+Ascalon,"אשקלון, عسقلان","31° 40′ 12″ N, 34° 34′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/ascalon/
 Asyūṭ,,"27° 10′ 59″ N, 31° 10′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/asyut/
 Aṭfīḥ,"Aphroditopolis, אתפיח, أطفيح","29° 25′ 12″ N, 31° 15′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/atfih/
 ʿAydhāb,,"22° 19′ 12″ N, 36° 30′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/aydhab/
@@ -26,7 +26,7 @@ Bilbays,Bulbays,"30° 25′ 12″ N, 31° 33′ 35″ E",,2,1,0,https://geniza.p
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 10′ 12″ N, 31° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/bush/
 Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/busir/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,,"30° 3′ 6″ N, 31° 15′ 41″ E",,7,1,0,https://geniza.princeton.edu/places/cairo/
+Cairo,,"30° 3′ 6″ N, 31° 15′ 41″ E",,10,1,0,https://geniza.princeton.edu/places/cairo/
 Candia,Heraklion,"35° 20′ 27″ N, 25° 8′ 53″ E",,1,0,0,https://geniza.princeton.edu/places/candia/
 Castrogiovanni,Enna,"37° 33′ 46″ N, 14° 16′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/castrogiovanni/
 Chios,,"38° 22′ 7″ N, 26° 8′ 13″ E",,1,0,0,https://geniza.princeton.edu/places/chios/
@@ -34,14 +34,14 @@ Constantinople,Istanbul,"41° 0′ 54″ N, 28° 58′ 46″ E",,1,0,0,https://g
 Corfu,,"39° 37′ 26″ N, 19° 55′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/corfu/
 Cyprus,,"35° 5′ 42″ N, 33° 12′ 12″ E",,6,0,0,https://geniza.princeton.edu/places/cyprus/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/dahlak/
-Damascus,Dimashq,"33° 30′ 37″ N, 36° 16′ 41″ E",,2,0,0,https://geniza.princeton.edu/places/damascus/
+Damascus,Dimashq,"33° 30′ 37″ N, 36° 16′ 41″ E",,19,0,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,5,0,0,https://geniza.princeton.edu/places/damietta/
 Damsīs,,"30° 49′ 12″ N, 31° 13′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/damsis/
 Dhāt al-Ṣafā,,,,1,0,0,https://geniza.princeton.edu/places/dhat-al-safa/
 Fāknūr,"Barkur, فاكنور","13° 27′ 36″ N, 74° 45′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/faknur/
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,1,0,0,https://geniza.princeton.edu/places/fansur/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,0,1,0,https://geniza.princeton.edu/places/fez/
-Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,83,30,1,https://geniza.princeton.edu/places/fustat/
+Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,84,30,1,https://geniza.princeton.edu/places/fustat/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,https://geniza.princeton.edu/places/ghadames/
 Hebron,Ḥevron,"31° 31′ 45″ N, 35° 5′ 37″ E",,3,0,0,https://geniza.princeton.edu/places/hebron/
@@ -85,6 +85,7 @@ Sciacca,,"37° 30′ 32″ N, 13° 5′ 20″ E",,1,0,0,https://geniza.princeton
 Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,2,1,1,https://geniza.princeton.edu/places/sfax/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
 Shingli,Kodungallur,"10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
+Sidon,صيدا,"33° 33′ 37″ N, 35° 22′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,"31° 16′ 48″ N, 4° 16′ 48″ W",,0,1,0,https://geniza.princeton.edu/places/sijilmasa/
 Silifke,Seleucia,"36° 22′ 39″ N, 33° 56′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/silifke/
@@ -102,7 +103,7 @@ Tripoli (Lebanon),,"34° 26′ 12″ N, 35° 50′ 3″ E",,1,0,0,https://geniza
 Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus","32° 53′ 24″ N, 13° 11′ 23″ E",,3,0,0,https://geniza.princeton.edu/places/tripoli-libya/
 Tunis,تونس,"36° 48′ 21″ N, 10° 10′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/tunis/
 Turūja,تروجة,"30° 30′ 0″ N, 30° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/turuja/
-Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/tyre/
+Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,3,0,0,https://geniza.princeton.edu/places/tyre/
 Urbus,"Arbus, Lares","36° 4′ 30″ N, 8° 50′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/urbus/
 ואדי לינפש,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
 Valencia,,"39° 28′ 10″ N, 0° 22′ 38″ E",,2,0,0,https://geniza.princeton.edu/places/valencia/
