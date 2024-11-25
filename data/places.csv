@@ -1,5 +1,5 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
-Abwān,Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",0,0,0,https://geniza.princeton.edu/places/abwan/
+Abwān,Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",1,0,0,https://geniza.princeton.edu/places/abwan/
 Acre,"עכו, عكا","32° 55′ 40″ N, 35° 4′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/acre/
 Aden,,"12° 47′ 28″ N, 44° 59′ 7″ E",,6,3,0,https://geniza.princeton.edu/places/aden/
 Aleppo,"חלב, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/aleppo/
@@ -24,6 +24,9 @@ Baṣra,البصرة,"30° 30′ 54″ N, 47° 48′ 36″ E",,2,0,0,https://gen
 Beirut,Bayrūt,"33° 53′ 18″ N, 35° 29′ 43″ E",,2,0,0,https://geniza.princeton.edu/places/beirut/
 Bharuch,"Bharutkutccha, Broach","21° 41′ 59″ N, 72° 59′ 23″ E",,4,0,0,https://geniza.princeton.edu/places/bharuch/
 Bilbays,Bulbays,"30° 25′ 12″ N, 31° 33′ 35″ E",,2,1,0,https://geniza.princeton.edu/places/bilbays/
+Būra,,"31° 24′ 0″ N, 31° 43′ 38″ E","""'A city on the seacoast near Damietta, from which come the būrī turbans and the būrī fish (=mullet).' Yāqūt, Muʿjam 1, p. 755; lying midway between Fāraskūr and Damietta.""  See Golb, ""The Topography of the Jews of Medieval Egypt,"" pp. 121–22.
+
+Apparently on the site of present-day Kafr al-Baṭṭīkh.",1,0,0,https://geniza.princeton.edu/places/bura/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 10′ 12″ N, 31° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/bush/
 Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/busir/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/caesarea/
@@ -35,14 +38,14 @@ Constantinople,Istanbul,"41° 0′ 54″ N, 28° 58′ 46″ E",,1,0,0,https://g
 Corfu,,"39° 37′ 26″ N, 19° 55′ 12″ E",,2,0,0,https://geniza.princeton.edu/places/corfu/
 Cyprus,,"35° 5′ 42″ N, 33° 12′ 12″ E",,6,0,0,https://geniza.princeton.edu/places/cyprus/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/dahlak/
-Damascus,"Dimashq, חדרך","33° 30′ 37″ N, 36° 16′ 41″ E",,23,0,0,https://geniza.princeton.edu/places/damascus/
-Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,5,0,0,https://geniza.princeton.edu/places/damietta/
+Damascus,"Dimashq, חדרך","33° 30′ 37″ N, 36° 16′ 41″ E",,24,0,0,https://geniza.princeton.edu/places/damascus/
+Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,6,0,0,https://geniza.princeton.edu/places/damietta/
 Damsīs,,"30° 49′ 12″ N, 31° 13′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/damsis/
 Dhāt al-Ṣafā,,,,1,0,0,https://geniza.princeton.edu/places/dhat-al-safa/
 Fāknūr,"Barkur, فاكنور","13° 27′ 36″ N, 74° 45′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/faknur/
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,1,0,0,https://geniza.princeton.edu/places/fansur/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,0,1,0,https://geniza.princeton.edu/places/fez/
-Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,85,30,1,https://geniza.princeton.edu/places/fustat/
+Fusṭāṭ,,"30° 0′ 17″ N, 31° 14′ 15″ E",,86,30,1,https://geniza.princeton.edu/places/fustat/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,https://geniza.princeton.edu/places/ghadames/
 Hama,Ḥamā,"35° 8′ 26″ N, 36° 45′ 19″ E",,1,0,0,https://geniza.princeton.edu/places/hama/
@@ -54,6 +57,7 @@ Jubayl,Byblos,"34° 7′ 24″ N, 35° 39′ 6″ E",,1,0,0,https://geniza.princ
 Jūjar,,"31° 3′ 0″ N, 31° 20′ 41″ E","31.0406° N, ° E",1,0,0,https://geniza.princeton.edu/places/jujar/
 Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://geniza.princeton.edu/places/jurbattan/
 Kūlam,"Kollam, Quilon","8° 53′ 24″ N, 76° 36′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/kulam/
+Latakia,al-Lādhiqiyya,"35° 32′ 30″ N, 35° 47′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/latakia/
 London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/london/
 Lucena,,"37° 24′ 35″ N, 4° 28′ 59″ W",,2,1,0,https://geniza.princeton.edu/places/lucena/
 Lukk,,"32° 0′ 0″ N, 24° 45′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/lukk/
@@ -107,7 +111,7 @@ Tripoli (Lebanon),,"34° 26′ 12″ N, 35° 50′ 3″ E",,1,0,0,https://geniza
 Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus","32° 53′ 24″ N, 13° 11′ 23″ E",,3,0,0,https://geniza.princeton.edu/places/tripoli-libya/
 Tunis,تونس,"36° 48′ 21″ N, 10° 10′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/tunis/
 Turūja,تروجة,"30° 30′ 0″ N, 30° 6′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/turuja/
-Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,3,0,0,https://geniza.princeton.edu/places/tyre/
+Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,4,0,0,https://geniza.princeton.edu/places/tyre/
 Urbus,"Arbus, Lares","36° 4′ 30″ N, 8° 50′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/urbus/
 ואדי לינפש,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
 Valencia,,"39° 28′ 10″ N, 0° 22′ 38″ E",,2,0,0,https://geniza.princeton.edu/places/valencia/
