@@ -1,6 +1,6 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,related_people_count,related_documents_count,family_traces_roots_to,home_base,occasional_trips_to,url
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,April 1115 CE,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",0,1,,,,
-ʿAbd al-Raḥmān,,Male,None,,,,0,0,,,,
+ʿAbd al-Raḥmān,,Male,None,,,,0,1,,,,
 Abū al-Faḍl al-Ṣayrafī Maṣliah b. Meshullam,,Male,Jewish community member,"26 April, 1096 – 24 May, 1096 CE",,,0,1,,,,
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,1029 – 1030 CE,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",0,1,,,,
 Abū ʿAlī Shemuʾel al-Kohen,Abū ʿAlī al-Kohen,Male,Jewish community member,"3 September, 1065 – 24 May, 1096 CE",,,1,2,,,,
@@ -32,7 +32,7 @@ Abū Saʿīd b. Abū l-Ḥasan al-Abzārī,,Male,None,"14 April, 1137 – 23 Apr
 Abū Yaʿqūb Ibn al-Ḥarīrī,,Male,None,,,,0,1,,,,
 Abū Zikrī al-Ṣāʾigh,,Male,None,"20 October, 1137 CE",,,0,1,,,,
 Abū Zikrī Kohen,Abū Zikrī Yehuda b. Yosef ha-Kohen al-Sijilmāsī,Male,Jewish community member,"20 October, 1137 – 1148 CE",,Representative of the merchants (wakīl al-tujjār) in Fustat in the 1120s and 1130s and an Indian Ocean trader. Originally from Sijilmāsa.,3,5,Sijilmāsa,Fustat,,https://geniza.princeton.edu/people/abu-zikri-kohen/
-Abū Zikrī Yaḥyā b. Ibrahīm al-Fāsī,,Male,None,,,,0,0,,,,
+Abū Zikrī Yaḥyā b. Ibrahīm al-Fāsī,,Male,None,,,,0,1,,,,
 Aharon b. Hillel ha-Kohen,,Male,Jewish community member,,,,1,1,,,,
 Aharon b. Yeshuʿa ha-Rofeʾ Ibn al-ʿAmmānī,,Male,Jewish communal official,,,,0,1,,,,https://geniza.princeton.edu/people/aharon-b-yeshu-a-ha-rofe-ibn-al-ammani/
 Al-Afḍal b. Badr al-Jamālī,,Male,State official,,1094/1121,"Al-Afḍal b. Badr al-Jamālī (d. 1121), was the Fatimid chief wazīr and commander of forces (amīr al-Juyūsh). He was the son of Badr al-Jamālī (d. 1094), the Fatimid wazīr and army commander, and was in office from 1094–1121.",1,4,,,,https://geniza.princeton.edu/people/al-afdal-b-badr-al-jamali/
@@ -45,7 +45,7 @@ Ammār b. Ezrūn al-Madīnī,,Male,Jewish community member,,,According to Gil he
 ʿAmmār b. Farrāḥ al-Iṭrābulsī,,Male,Jewish community member,"3 September, 1065 – 22 September, 1066 CE",,,0,1,,,,
 ʿAmram b. Aharon ha-Kohen,,Male,None,,,,0,1,,,,
 ʿAmram b. Ezra,עמרם הזקן השלחני בר עזרא ראש הקהל אלאסכנדראני,Male,Jewish community member,,,,1,0,Alexandria,Fustat,,
-ʿArūs b. Yosef,Abū l-Afrāḥ ʿArūs b. Yūsuf,Male,Jewish community member,,,,0,4,,,,
+ʿArūs b. Yosef,Abū l-Afrāḥ ʿArūs b. Yūsuf,Male,Jewish community member,,,,0,5,,,,
 Arye b. Yehuda,,Male,Jewish community member,,,,1,0,,,,
 ʿAṭāʾ b. Isḥāq b. Barhūn al-Tāhartī,Abū Sahl,Male,Jewish community member,,,,15,0,,Alexandria,,
 Avraham b. Aharon ha-Kohen,,Male,Jewish community member,,,,0,1,,,,
@@ -62,7 +62,7 @@ Avraham Maimonides,"Abū l-Munā, Avraham Maymūnī, Avraham b. Moshe b. Maymūn
 ʿAzīz b. Ghanāʾim ha-Levi,,Male,Jewish community member,"20 April, 1270 CE",,,0,1,,,,
 Badr al-Jamālī,,Male,State official,"December 1087 – 10 April, 1093 CE",1073/1094,"Fatimid chief wazir and army commander who served under al-Mustanṣir (d. 1094) from 1073-1094. Originally an Armenian and a convert to Islam, he was initially deployed in Acre before he arrived in Egypt in 1073.",0,4,,,,https://geniza.princeton.edu/people/badr-al-jamali/
 Bahāʾ al-Dīn Qarāqūsh b. ʿAbdallāh al-Asadī,,Male,State official,1168 – 1201 CE,1168/1201,Eunuch military commander in the service of Saladin and his successors. Died in 1201.,0,4,,,,https://geniza.princeton.edu/people/baha-al-din-qaraqush-b-abdallah-al-asadi/
-Barakāt b. Khulayf,,Male,None,,,,0,0,,,,https://geniza.princeton.edu/people/barakat-b-khulayf/
+Barakāt b. Khulayf,,Male,None,,,,0,1,,,,https://geniza.princeton.edu/people/barakat-b-khulayf/
 Barhūn b. Isḥāq b. Barhūn al-Tāhartī,Abū Isḥāq,Male,Jewish community member,"June 1047 – 9 August, 1048 CE",,,15,3,,"Fustat, Qayrawān",,
 Barhūn b. Ismāʿīl b. Barhūn al-Tāhartī,,Male,Jewish community member,,,,11,1,,Fustat,,
 Barhūn b. Mūsā b. Barhūn al-Tāhartī,,Male,Jewish community member,"18 August, 1056 CE",,,15,3,,Alexandria,,
@@ -78,6 +78,7 @@ Bū l-Makārim al-Ṣā'igh,Yosef b. Shemuel,Male,Jewish community member,,,,0,2
 Bū l-Makārim Moshe b. Yeḥezqel ha-Levi,,Male,None,,,,0,1,,,,
 Daniʾel b. Yiṣḥaq ha-Ḥazzan,,Male,None,"15 January, 1106 – 30 January, 1112 CE",,,0,2,,,,https://geniza.princeton.edu/people/dani-el-b-yishaq-ha-hazzan/
 Dāʾūd b. Azhar,,Male,Jewish community member,"28 October, 1104 CE",,,0,2,,,,
+Dāʾūd b. Naḥum b. Ḥakmūn,,Male,None,,,,0,1,,,,
 David b. Ṣemaḥ,,Male,Jewish communal official,1040 – 1047 CE,,Qaraite Nasi,0,1,,,,https://geniza.princeton.edu/people/david-b-semah/
 David b. Yiṣḥaq ha-Levi,,Male,None,,,Qaraite courtier,0,1,,,,https://geniza.princeton.edu/people/david-b-yishaq-ha-levi/
 David I Maimonides,David b. Avraham b. Moshe Maymūnī,Male,Jewish communal official,"25 March, 1260 – 1288 CE",1237/1300,,0,4,,,,https://geniza.princeton.edu/people/david-i-maimonides/
@@ -149,7 +150,7 @@ Labrāṭ b. Moshe b. Sughmār,,Male,Jewish community member,August 1056 CE,,,1,
 Maḍmūn b. Ḥasan,Maḍmūn b. Yefet,Male,Jewish communal official,,,Representative of the merchants in Aden,1,0,,Aden,,https://geniza.princeton.edu/people/madmun-b-hasan/
 Maḥrūz b. Yaʿaqov,,Male,Jewish community member,1145 – 1148 CE,,Nākhudā (shipowner) traveling between Aden and India,1,1,,,,
 Moshe Maimonides,"Maimonides, Moses Maimonides, Moshe b. Maymūn",Male,Jewish communal official,,,[placeholder],0,3,,,,https://geniza.princeton.edu/people/maimonides/
-Makhlūf b. Mūsā Ibn al-Yatīm,"Ibn ʿAynayn Shirra, Ibn ʿAynayn Sārra, Makhlūf al-Nafūsī, Makhlūf b. ʿAyn Sārra",Male,Jewish community member,"28 October, 1103 – 5 August, 1141 CE",,"Trader of the late eleventh and early twelfth century. An import-export merchant, he traveled between Iberia and India. Had legal disputes with Ibn Yijū in which he also tried to involve Maḍmūn b. Yūsuf. Ultimately, Maḍmūn paid Makhlūf 300 dinars on behalf of Ibn Yijū and Makhlūf dropped his claims.",0,9,,Alexandria,,
+Makhlūf b. Mūsā Ibn al-Yatīm,"Ibn ʿAynayn Shirra, Ibn ʿAynayn Sārra, Makhlūf al-Nafūsī, Makhlūf b. ʿAyn Sārra",Male,Jewish community member,"28 October, 1103 – 5 August, 1141 CE",,"Trader of the late eleventh and early twelfth century. An import-export merchant, he traveled between Iberia and India. Had legal disputes with Ibn Yijū in which he also tried to involve Maḍmūn b. Yūsuf. Ultimately, Maḍmūn paid Makhlūf 300 dinars on behalf of Ibn Yijū and Makhlūf dropped his claims.",0,10,,Alexandria,,https://geniza.princeton.edu/people/makhluf-b-musa-ibn-al-yatim/
 Makhlūf Neʾeman ha-Yeshiva,,Male,Jewish community member,,,,2,1,,,,
 Makīn al-Dawla,,Male,State official,,,"The amīr Thiqat al-Mulk Makīn al-Dawla was a state official during the period of the Fatimid caliph al-Ḥakim. Officials by the same title also existed in the periods of al-Mustanṣir and al-Āmir (see T-S 10J14.24, T-S 13J22.23).",0,1,,,,https://geniza.princeton.edu/people/makin-al-dawla/
 Mardūkh b. Mūsā,,Male,Jewish community member,1040 – 1096 CE,,,2,19,,Alexandria,,https://geniza.princeton.edu/people/mardukh-b-musa/
@@ -183,7 +184,7 @@ Nahray b. Nissim,Abū Yaḥyā,Male,Jewish communal official,"1040 – 10 Novemb
 
 Born around 1025 and descended from a leader (nagid) of the Qayrawan community, Nahray migrated to Egypt around 1040, where he entered the patronage of his relative Barhūn b. Isḥaq Tahertī. At the center of a network of traders plying the Mediterranean in the eleventh century, mostly of North African descent, Nahray was trusted and respected for his ability to determine the market value of commodities. After sojourning for a time in Alexandria, the center of flax commerce, he eventually settled in Fustat, though he regularly traveled throughout North Africa and visited Israel at least once. His commercial pursuits involved trade, money-changing, and debt collection by power of attorney.
 
-Having studied at the Qayrawan academy of Nissim b. Jacob, Nahray was learned in rabbinic literature; he acted as a professional jurisconsult in Fustat and responded to queries from throughout North Africa. He also maintained ties to the Jerusalem academy and received two honorary titles therefrom. Nahray headed the congregation of ""Babylonian"" Jews in Fustat and even, for a time, also managed the affairs of the Palestinian synagogue. He supported the Palestinian nasi David ben Daniel in his conflict with Mevorakh ben Sa'adya between 1082 and 1094, but threw his support of the latter upon his restoration to the headship. In addition, Nahray interacted with officials of the Fāṭimid caliphate on behalf of members of the Rabbanite community and was a generous patron of the needy, ensuring that funds were paid to the heirs of those who perished in international commerce and acting as an agent for orphans. He also raised funds for the redemption of captives, in one case mobilizing the community to free Jewish merchants held by Byzantine forces in Amalfi. (From Phillip Ackerman-Lieberman, ""Nahray ben Nissim"" in Encyclopedia of Jews in the Islamic World)",30,48,Qayrawān,Fustat,"Alexandria, Jerusalem",https://geniza.princeton.edu/people/nahray-b-nissim/
+Having studied at the Qayrawan academy of Nissim b. Jacob, Nahray was learned in rabbinic literature; he acted as a professional jurisconsult in Fustat and responded to queries from throughout North Africa. He also maintained ties to the Jerusalem academy and received two honorary titles therefrom. Nahray headed the congregation of ""Babylonian"" Jews in Fustat and even, for a time, also managed the affairs of the Palestinian synagogue. He supported the Palestinian nasi David ben Daniel in his conflict with Mevorakh ben Sa'adya between 1082 and 1094, but threw his support of the latter upon his restoration to the headship. In addition, Nahray interacted with officials of the Fāṭimid caliphate on behalf of members of the Rabbanite community and was a generous patron of the needy, ensuring that funds were paid to the heirs of those who perished in international commerce and acting as an agent for orphans. He also raised funds for the redemption of captives, in one case mobilizing the community to free Jewish merchants held by Byzantine forces in Amalfi. (From Phillip Ackerman-Lieberman, ""Nahray ben Nissim"" in Encyclopedia of Jews in the Islamic World)",30,49,Qayrawān,Fustat,"Alexandria, Jerusalem",https://geniza.princeton.edu/people/nahray-b-nissim/
 Naran b. Avraham ha-Kohen Sholal,,Male,Jewish communal official,,,Nagid from ca. 1484 until his death in 1502.,0,3,,,,https://geniza.princeton.edu/people/naran-b-avraham-ha-kohen-sholal/
 Nāṣir al-Adīb al-ʿIbrī,,Male,Jewish community member,,,"Poet active ca. 1300 CE. See Alan Elbaum, ""Nāṣir, the Hebrew Littérateur,"" Cambridge University Library, Fragment of the Month, October 2021.",0,1,,,,https://geniza.princeton.edu/people/nasir-al-adib-al-ibri/
 Nāṣir al-Dawla,,Male,State official,1057 – 1091 CE,,,0,1,,,,
@@ -299,5 +300,5 @@ Yūsuf al-Fāsī,,Male,Jewish community member,May 1069 CE,,,1,1,,,,
 Yūsuf b. Faraḥ al-Qābisī,,Male,Jewish community member,May 1069 CE,,,1,2,Qābis,,,
 Yūsuf b. Mūsā b. Barhūn al-Tāhartī,Abū Saʿīd,Male,Jewish community member,"2 February, 1063 CE",,,16,1,,,Alexandria,
 Zakkār b. ʿAmmār al-Madīnī,,Male,Jewish communal official,May 1069 CE,,,3,3,,Palermo,,https://geniza.princeton.edu/people/zakkar-b-ammar-al-madini/
-Zayn Ibn al-Ger,,Male,None,,,,0,0,,,,https://geniza.princeton.edu/people/zayn-ibn-al-ger/
+Zayn Ibn al-Ger,,Male,None,,,,0,1,,,,https://geniza.princeton.edu/people/zayn-ibn-al-ger/
 Zekharya b. Ḥayyim,,Male,Jewish community member,,,"Late 12th century (letter from 1172), traded in Palermo. Unconfirmed but might be a descendant of the 'Ammar family in 11th century Palermo.",0,0,,Palermo,,
