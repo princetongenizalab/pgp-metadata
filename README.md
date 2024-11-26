@@ -14,3 +14,5 @@ Data files can be viewed, filtered, and downloaded with Flat GitHub's Flat Viewe
 - [fragments.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/fragments.csv)
 - [sources.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/sources.csv)
 - [footnotes.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/footnotes.csv)
+- [people.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/people.csv)
+- [places.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/places.csv)
