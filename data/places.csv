@@ -6,16 +6,16 @@ Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,14,3,0,ht
 Akhmīm,Ikhmīm,"26° 33′ 46″ N, 31° 44′ 39″ E",,5,0,0,https://geniza.princeton.edu/places/akhmim/
 al-ʿAṣāfira,,"31° 10′ 12″ N, 32° 0′ 42″ E",,1,0,0,https://geniza.princeton.edu/places/al-asafira/
 Aleppo,"חלב, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,3,0,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,61,19,0,https://geniza.princeton.edu/places/alexandria/
+Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,62,19,0,https://geniza.princeton.edu/places/alexandria/
 al-Gharbiyya,,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,1,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
 al-Maḥalla al-Kubrā,al-Maḥalla,"30° 58′ 11″ N, 31° 9′ 36″ E",,5,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,9,1,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,10,1,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/al-manzala/
 Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,2,0,0,https://geniza.princeton.edu/places/almeria/
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,3,0,0,https://geniza.princeton.edu/places/al-ramla/
 al-Ṭūr,,"28° 15′ 14″ N, 33° 36′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/al-tur/
-al-Ushmūnayn,al-Ashmūnayn,"27° 46′ 53″ N, 30° 48′ 14″ E",,4,0,0,https://geniza.princeton.edu/places/al-ushmunayn/
+al-Ushmūnayn,al-Ashmūnayn,"27° 46′ 53″ N, 30° 48′ 14″ E",,5,0,0,https://geniza.princeton.edu/places/al-ushmunayn/
 Antioch,Antakya,"36° 12′ 23″ N, 36° 9′ 25″ E",,2,0,0,https://geniza.princeton.edu/places/antioch/
 Ascalon,"אשקלון, عسقلان","31° 40′ 12″ N, 34° 34′ 12″ E",,3,0,0,https://geniza.princeton.edu/places/ascalon/
 Ashmūn,Ashmūn Ṭannāḥ,"31° 5′ 48″ N, 31° 40′ 0″ E","""Ashmūn"" in Geniza documents appears to refer to Ashmūn Ṭannāh, present-day Ashmūn al-Rummān. However this identification is not certain in all cases; there is another locality called Ashmūn in al-Minūfiyya (30.2936, 30.9786).  See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 118.",5,0,0,https://geniza.princeton.edu/places/ashmun/
@@ -62,7 +62,7 @@ Dongola,,"19° 8′ 52″ N, 30° 28′ 15″ E",,1,0,0,https://geniza.princeton
 Fāknūr,"Barkur, فاكنور","13° 27′ 36″ N, 74° 45′ 0″ E",,2,0,0,https://geniza.princeton.edu/places/faknur/
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,2,0,0,https://geniza.princeton.edu/places/fansur/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,1,1,0,https://geniza.princeton.edu/places/fez/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,101,30,1,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,102,30,1,https://geniza.princeton.edu/places/fustat/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Genoa,,"44° 24′ 25″ N, 8° 56′ 2″ E",,3,0,0,https://geniza.princeton.edu/places/genoa/
 Ghadames,"Ghadāmis, غدامس","30° 7′ 54″ N, 9° 29′ 42″ E",,1,1,0,https://geniza.princeton.edu/places/ghadames/
@@ -111,7 +111,7 @@ Qabīl,,"31° 4′ 59″ N, 30° 30′ 0″ E",,1,0,0,https://geniza.princeton.e
 Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,1,3,0,https://geniza.princeton.edu/places/qabis/
 Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,4,0,0,https://geniza.princeton.edu/places/qalyub/
 Qaṭya,,"30° 57′ 48″ N, 32° 45′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/qatya/
-Qayrawān,Kairouan,"35° 40′ 1″ N, 10° 6′ 3″ E",,13,7,0,https://geniza.princeton.edu/places/qayrawan/
+Qayrawān,Kairouan,"35° 40′ 1″ N, 10° 6′ 3″ E",,14,7,0,https://geniza.princeton.edu/places/qayrawan/
 Qūṣ,,"25° 55′ 47″ N, 32° 46′ 12″ E",,4,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,,"31° 17′ 57″ N, 34° 14′ 39″ E",,1,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa,רגוס,"36° 55′ 29″ N, 14° 43′ 7″ E",,1,0,0,https://geniza.princeton.edu/places/ragusa/
@@ -126,7 +126,7 @@ Thessaloniki,Salonica,"40° 37′ 45″ N, 22° 56′ 50″ E",,3,0,0,https://ge
 Sammanūd,,"30° 57′ 43″ N, 31° 14′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/sammanud/
 Sanhūr,,"29° 24′ 23″ N, 30° 46′ 16″ E",,1,0,0,https://geniza.princeton.edu/places/sanhur/
 Sciacca,,"37° 30′ 32″ N, 13° 5′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/sciacca/
-Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,4,1,1,https://geniza.princeton.edu/places/sfax/
+Sfax,Ṣafāqis,"34° 44′ 24″ N, 10° 45′ 35″ E",,5,1,1,https://geniza.princeton.edu/places/sfax/
 Shaqqat al-Waʿr,,,Unidentified port near Tobruk,1,0,0,https://geniza.princeton.edu/places/shaqqat-al-wa-r/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
 Shingli,Kodungallur,"10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
