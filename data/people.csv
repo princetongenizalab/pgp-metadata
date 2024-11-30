@@ -1,7 +1,6 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,related_people_count,related_documents_count,family_traces_roots_to,home_base,occasional_trips_to,url
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,April 1115 CE,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",0,1,,,,
 ʿAbd al-Raḥmān,,Male,None,,,,0,1,,,,
-Abū al-Faḍl al-Ṣayrafī Maṣliah b. Meshullam,,Male,Jewish community member,"26 April, 1096 – 24 May, 1096 CE",,,0,1,,,,
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,1029 – 1030 CE,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",0,1,,,,
 Abū ʿAlī Shemuʾel al-Kohen,Abū ʿAlī al-Kohen,Male,Jewish community member,"3 September, 1065 – 24 May, 1096 CE",,,1,2,,,,
 Abū Ibrāhīm b. Barūn,,Male,None,1138 CE,,,0,1,,,,
@@ -15,7 +14,9 @@ Abū l-ʿAlā' Ṣāʿid b. al-Munajjā al-Neʾeman,,Male,Jewish community membe
 Abū l-Barakāt Netanʾel ha- Kohen,,Male,Jewish community member,1029 – 1030 CE,,,0,1,,,,
 Abū l-Bayān b. Barakāt,,Male,Jewish community member,,,Husband of __ bt. Yusuf who buys 1/48th of a dār from her brother.,1,1,,,,
 Abū l-Bayān ha-Ḥazzan,Eitan ha-Ezraḥ,Male,None,,,,0,1,,,,
+Abū l-Bishr Shelomo b. Avraham al-Bazzāz,,Male,None,,,,0,1,,,,
 Abū l-Faḍl b. Barakāt b. al-Maqdisī,,Male,Jewish community member,"7 December, 1188 CE",,"Silk weaver, had four sons.",0,1,,Fustat,,
+Abū l-Faḍl Maṣliah b. Meshullam al-Ṣayrafī,,Male,Jewish community member,"26 April, 1096 – 24 May, 1096 CE",,,0,1,,,,
 Abū l-Fakhr b. Makhlūf,,Male,Jewish community member,,,,2,1,,,,
 Abū l-Faraj b. Yūsuf,,Male,Jewish community member,,,,1,2,,,,
 Abū l-Faraj Nissim b. ʿAmram al-Ṣayrafī,,Male,Jewish community member,,,,0,1,,,,
@@ -24,7 +25,7 @@ Abū l-Ḥasan ʿAlī b. Ḥasan al-ʿAsqalānī,,Male,None,,,,0,1,,,,
 Abū l-Hasan b. Ṭībān,,Male,None,"28 July, 1099 CE",,,0,1,,,,
 Abū l-Ḥasan ʿEli b. HIllel al-Baghdādī,,Male,Jewish community member,,,Son of the scribe and cantor Hillel b. ʿEli. Several documents portray him as a notorious troublemaker.,2,2,,,,https://geniza.princeton.edu/people/abu-l-hasan-eli-b-hillel-al-baghdadi/
 Abū l-Ḥayy Khalīla,,Male,Jewish community member,,,,1,0,,,,
-Abū l-Ḥusayn al-Ḥalabī,,Male,None,"28 July, 1099 CE",,,0,1,,,,
+Abū l-Ḥusayn Yaḥyā al-Ḥalabī al-Ṣayrafī,,Male,None,"27 March, 1096 – February 1100 CE",,,0,5,,,,https://geniza.princeton.edu/people/abu-l-husayn-al-halabi-al-sayrafi/
 Abū l-Khayr Ibn al-Amshāṭī,,Male,None,,,,0,1,,,,
 Shemuʾel b. Yehuda Ibn Asad al-Tājir,Abū l-Maʿālī b. Abū l-Ḥasan,Male,None,"11 January, 1133 – 1164 CE",,,0,15,,,,https://geniza.princeton.edu/people/abu-l-ma-ali-shemuel-b-yehuda/
 Abū l-Maʿālī Yūsuf b. Muḥammad,,Male,None,"3 February, 1199 CE",,,0,1,,,,
@@ -33,6 +34,7 @@ Abū l-Rabīʿ Sulaymān b. ʿImrān,,Male,Jewish community member,,,,0,1,,,,
 Abū l-Rabīʿ Sulaymān b. Yehuda ha-Kohen,,Male,Jewish community member,,,,1,0,,,,https://geniza.princeton.edu/people/abu-l-rabi-sulayman-b-yehuda-ha-kohen/
 Abū l-Surur Faraḥ b. ʿAbbās al-ʿAsqalānī,,Male,None,,,,0,1,,,,
 Abū l-Surur Peraḥya b. Menashshe ha-Levi,,Male,Jewish community member,,,,1,0,,,,
+Abū l-Ṭayyib Mevasser b. Shelomo al-Ṣayrafī,,Male,None,,,,1,3,,,,https://geniza.princeton.edu/people/abu-l-tayyib-mevasser-b-shelomo-al-sayrafi/
 Abū l-Yumn al-Maḥallī,,Male,None,"20 October, 1137 CE",,,0,1,,,,
 Abū Manṣūr Elʿazar b. Yishaq al-Dimashqī,,Male,None,"17 July, 1162 CE",,,0,1,,,,
 Abu Naṣr Yehuda b. Yeshuʿa ha-Levi,,Male,None,"5 September, 1244 – 4 October, 1244 CE",,,0,1,,,,
@@ -46,7 +48,7 @@ Abū Sulaymān Dāʾūd b. Abū l-Khaṣīb Zurʿa,,Male,None,"10 November, 1153
 Abū Yaʿqūb Ibn al-Ḥarīrī,,Male,None,,,,0,1,,,,
 Abū Zikrī al-Ṣāʾigh,,Male,None,"20 October, 1137 CE",,,0,1,,,,
 Abū Zikrī b. ʿAṭiyya,,Male,None,,,,0,1,,,,
-Abū Zikrī Kohen,Abū Zikrī Yehuda b. Yosef ha-Kohen al-Sijilmāsī,Male,Jewish community member,"20 October, 1137 – 1148 CE",,Representative of the merchants (wakīl al-tujjār) in Fustat in the 1120s and 1130s and an Indian Ocean trader. Originally from Sijilmāsa.,3,7,Sijilmāsa,Fustat,,https://geniza.princeton.edu/people/abu-zikri-kohen/
+Abū Zikrī Kohen,Abū Zikrī Yehuda b. Yosef ha-Kohen al-Sijilmāsī,Male,Jewish community member,"20 October, 1137 – 1148 CE",,Representative of the merchants (wakīl al-tujjār) in Fustat in the 1120s and 1130s and an Indian Ocean trader. Originally from Sijilmāsa.,3,8,Sijilmāsa,Fustat,,https://geniza.princeton.edu/people/abu-zikri-kohen/
 Abū Zikrī Yaḥyā b. Ibrahīm al-Fāsī,,Male,None,,,,0,2,,,,https://geniza.princeton.edu/people/abu-zikri-yahya-b-ibrahim-al-fasi/
 ʿAdiyya b. Peraḥya,,Male,None,,,,0,1,,,,
 Aharon b. Hillel ha-Kohen,,Male,Jewish community member,,,,1,1,,,,
@@ -68,7 +70,7 @@ Ammār b. Ezrūn al-Madīnī,,Male,Jewish community member,,,According to Gil he
 ʿAmram b. Ezra,עמרם הזקן השלחני בר עזרא ראש הקהל אלאסכנדראני,Male,Jewish community member,,,,1,0,Alexandria,Fustat,,
 ʿAmram b. Shemarya ha-Kohen,,Male,None,July 1156 CE,,,0,1,,,,
 ʿAmram b. Yiṣḥaq,,Male,None,January 1143 CE,,,0,1,,,,https://geniza.princeton.edu/people/amram-b-yishaq/
-ʿArūs b. Yosef,Abū l-Afrāḥ ʿArūs b. Yūsuf,Male,Jewish community member,,,,0,8,,,,
+ʿArūs b. Yosef,Abū l-Afrāḥ ʿArūs b. Yūsuf,Male,Jewish community member,,,,0,9,,,,
 Arye b. Yehuda,,Male,Jewish community member,,,,1,0,,,,
 ʿAṭāʾ b. Isḥāq b. Barhūn al-Tāhartī,Abū Sahl,Male,Jewish community member,,,,15,0,,Alexandria,,
 Avraham b. Aharon ha-Kohen,,Male,Jewish community member,1164 CE,,,0,2,,,,https://geniza.princeton.edu/people/avraham-b-aharon-ha-kohen/
@@ -157,7 +159,7 @@ Fidyār,,Male,None,,,Shipowner (nākhudā) active in the Indian Ocean in the fir
 Gabriel Conforte,,Male,Jewish community member,1650 – 1750 CE,,Active in Cairo in the late 17th and early 18th centuries. He may have been the son of the famous David Conforte.,0,2,,,,https://geniza.princeton.edu/people/gabriel-conforte/
 Ghālib b. Moshe ha-Kohen,"Abū Naṣr Ghālib b. Moshe ha-Kohen, Abū Naṣr ha-Kohen Ghālib b. Moshe",Male,Jewish community member,"1029 – 9 September, 1057 CE",,,1,5,,Fustat,,
 Ghānim b. ʿĪsā,,Male,None,"3 February, 1199 CE",,,0,1,,,,
-Ḥalfon b. Menashshe ha-Levi,Abū Saʿīd,Male,Jewish communal official,1100 – 1124 CE,1100/1138,,4,10,,Fustat,,https://geniza.princeton.edu/people/halfon-b-menashshe/
+Ḥalfon b. Menashshe ha-Levi,Abū Saʿīd,Male,Jewish communal official,1100 – 1124 CE,1100/1138,,4,11,,Fustat,,https://geniza.princeton.edu/people/halfon-b-menashshe/
 Ḥalfon b. Netanʾel ha-Levi,"Abū Saʿīd, Ḥalfon ha-Levi b. Netanʾel",Male,Jewish community member,"20 October, 1137 – 1146 CE",,Notable India trader; the subject of India Book vol. IV. [placeholder],2,8,,,,https://geniza.princeton.edu/people/halfon-b-netan-el-ha-levi/
 Ḥalfon b. Yiṣḥaq ha-Ḥazzan,,Male,None,"15 January, 1106 CE",,,0,1,,,,
 Ḥamīd al-Dawla,,Male,State official,,,"Fatimid state official, 11th/12th C.",0,1,,,,https://geniza.princeton.edu/people/hamid-al-dawla/
@@ -221,12 +223,13 @@ Menahem b. Ṣadoq ha-Kohen,,Male,Jewish community member,,,,0,1,,,,
 Menashshe b. Yosef,,Male,None,1164 CE,,,0,1,,,,
 Menashshe b. Yūsuf Ibn ʿAwkal,,Male,Jewish community member,,,,1,2,,,,
 Meshullam b. Mevorakh,,Male,Jewish community member,"10 August, 1204 CE",,,0,1,,,,
+Mevasser b. Shelomo,,Male,None,,,,1,1,,,,
 Mevasser b. Yijū,,Male,Jewish community member,1152 – 1153 CE,,,1,1,,,,
 Mevorakh b. ʿAmram,,Male,None,"15 January, 1106 CE",,,0,1,,,,
 Mevorakh b. Natan he-Ḥaver,,Male,Jewish communal official,"18 June, 1158 – 1164 CE",1150/1181,Prolific court scribe,0,7,,,,https://geniza.princeton.edu/people/mevorakh-b-natan/
 Mevorakh b. Natan ha-Gevir,,Male,None,"July 1156 – 27 June, 1158 CE",,,0,3,,,,https://geniza.princeton.edu/people/mevorakh-b-natan-ha-gevir/
 Mevorakh b. Natan ha-Kohen,,Male,None,"15 June, 1152 CE",,,0,1,,,,
-Mevorakh b. Saʿadya (Nagid),Abū l-Faḍl Mubārak b. Saʿāda al-Mutaṭabbib,Male,Jewish communal official,1098 – 1111 CE,1078/1111,"Head of the Jews 1078–82 and 1094–1111, bearing the title Nagid from 1094.",3,13,,,,https://geniza.princeton.edu/people/mevorakh-b-sa-adya/
+Mevorakh b. Saʿadya (Nagid),Abū l-Faḍl Mubārak b. Saʿāda al-Mutaṭabbib,Male,Jewish communal official,1098 – 1111 CE,1078/1111,"Head of the Jews 1078–82 and 1094–1111, bearing the title Nagid from 1094.",3,14,,,,https://geniza.princeton.edu/people/mevorakh-b-sa-adya/
 Moses al-Ghadāmasī,,Male,Jewish community member,,,,0,1,Ghadames,,,
 Moshe b. Abudarham,,Male,Jewish community member,,,,0,1,,,,https://geniza.princeton.edu/people/moshe-b-abudarham/
 Moshe b. Hillel ha-Kohen,,Male,Jewish community member,,,,1,1,,,,
@@ -267,7 +270,7 @@ Netanʾel b. Moshe ha-Levi (Gaʾon),,Male,Jewish communal official,1160 – 1169
 Nissim b. Avraham,,Male,Jewish community member,,,,0,1,,,,
 Nissim b. Isḥāq,,Male,Jewish community member,,,,3,0,,,,
 Nissim b. Isḥāq b. Barhūn al-Tāhartī,Abū ʾl-Faraj,Male,Jewish community member,,,,15,2,,,"Fustat, Palermo",
-Nissim b. Nahray,Abū Saʿd,Male,Jewish communal official,"11 October, 1094 – 28 April, 1161 CE",,,3,18,,Fustat,,https://geniza.princeton.edu/people/nissim-b-nahray/
+Nissim b. Nahray,"Abū Saʿd, Nissim b. Nahray ha-Rav",Male,Jewish communal official,"11 October, 1094 – 12 May, 1099 CE",,,3,18,,Fustat,,https://geniza.princeton.edu/people/nissim-b-nahray/
 Nissim b. Yaʿaqov,,Male,Jewish communal official,,,Head of the yeshiva at Qayrawān.,1,0,,Qayrawān,,
 Nissin b. Binyamin,,Male,None,"31 October, 962 – 29 November, 962 CE",,,0,1,,,,
 Peraḥya b. Aharon,,Male,None,,,,0,0,,,,
@@ -332,6 +335,7 @@ Shemuʾel b. Yaʿaqov,,Male,Jewish communal official,"16 March, 1227 CE",,"Frenc
 Shemuʾel b. Yosef b. Yijū,,Male,Jewish community member,,,,0,1,,Mazara,,
 Shemuʾel Sidi,,Male,Jewish community member,1650 – 1750 CE,,"Ladino-speaking merchant, active ca. late 17th century.",0,4,,,,https://geniza.princeton.edu/people/shemuel-sidi/
 Sherira b. Ḥananya,Sherira b. Ḥanina,Male,Jewish communal official,"25 August, 971 – 22 September, 971 CE",,"Gaʾon of the yeshiva of Pumbedita in Baghdad. Born ca. 906; rose to the gaonate in 968, and stepped down in 1004 when his son, Hayye, assumed the gaonate; queries continued to be addressed to Sherira and Hayye jointly. Author of numerous responsa, among them a now famous Iggeret penned in 986 in response to Yaʿaqov b. Nissim Ibn Shāhīn in Qayrawān about the composition of the Mishna and other rabbinic literature and the history of the gaonate.",1,4,,Baghdād,,https://geniza.princeton.edu/people/sherira-b-hananya/
+Sibāʿ,,Male,None,,,,0,1,,,,
 Simḥa ha-Kohen,,Male,None,,,,0,1,,,,https://geniza.princeton.edu/people/simha-ha-kohen/
 Sitt al-Aqrān bt. Yosef ha-Kohen,,Female,Jewish community member,"10 November, 1108 CE",,,0,1,,,,
 Sitt al-Dār bt. Yiṣḥaq,,Female,Jewish community member,"11 July, 1279 CE",,,0,1,,,,
@@ -365,6 +369,7 @@ Yaʿaqov b. Yosef ha-Kohen,,Male,None,1164 CE,,,0,1,,,,
 Yaʿaqov Levi b. Yosef,,Male,None,"25 April, 1028 CE",,,0,1,,,,
 Yaḥyā b. ʿAmmār al-Iskandarānī,,Male,None,1100 – 1117 CE,,,0,1,,,,https://geniza.princeton.edu/people/yahya-b-ammar-al-iskandarani/
 Yaḥyā b. Menashshe Ḥalfon,Abū Zikrī,Male,Jewish community member,,,,0,1,,Fustat,,
+Yakhin b. Avraham al-Ṣabbāgh,Thābit b. Ibrāhīm,Male,None,,,,0,1,,,,
 Yakhin b. Saʿadya ha-Kohen,,Male,None,"11 January, 1151 CE",,,0,1,,,,
 Yakhin b. Yeshuʿa ha-Kohen,,Male,None,"10 November, 1153 – 18 November, 1153 CE",,,0,1,,,,
 Ya’qūb b. Ismāʿīl al-Andalusī,Abū Yūsuf,Male,Jewish community member,"18 August, 1056 CE",,,1,2,,Palermo,,
