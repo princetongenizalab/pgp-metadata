@@ -1,5 +1,5 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
-Abwān (Damietta),Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
+Abwān (near Damietta),Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
 Abyār,Ibyār,"30° 50′ 7″ N, 30° 52′ 2″ E",,1,0,0,https://geniza.princeton.edu/places/abyar/
 Acre,"עכו, عكا","32° 55′ 40″ N, 35° 4′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/acre/
 Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,23,3,0,https://geniza.princeton.edu/places/aden/
@@ -21,7 +21,7 @@ al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,6,1,0,https://geniza.princet
 al-Shūbak,,"30° 17′ 30″ N, 31° 19′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 Tīz,"al-Tīz, אלתיז","25° 21′ 24″ N, 60° 37′ 14″ E",,3,0,0,https://geniza.princeton.edu/places/al-tiz/
 al-Ṭūr,,"28° 15′ 14″ N, 33° 36′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/al-tur/
-al-Ushmūnayn,al-Ashmūnayn,"27° 46′ 53″ N, 30° 48′ 14″ E",,6,0,0,https://geniza.princeton.edu/places/al-ushmunayn/
+al-Ushmūnayn,al-Ashmūnayn,"27° 46′ 53″ N, 30° 48′ 14″ E",,7,0,0,https://geniza.princeton.edu/places/al-ushmunayn/
 Amalfi,מלף,"40° 38′ 1″ N, 14° 36′ 10″ E",,1,0,0,https://geniza.princeton.edu/places/amalfi/
 Antioch,Antakya,"36° 12′ 23″ N, 36° 9′ 25″ E",,2,0,0,https://geniza.princeton.edu/places/antioch/
 ʿAqrabā,,"32° 7′ 40″ N, 35° 20′ 35″ E",,1,0,0,https://geniza.princeton.edu/places/aqraba/
@@ -96,7 +96,7 @@ Ghulayfiqa,,"14° 26′ 2″ N, 43° 0′ 57″ E",The port of Zabīd,2,0,0,http
 גומא מזוד,,,Unidentified location likely in Iraq.,1,0,0,https://geniza.princeton.edu/places/gvma-mzvd/
 Hama,Ḥamā,"35° 8′ 26″ N, 36° 45′ 19″ E",,2,0,0,https://geniza.princeton.edu/places/hama/
 Hebron,"חברון, الخليل","31° 31′ 45″ N, 35° 5′ 37″ E",,3,0,0,https://geniza.princeton.edu/places/hebron/
-Abwān (al-Ushmūnayn),,"28° 24′ 1″ N, 30° 43′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/ibwan-near-al-ushmunayn/
+Abwān (near al-Ushmūnayn),,"28° 24′ 1″ N, 30° 43′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/ibwan-near-al-ushmunayn/
 Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/izmir/
 Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,2,0,0,https://geniza.princeton.edu/places/jaffa/
 Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,21,4,0,https://geniza.princeton.edu/places/jerusalem/
@@ -188,6 +188,7 @@ Surat,,"21° 12′ 20″ N, 72° 50′ 24″ E",,1,0,0,https://geniza.princeton.
 Sūsa,"Soussa, Sousse","35° 49′ 47″ N, 10° 37′ 48″ E",,2,0,0,https://geniza.princeton.edu/places/susa/
 Suwākin,,"19° 6′ 0″ N, 37° 19′ 47″ E",,2,0,0,https://geniza.princeton.edu/places/suwakin/
 Syracuse,,"37° 4′ 33″ N, 15° 17′ 13″ E",,1,0,0,https://geniza.princeton.edu/places/syracuse/
+Ṭaḥā,طحا,"28° 11′ 23″ N, 30° 42′ 6″ E",,1,0,0,https://geniza.princeton.edu/places/taha/
 Tānā,"Thana, Thane","19° 11′ 49″ N, 72° 58′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/tana/
 Tārān,,,"Yāqūt (iii, 834) describes Tārān as an island in the Red Sea between the Gulf of Suez and the Gulf of ʿAqaba. It is a place with a whirlpool at the foot of a mountain, and it is the place where the winds from Egypt and Syria encounter each other, making it very dangerous to ships.",1,0,0,https://geniza.princeton.edu/places/taran/
 Tarsus,,"36° 55′ 3″ N, 34° 53′ 34″ E",,1,0,0,https://geniza.princeton.edu/places/tarsus/
