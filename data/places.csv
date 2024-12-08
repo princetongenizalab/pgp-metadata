@@ -12,15 +12,15 @@ Aleppo,"חלב, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,4,0,0,https://ge
 Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,90,23,0,https://geniza.princeton.edu/places/alexandria/
 al-Fayyūm,,"29° 18′ 30″ N, 30° 50′ 34″ E",,1,1,0,https://geniza.princeton.edu/places/al-fayyum/
 al-Gharbiyya,,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,1,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
-al-Maghrib,al-Gharb,,Region,0,0,0,https://geniza.princeton.edu/places/al-maghrib/
+al-Maghrib,al-Gharb,,Region,1,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,"15° 56′ 57″ N, 43° 26′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,16,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,13,1,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,14,1,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/al-manzala/
 Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,2,0,0,https://geniza.princeton.edu/places/almeria/
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,7,2,0,https://geniza.princeton.edu/places/al-ramla/
-al-Shām,Levant,,Region,0,0,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,Levant,,Region,1,0,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,"30° 17′ 30″ N, 31° 19′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Ṭūr,,"28° 15′ 14″ N, 33° 36′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/al-tur/
 al-Ushmūnayn,al-Ashmūnayn,"27° 46′ 53″ N, 30° 48′ 14″ E",,7,0,0,https://geniza.princeton.edu/places/al-ushmunayn/
@@ -88,7 +88,7 @@ Fandarayna,"Koyilandy, Panthalayani Kollam","11° 26′ 20″ N, 75° 41′ 41�
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,2,0,0,https://geniza.princeton.edu/places/fansur/
 Fāqūs,,"30° 43′ 47″ N, 31° 47′ 50″ E",,1,0,0,https://geniza.princeton.edu/places/faqus/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,2,1,0,https://geniza.princeton.edu/places/fez/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,162,33,1,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,163,33,1,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,2,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,1,0,0,https://geniza.princeton.edu/places/gaza/
@@ -99,7 +99,7 @@ Ghulayfiqa,,"14° 26′ 2″ N, 43° 0′ 57″ E",The port of Zabīd,2,0,0,http
 Hama,Ḥamā,"35° 8′ 26″ N, 36° 45′ 19″ E",,2,0,0,https://geniza.princeton.edu/places/hama/
 Hebron,"חברון, الخليل","31° 31′ 45″ N, 35° 5′ 37″ E",,3,0,0,https://geniza.princeton.edu/places/hebron/
 Abwān (near al-Ushmūnayn),,"28° 24′ 1″ N, 30° 43′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/ibwan-near-al-ushmunayn/
-India,"אלהנד, الهند",,Region,0,0,0,https://geniza.princeton.edu/places/india/
+India,"אלהנד, الهند",,Region,1,0,0,https://geniza.princeton.edu/places/india/
 Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/izmir/
 Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,2,0,0,https://geniza.princeton.edu/places/jaffa/
 Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,21,4,0,https://geniza.princeton.edu/places/jerusalem/
@@ -179,7 +179,7 @@ Shaqqat al-Waʿr,,,Unidentified port near Tobruk,1,0,0,https://geniza.princeton.
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
 Shingli,"Kodungallur, Shingly, שנגלי, شنجلي","10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
 Shubrā Damsīs,Damsīs,"30° 49′ 12″ N, 31° 13′ 11″ E",,4,0,0,https://geniza.princeton.edu/places/shubra-damsis/
-Sicily,,"37° 38′ 42″ N, 13° 55′ 50″ E",Region,0,0,0,https://geniza.princeton.edu/places/sicily/
+Sicily,,"37° 38′ 42″ N, 13° 55′ 50″ E",Region,1,0,0,https://geniza.princeton.edu/places/sicily/
 Sidon,صيدا,"33° 33′ 37″ N, 35° 22′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,"31° 16′ 48″ N, 4° 16′ 48″ W",,0,1,0,https://geniza.princeton.edu/places/sijilmasa/
@@ -206,7 +206,7 @@ Toledo,Ṭulayṭula,"39° 51′ 35″ N, 4° 1′ 38″ W",,2,1,0,https://geniz
 Trapani,אטראבנש,"38° 1′ 1″ N, 12° 30′ 54″ E",,2,0,0,https://geniza.princeton.edu/places/trapani/
 Tripoli (Greece),,"37° 30′ 32″ N, 22° 22′ 45″ E",,1,0,0,https://geniza.princeton.edu/places/tripoli-greece/
 Tripoli (Lebanon),,"34° 26′ 12″ N, 35° 50′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/tripoli-lebanon/
-Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus","32° 53′ 24″ N, 13° 11′ 23″ E",,6,0,0,https://geniza.princeton.edu/places/tripoli-libya/
+Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus","32° 53′ 24″ N, 13° 11′ 23″ E",,7,0,0,https://geniza.princeton.edu/places/tripoli-libya/
 Ṭūkh,طوخ الملق,"30° 21′ 9″ N, 31° 12′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/tukh/
 Tunis,تونس,"36° 48′ 21″ N, 10° 10′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/tunis/
 Ṭunūb,طنوب,"30° 41′ 18″ N, 30° 48′ 14″ E",,1,0,0,https://geniza.princeton.edu/places/tunub/
@@ -220,6 +220,6 @@ Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,2,0,0,https://geniza.princeton
 Wardūnyā,,"33° 22′ 52″ N, 44° 20′ 34″ E","A NW suburb of Baghdad. See N. Golb, ‘A Marriage Deed from ‘Warduniā of Baghdad,’ Journal of Near Eastern Studies 43.2 (1984), pp. 152–56.",1,0,0,https://geniza.princeton.edu/places/wardunya/
 Wārjalān,Ouargla,"31° 56′ 57″ N, 5° 19′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,"32° 11′ 16″ N, 46° 17′ 52″ E",,1,0,0,https://geniza.princeton.edu/places/wasit/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",,Region,0,0,0,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",,Region,1,0,0,https://geniza.princeton.edu/places/yemen/
 Zabīd,,"14° 11′ 59″ N, 43° 19′ 19″ E",,3,0,0,https://geniza.princeton.edu/places/zabid/
 Zinjibār,,"13° 7′ 40″ N, 45° 22′ 48″ E",,1,0,0,https://geniza.princeton.edu/places/zinjibar/
