@@ -1,6 +1,7 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
 Abwān (near Damietta),Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
 Abyār,Ibyār,"30° 50′ 7″ N, 30° 52′ 2″ E",,1,0,0,https://geniza.princeton.edu/places/abyar/
+Abyssinia,,"12° 1′ 54″ N, 39° 2′ 27″ E",Abyssinia is more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela.,0,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا","32° 55′ 40″ N, 35° 4′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/acre/
 Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,28,3,0,https://geniza.princeton.edu/places/aden/
 Akhmīm,Ikhmīm,"26° 33′ 46″ N, 31° 44′ 39″ E",,6,0,0,https://geniza.princeton.edu/places/akhmim/
@@ -215,6 +216,7 @@ Turūja,تروجة,"30° 30′ 0″ N, 30° 6′ 0″ E",,1,0,0,https://geniza.p
 Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,10,1,0,https://geniza.princeton.edu/places/tyre/
 Urbus,"Arbus, Lares","36° 4′ 30″ N, 8° 50′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/urbus/
 ואדי לינפש,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
+Valapattanam,"Balyapattanam, Valarapattanam","11° 54′ 0″ N, 75° 22′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/valapattanam/
 Val Demone,"Dimunsh, דמנש","38° 1′ 48″ N, 14° 34′ 50″ E",,1,0,0,https://geniza.princeton.edu/places/val-demone/
 Valencia,,"39° 28′ 10″ N, 0° 22′ 38″ E",,2,0,0,https://geniza.princeton.edu/places/valencia/
 Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,2,0,0,https://geniza.princeton.edu/places/venice/
