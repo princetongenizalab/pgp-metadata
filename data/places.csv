@@ -1,7 +1,7 @@
 ﻿name,name_variants,coordinates,notes,related_documents_count,related_people_count,related_events_count,url
 Abwān (near Damietta),Ibwān,"31° 20′ 6″ N, 31° 46′ 15″ E","A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
 Abyār,Ibyār,"30° 50′ 7″ N, 30° 52′ 2″ E",,1,0,0,https://geniza.princeton.edu/places/abyar/
-Abyssinia,,"12° 1′ 54″ N, 39° 2′ 27″ E",Abyssinia is more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela.,0,0,0,https://geniza.princeton.edu/places/abyssinia/
+Abyssinia (region),"al-Ḥabash (region), אלחבש (region)","12° 1′ 54″ N, 39° 2′ 27″ E",Abyssinia is a region more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela until the PGP is able to handle regions.,1,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا","32° 55′ 40″ N, 35° 4′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/acre/
 Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,28,3,0,https://geniza.princeton.edu/places/aden/
 Akhmīm,Ikhmīm,"26° 33′ 46″ N, 31° 44′ 39″ E",,6,0,0,https://geniza.princeton.edu/places/akhmim/
@@ -111,8 +111,9 @@ Jurbattan,Sreekandapuram,"12° 2′ 41″ N, 75° 30′ 36″ E",,1,1,0,https://
 Kafr Ḥāris,Kifl Ḥāris,"32° 6′ 59″ N, 35° 9′ 26″ E",,1,0,0,https://geniza.princeton.edu/places/kafr-haris/
 Kalabshā,Kalābsha,"23° 57′ 38″ N, 32° 52′ 4″ E",,1,0,0,https://geniza.princeton.edu/places/kalabsha/
 Kiev,קייוב,"50° 27′ 1″ N, 30° 31′ 28″ E",,1,0,0,https://geniza.princeton.edu/places/kiev/
-Kūlam,"Kollam, Quilon","8° 53′ 35″ N, 76° 36′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/kulam/
+Kūlam,"Kollam, Quilon","8° 53′ 35″ N, 76° 36′ 50″ E",,3,0,0,https://geniza.princeton.edu/places/kulam/
 Lakhaba,,"12° 55′ 42″ N, 44° 54′ 1″ E","Coordinates are approximate. See Margariti, Aden, 60–63.",1,0,0,https://geniza.princeton.edu/places/lakhaba/
+Land of the Zanj (region),בלאד אלזנג (region),"4° 3′ 14″ S, 39° 40′ 0″ E","Bilād al-Zanj refers to the Swahili coast. Until PGP can handle regions, I've arbitrarily set the point at Mombasa.",1,0,0,https://geniza.princeton.edu/places/land-of-the-zanj-region/
 Latakia,al-Lādhiqiyya,"35° 32′ 30″ N, 35° 47′ 55″ E",,1,0,0,https://geniza.princeton.edu/places/latakia/
 London,,"51° 30′ 35″ N, 0° 7′ 5″ E",,2,0,0,https://geniza.princeton.edu/places/london/
 Lucena,,"37° 24′ 35″ N, 4° 28′ 59″ W",,2,1,0,https://geniza.princeton.edu/places/lucena/
