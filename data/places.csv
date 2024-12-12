@@ -20,7 +20,7 @@ al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,15,2,0,htt
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,1,0,0,https://geniza.princeton.edu/places/al-manzala/
 Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,2,0,0,https://geniza.princeton.edu/places/almeria/
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
-al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,8,2,0,https://geniza.princeton.edu/places/al-ramla/
+al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,9,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Shām,Levant,,Region,1,0,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,"30° 17′ 30″ N, 31° 19′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Ṭūr,,"28° 15′ 14″ N, 33° 36′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/al-tur/
@@ -43,7 +43,8 @@ Baḥṭīṭ,بحطيط,"30° 29′ 19″ N, 31° 38′ 14″ E",,1,0,0,https:/
 Balāṭa,,"32° 12′ 28″ N, 35° 17′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/balata/
 Bandariyya,,"32° 56′ 25″ N, 21° 42′ 47″ E","According to T-S 10J20.3 (PGPID 5820), located between Tripoli and Alexandria, but can probably be narrowed down more as lying between Benghazi and Tobruk. This location is approximate, based on al-Idrīsī, Nuzhat al-Mushtāq (ed. de Goeje), pp. 137–38, who describes it as lying on a curve or cape from which the coastline turns to face west, but he may intend the next cape over to the east. In T-S 13J15.9 (PGPID 3250), which contains shipping reports, someone sails from Tripoli for Barnīq (Benghazi), but ends up in Bandariyya, i.e., overshoots; someone (else? or the same person?) travels from Tripoli to Bandariyya in 10 days, and (also from Tripoli? or from Bandariyya?) to Alexandria in 20 days, and this is considered making good time. Spelled either Bandariyya (in geniza letters) or Bandāriyya (in al-Idrīsī). MR 11/26/24",4,0,0,https://geniza.princeton.edu/places/bandariyya/
 Banhā,"بنها, ⲡⲁⲛⲁϩⲟ","30° 27′ 36″ N, 31° 11′ 15″ E",,9,0,0,https://geniza.princeton.edu/places/banha/
-Bāniyās,"באניאס, بانايس","35° 11′ 23″ N, 35° 57′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/baniyas/
+Bāniyās,"באניאס, بانايس","35° 11′ 23″ N, 35° 57′ 12″ E",,0,0,0,https://geniza.princeton.edu/places/baniyas/
+Bāniyās (Golan),"Banias, Pamias, דן, מבצר דן, פאמיס, بانياس","33° 14′ 54″ N, 35° 41′ 39″ E",,3,1,0,https://geniza.princeton.edu/places/baniyas-golan/
 Barcelona,,"41° 23′ 13″ N, 2° 10′ 6″ E",,2,0,0,https://geniza.princeton.edu/places/barcelona/
 Barqa,,"32° 29′ 53″ N, 20° 53′ 34″ E","The medieval city Barqa (not to be confused with the placename Barqa used for the eastern region, mostly interchangeable with Cyrenaica) was located in al-Marj, now called Old City Marj مدينة المرج القديمة
 https://geohack.toolforge.org/geohack.php?params=32.4983_N_20.8928_E_globe:earth&language=en",3,0,0,https://geniza.princeton.edu/places/barqa/
@@ -76,7 +77,7 @@ Cyprus,,"35° 5′ 42″ N, 33° 12′ 12″ E",,6,0,0,https://geniza.princeton.
 Dahbattan,"Valapattanam, דהבתן","11° 55′ 33″ N, 75° 20′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/dahbattan/
 Dahlak,,"15° 49′ 48″ N, 40° 12′ 0″ E",,15,0,0,https://geniza.princeton.edu/places/dahlak/
 Dahrūṭ,,"28° 36′ 46″ N, 30° 47′ 53″ E",,1,0,0,https://geniza.princeton.edu/places/dahrut/
-Damascus,"Dimashq, חדרך","33° 30′ 37″ N, 36° 16′ 41″ E",,32,0,0,https://geniza.princeton.edu/places/damascus/
+Damascus,"Dimashq, חדרך","33° 30′ 37″ N, 36° 16′ 41″ E",,33,0,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,11,0,0,https://geniza.princeton.edu/places/damietta/
 Damīra,,"31° 6′ 28″ N, 31° 21′ 40″ E",,2,0,0,https://geniza.princeton.edu/places/damira/
 Dayqūf,"داقوف, ديقوف","28° 23′ 35″ N, 30° 38′ 40″ E",,1,0,0,https://geniza.princeton.edu/places/dayquf/
@@ -90,7 +91,7 @@ Fandarayna,"Koyilandy, Panthalayani Kollam","11° 26′ 20″ N, 75° 41′ 41�
 Fanṣūr,Barus,"2° 0′ 19″ N, 98° 23′ 24″ E",,2,0,0,https://geniza.princeton.edu/places/fansur/
 Fāqūs,,"30° 43′ 47″ N, 31° 47′ 50″ E",,1,0,0,https://geniza.princeton.edu/places/faqus/
 Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,2,1,0,https://geniza.princeton.edu/places/fez/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,171,35,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,172,35,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,2,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,1,0,0,https://geniza.princeton.edu/places/gaza/
@@ -184,7 +185,7 @@ Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geni
 Shingli,"Kodungallur, Shingly, שנגלי, شنجلي","10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
 Shubrā Damsīs,Damsīs,"30° 49′ 12″ N, 31° 13′ 11″ E",,4,0,0,https://geniza.princeton.edu/places/shubra-damsis/
 Sicily,,"37° 38′ 42″ N, 13° 55′ 50″ E",Region,1,0,0,https://geniza.princeton.edu/places/sicily/
-Sidon,صيدا,"33° 33′ 37″ N, 35° 22′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/sidon/
+Sidon,صيدا,"33° 33′ 37″ N, 35° 22′ 32″ E",,2,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,"43° 19′ 6″ N, 11° 19′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,"31° 16′ 48″ N, 4° 16′ 48″ W",,0,1,0,https://geniza.princeton.edu/places/sijilmasa/
 Silifke,Seleucia,"36° 22′ 39″ N, 33° 56′ 3″ E",,1,0,0,https://geniza.princeton.edu/places/silifke/
