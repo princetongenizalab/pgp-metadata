@@ -5,7 +5,7 @@ Abwān (near al-Ushmūnayn),,"28° 24′ 1″ N, 30° 43′ 32″ E",,1,0,0,http
 Abyār,Ibyār,"30° 50′ 7″ N, 30° 52′ 2″ E",,2,0,0,https://geniza.princeton.edu/places/abyar/
 Abyssinia (region),"al-Ḥabash (region), אלחבש (region)","12° 1′ 54″ N, 39° 2′ 27″ E",Abyssinia is a region more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela until the PGP is able to handle regions.,1,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا","32° 55′ 40″ N, 35° 4′ 54″ E",,4,1,0,https://geniza.princeton.edu/places/acre/
-Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,28,5,0,https://geniza.princeton.edu/places/aden/
+Aden,"ʿAdan, עדן, عدن","12° 47′ 28″ N, 44° 59′ 7″ E",,28,6,0,https://geniza.princeton.edu/places/aden/
 Ahwāz,Hormshir,"31° 19′ 5″ N, 48° 40′ 14″ E",,4,0,0,https://geniza.princeton.edu/places/ahwaz/
 Akhmīm,Ikhmīm,"26° 33′ 46″ N, 31° 44′ 39″ E",,6,0,0,https://geniza.princeton.edu/places/akhmim/
 Akhziv,Ajzib,"33° 2′ 54″ N, 35° 6′ 7″ E",,1,0,0,https://geniza.princeton.edu/places/akhziv/
@@ -157,7 +157,7 @@ Kalabshā,Kalābsha,"23° 57′ 38″ N, 32° 52′ 4″ E",,1,0,0,https://geniz
 Kanbāyat,"Cambay, כנבאית","22° 19′ 5″ N, 72° 37′ 8″ E",,1,0,0,https://geniza.princeton.edu/places/kanbayat/
 Karystos,,"38° 0′ 50″ N, 24° 25′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/karystos/
 Kiev,קייוב,"50° 27′ 1″ N, 30° 31′ 28″ E",,1,0,0,https://geniza.princeton.edu/places/kiev/
-Kūlam,"Kollam, Quilon","8° 53′ 35″ N, 76° 36′ 50″ E",,3,0,0,https://geniza.princeton.edu/places/kulam/
+Kūlam,"Kollam, Quilon","8° 53′ 35″ N, 76° 36′ 50″ E",,3,0,1,https://geniza.princeton.edu/places/kulam/
 Lakhaba,,"12° 55′ 42″ N, 44° 54′ 1″ E","Coordinates are approximate. See Margariti, Aden, 60–63.",1,0,0,https://geniza.princeton.edu/places/lakhaba/
 Land of the Zanj (region),בלאד אלזנג (region),"4° 3′ 14″ S, 39° 40′ 0″ E","Bilād al-Zanj refers to the Swahili coast. Until PGP can handle regions, I've arbitrarily set the point at Mombasa.",1,0,0,https://geniza.princeton.edu/places/land-of-the-zanj-region/
 Latakia,al-Lādhiqiyya,"35° 32′ 30″ N, 35° 47′ 55″ E",,2,0,0,https://geniza.princeton.edu/places/latakia/
@@ -289,7 +289,7 @@ Wardūnyā,,"33° 22′ 52″ N, 44° 20′ 34″ E","A NW suburb of Baghdad. Se
 Wārjalān,Ouargla,"31° 56′ 57″ N, 5° 19′ 30″ E",,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,"32° 11′ 16″ N, 46° 17′ 52″ E",,2,0,0,https://geniza.princeton.edu/places/wasit/
 Yazd,,"31° 51′ 35″ N, 54° 19′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/yazd/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",,Region,1,3,0,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",,Region,1,3,1,https://geniza.princeton.edu/places/yemen/
 Zabīd,,"14° 11′ 59″ N, 43° 19′ 19″ E",,3,0,0,https://geniza.princeton.edu/places/zabid/
 Zagreb,Agram,"45° 48′ 53″ N, 15° 58′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/zagreb/
 Zarnīkh,,"25° 15′ 52″ N, 32° 35′ 39″ E",,0,0,0,https://geniza.princeton.edu/places/zarnikh/
