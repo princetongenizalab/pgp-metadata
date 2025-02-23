@@ -587,8 +587,8 @@ Musāfir b. ʿAlī,,Male,None,,,,,0,,,,1,
 (Abū ʿImrān) Mūsā b. Ṣadaqa Ibn Nufayʿ,Moshe b. Ṣedaqa,Male,None,,,,,0,,,,4,https://geniza.princeton.edu/people/musa-ibn-nufay/
 Musallam b. Ayyūb,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/musallam-b-ayyub/
 Muṣliḥ b. Saʿadya,,Male,None,,,,,0,,,,1,
-Muwaffaq,,Male,Jewish community member,,,,"IB2, India",1,,,,1,
-Muwaffaq b. Hiba,,Male,None,,,,,1,,,,1,
+Muwaffaq,,Male,Jewish community member,,,,"IB2, India",0,,,,1,
+Muwaffaq b. Hiba,,Male,None,,,,,0,,,,1,
 Muwaffaq b. Nuṣayr,,Male,None,,,,,0,,,,1,
 Muwaffaqiyya bt. Yosef ha-Levi,,Female,Jewish community member,,,,,0,,,,1,
 Nadiv b. Moshe ha-Levi,,Male,None,,,,,0,,,,1,
@@ -654,7 +654,7 @@ Peraḥya b. Ḥalfon ha-Meʿuttad,,Male,None,,,,,0,,,,1,
 Peraḥya b. Natan,,Male,None,,,,,0,,,,1,
 Peraḥya b. Shemuʾel ha-Melammed,,Male,None,,,,,0,,,,2,
 Abu ʾl-Surūr Peraḥya b. Tiqwā ha-Levi,Ibn al-Amʿaṭ,Male,Jewish community member,,,,"IB2, India",2,,,,2,
-Peraḥya b. Yosef,,Male,None,,,,,1,,,,2,
+Peraḥya b. Yosef,,Male,None,,,,,3,,,,3,https://geniza.princeton.edu/people/perahya-b-yosef/
 Peraḥya b. Yosef (Alexandria),,Male,None,,,,,0,,,,1,
 Peraḥya b. Yosef ben Yijū,Surūr b. Yosef ben Yijū,Male,Jewish community member,,,,,3,,"Fustat, Mazara, al-Maḥalla",,6,https://geniza.princeton.edu/people/perahya-b-yosef-ben-yiju/
 Pinḥas b. Yosef,Binḥās b. Yūsuf,Male,None,,,,,0,,,,1,
@@ -666,7 +666,7 @@ Saʿadya b. Avraham Ibn al-Amshāṭī,"Abū l-Fakhr, אבו אלפכר בר א�
 Saʿadya b. Hillel ha-Kohen Rosh ha-Qahal,Saʿd b. Hilāl,Male,None,,,,,0,,,,1,
 Saʿadya b. Mevorakh,,Male,None,,,,,2,,,,0,
 Saʿadya b. Natan ha-Kohen,,Male,None,,,,,0,,,,1,
-Saʿadya b. Yeshuʿa,,Male,None,,,,,0,,,,1,
+Saʿadya b. Yeshuʿa,,Male,None,,,,,2,,,,2,https://geniza.princeton.edu/people/sa-adya-b-yeshu-a/
 Saʿadya b. Yisraʾel,,Male,None,,,,,0,,,,1,
 Saʿadya b. Yisraʾel ha-Ḥazzan,"Saʿadya ha-Talmid ve-ha-Sofer, Saʿīd b. Isrāʾīl al-Ḥazzān",Male,Jewish community member,,,,,0,,Acre,,2,https://geniza.princeton.edu/people/sa-adya-b-yisra-el-ha-hazzan/
 Saʿadya Gaʾon,"Saʿadya b. Yosef al-Fayyūmī, Saʿīd b. Yūsuf al-Fayyūmī",Male,Jewish communal official,,928/942,Gaʾon of Sura 928–942,,0,,,,6,https://geniza.princeton.edu/people/sa-adya-ga-on/
@@ -746,6 +746,7 @@ Shelomo b. Nadiv,,Male,Jewish community member,,,,,0,,,,1,
 Shelomo b. Netanʾel al-Ṣayrafī,,Male,None,,,,,0,,,,1,
 Shelomo b. Saʿadya ha-Kohen,,Male,None,,,,,0,,,,1,
 Shelomo b. Ṣemaḥ,,Male,None,,,,,0,,,,1,
+Shelomo b. Shela,,Male,None,,,,,0,,,,1,
 Shelomo b. Shemuʾel b. Saʿadya ha-Levi,,Male,None,,,"Prolific scribe, including for the works of Maimonides. Active until ca. 1231.",,2,,,,0,https://geniza.princeton.edu/people/shelomo-b-shemu-el-b-sa-adya-ha-levi/
 Shelomo b. Shemuʾel ha-Levi,,Male,None,,,,,0,,,,1,
 Shelomo b. Ṭahor ha-Kohen,,Male,None,,,,,0,,,,1,
@@ -806,6 +807,7 @@ Sitt al-Fakhr bt. Berakhot,,Female,None,,,,,0,,,,1,
 Sitt al-Gharb,,Female,None,,,,,0,,,,1,
 Sitt al-Gharb bt. Yehuda,,Female,None,,,,,2,,,,2,https://geniza.princeton.edu/people/sitt-al-gharb-bt-yehuda/
 Sitt al-Hanāʾ bt. Elʿazar ha-Levi,,Female,Jewish community member,,,,,0,,,,1,
+Sitt al-Ḥusn,,Female,None,,,,,2,,,,1,
 Sitt al-Kull bt. Abū ʿImrān b. Yosef,,Female,None,,,,,0,,,,1,
 Sitt al-Munā bt. Natan,"Sitt al-Munā bt. Hibatallāh, Sitt al-Munā bt. Hibatallāh",Female,Jewish community member,,,,,1,,Fustat,,2,
 Sitt al-Naẓar bt. Ḥalfon,,Female,None,,,,,0,,,,1,
@@ -882,9 +884,11 @@ Yakhin b. Avraham al-Ṣabbāgh,Thābit b. Ibrāhīm,Male,None,,,,,0,,,,1,
 Yakhin b. Saʿadya ha-Kohen,,Male,None,,,,,0,,,,1,
 Yakhin b. Yeshuʿa ha-Kohen,,Male,None,,,,,0,,,,1,
 Yakhin ha-Ḥazzan b. Avraham,Thābit b. Ibrāhīm,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/yakhin-ha-hazzan-b-avraham/
+Yakhin ha-Ḥazzan b. Avraham,Yakhin b. Avraham,Male,None,,,,,0,,,,1,
 Yakhin Rosh ha-Qehilot,,Male,None,,,,,0,,,,1,
 Yaʿqūb b. Ismāʿīl al-Andalusī,Abū Yūsuf,Male,Jewish community member,,,,,1,,Palermo,,2,
 Yedutun ha-Levi,"Abū l-Ḥasan b. Abū Sahl, Ḥasan b. Sahl",Male,None,,1190/1236,Cantor in the Palestinian synagogue in Fustat and prolific payyeṭan. Identified as a physician in two fragments. Associated with the party opposed to the liturgical reforms of Avraham Maimonides. Son of the cantor Abū Sahl Levi b. Ibrāhīm ha-Levi and brother of Moshe b. Levi ha-Levi.,,2,,,,2,https://geniza.princeton.edu/people/yedutun-ha-levi/
+"Yefet b. ʿAmram b. Moshe ha-Mumḥe Ibn al-Jāzfīnī,",Abū l-Ḥasan b. Muʿammar Ibn al-Jāzfīnī,Male,None,,,,,0,,,,4,https://geniza.princeton.edu/people/yefet-b-amram-b-moshe-ha-mumhe-ibn-al-jazfini/
 Yefet b. Araḥ ha-Rofeʾ,,Male,None,,,,,0,,,,1,
 Yefet b. Avraham al-Tustarī,Abū ʿAlī Ḥasan b. Abū Saʿd Ibrāhīm al-Tustarī,Male,None,,,Yefet rose at the Fatimid court and by 1064 converted to Islam and was appointed superintendent of the fisc (ṣāḥib bayt al-māl).,,0,,,,1,https://geniza.princeton.edu/people/yefet-b-avraham-al-tustari/
 Yefet b. David (12th c),,Male,None,,,,,0,,,,1,
@@ -984,6 +988,9 @@ Yiṣḥaq Luria Ashkenazi (ha-Ari),,Male,None,,,"[placeholder] renowned Kabbali
 Yisraʾel b. Ghālib ha-Kohen,,Male,Jewish community member,,,,,0,,,,1,
 Yisraʾel b. Natan,"Isrāʾīl b. Sahlūn, Yisraʾel b. Natan b. Nahray",Male,Jewish community member,,,,,0,,,,5,https://geniza.princeton.edu/people/yisra-el-b-natan/
 Yiṣḥaq ha-Kohen al-Nafūsī,,Male,Jewish community member,,,,,0,Nafūsa,,,1,
+Yosef b. Abiṭur Ibn al-Shaṭnāsh,,Male,None,,,"Spanish poet and scholar, active ca. 10th century. 
+
+See Yehoshua Granat, Psalms Recalled: Scriptural Psalms in the Liturgical Poetry of Yoseph Ibn Abitur (Hebrew: אזכרה מזמור: מזמורי תהילים בפיוטי יוסף אבן אביתור), Jerusalem: Yad Ben-Zvi, 2021.",,0,,,,1,https://geniza.princeton.edu/people/yosef-b-abitur-ibn-al-shatnash/
 Yosef b. Avraham b. Bundār,,Male,Jewish community member,,,,,0,,,,8,https://geniza.princeton.edu/people/yosef-b-avraham-b-bundar/
 Yosef b. Avraham ʿIrāqī,,Male,None,,,,,0,,,,1,
 Yosef b. Elʿazar Ibn al-Shofeṭ,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/yosef-b-el-azar-ibn-al-shofet/
