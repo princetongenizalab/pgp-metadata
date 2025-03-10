@@ -1,7 +1,7 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,
 ʿAbd al-Raḥmān,,Male,None,,,,,0,,,,1,
-Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,0,,,,1,
+Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,3,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kata-ib/
 Abū ʿAlī b. Abū ʿUmar,Bū ʿAlī b. Bū ʿUmar,Male,Jewish community member,,,India trader,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-b-abu-umar/
 Abū ʿAlī Ibn al-Sukkarī,,Male,Jewish community member,,,,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-ibn-al-sukkari/
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",,0,,,,1,
@@ -55,6 +55,7 @@ Abū l-Ḥasan b. Salāma,,Male,None,,,,,0,,,,1,
 Abū l-Ḥasan b. Salāma (12th c),,Male,None,,,,,1,,,,1,
 Abū l-Ḥasan b. Ṣāliḥ,,Male,None,,,,,1,,,,1,
 Abū l-Hasan b. Ṭībān,,Male,None,,,,,0,,,,1,
+Abū l-Ḥasan Ibn Abī l-Katāʾib,,Male,Other,,,,,1,,,,1,https://geniza.princeton.edu/people/abu-l-hasan-ibn-abi-l-kata-ib/
 Abū l-Ḥasan Ibn al-Shofeṭ,,Male,None,,,,,0,,,,1,
 Abū l-Ḥasan Shelomo b. Nissim al-Barqī,,Male,None,,,,,0,,,,1,
 Abū l-Ḥayy Khalīla,,Male,Jewish community member,,,,,1,,,,0,
@@ -236,7 +237,7 @@ Avraham b. Yakhin,,Male,None,,,,,0,,,,1,
 Avraham b. Yefet ha-Levi,Abū Isḥāq,Male,None,,,,,0,,,,1,
 Avraham b. Yehuda ha-Kohen,,Male,None,,,,,0,,,,1,
 Avraham b. Yeshuʿa,,Male,None,,,,,0,,,,1,
-Avraham ben Yijū,Avraham b. Peraḥya b. Natan ben Yiju ha-Maʿaravi,Male,Jewish community member,,1131/1156,Placeholder,,3,,"Jurbattan, Mangaluru",,24,https://geniza.princeton.edu/people/avraham-b-yiju/
+Avraham ben Yijū,Avraham b. Peraḥya b. Natan ben Yiju ha-Maʿaravi,Male,Jewish community member,,1131/1156,Placeholder,,3,,"Jurbattan, Mangaluru",,25,https://geniza.princeton.edu/people/avraham-b-yiju/
 Avraham b. Yiṣḥaq,,Male,Jewish community member,,,,,0,,,,1,
 Avraham b. Yiṣḥaq ha-Kohen Ibn Furāt,"Peʾer ha-Kehuna, Sar ha-ʿEda",Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/avraham-b-yishaq-ha-kohen-ibn-furat/
 Avraham b. Yiṣḥaq ha-Kohen Sholal,,Male,Jewish community member,,,,,2,,,,4,https://geniza.princeton.edu/people/avraham-b-yishaq-ha-kohen-sholal/
@@ -489,7 +490,7 @@ Kitmān,,Female,Enslaved person,,,,,0,,,,1,
 Labrāṭ b. Moshe b. Sughmār,,Male,Jewish community member,,,,,1,,,,1,
 Maʿālī b. Khalaf,,Male,None,,,,,1,,,,1,https://geniza.princeton.edu/people/ma-ali-b-khalaf/
 Maḍmūn b. David,"Maḍmūn II, Shemarya b. David",Male,Jewish communal official,,,"Maḍmūn b. David is a descendant of the first Maḍmūn — possibly his great-grandson through his eldest son Ḥalfon b. Maḍmūn. Maḍmūn b. David is addressed as Nagīd (IB II, 69), and as a leader of the Jewish community in two documents. At some point, he was also representative of the merchants in Aden. In IB II, 67, he describes the Jewish community returning to the religion after what might have been a period of temporary apostasy under the previous ruler of Yemen.","IB2, India",0,,,,6,
-Maḍmūn b. Ḥasan,Maḍmūn b. Yefet,Male,Jewish communal official,,,"Representative of the merchants in Aden; appointed Nagid ca. 1140 (II,40). Died 1151","IB2, India",2,,Aden,,4,
+Maḍmūn b. Ḥasan,"Maḍmūn b. Yefet, Maḍmūn b. al-Ḥasan, Maḍmūn b. Ḥasan b. Bundār",Male,Jewish communal official,,,"Representative of the merchants in Aden; appointed Nagid ca. 1140 (II,40). Died 1151","IB2, India",2,,Aden,,5,https://geniza.princeton.edu/people/madmun-b-hasan/
 Maḍmūn b. Yaʿaqov,,Male,Jewish community member,,,,"IB2, India",0,,Aden,,1,
 Maḥbūb b. Nissim ha-Ḥazzan,,Male,None,,,,,0,,,,1,
 Maḥfūẓa bt. Abū l-Faḍl Yosef Zayn al-Tujjār,,Female,None,,,,,0,,,,3,https://geniza.princeton.edu/people/mahfuza-bt-abu-l-fadl-yosef-zayn-al-tujjar/
@@ -679,6 +680,7 @@ Pinḥas b. Yosef,Binḥās b. Yūsuf,Male,None,,,,,0,,,,1,
 Qāsim b. ʿAbd al-ʿAzīz b. al-Nuʿman,,Male,Muslim judicial official,,1036/1049,"Abū Muḥammad Qāsim b. ʿAbd al-ʿAzīz b. al-Nuʿmān was the great-grandson of the eminent Fatimid jurist al-Qāḍī al-Nuʿmān (d. 363/970). He served as the Qāḍī al-Quḍāt (chief justice) and  Dāʿī al-Duʿāt (chief dāʿī) under the caliphs al-Ẓāhir and al-Mustanṣir. He was the last jurist of the Nuʿmān family and served for 13 years, one month, and fourteen days (information from al-Maqrīzī, Khiṭaṭ, II:149).","Fatimid, chief qadi",0,,,,2,https://geniza.princeton.edu/people/qasim-b-abd-al-aziz-b-al-nu-man/
 Qāsim Ibn al-Qatīf,,Male,None,,,,,0,,,,1,
 Raḥel al-Giyoret al-Rūmiyya,,Female,None,,,,,0,,,,1,
+Rāmisht,,Male,Other,,,Nākhudā,,0,,,,1,https://geniza.princeton.edu/people/ramisht/
 Riḍwān b. Walakhshī,,Male,State official,,1137/1139,Riḍwān b. al-Walakshī was a Fatimid wazīr and army commander under the caliph al-Ḥāfīẓ.,,0,,,,1,https://geniza.princeton.edu/people/ridwan-b-walakhshi/
 Saʿadya b. Avraham Ibn al-Amshāṭī,"Abū l-Fakhr, אבו אלפכר בר אברהם",Male,Jewish community member,,,,,0,,Fustat,,1,https://geniza.princeton.edu/people/sa-adya-b-avraham-ibn-al-amshati/
 Saʿadya b. Hillel ha-Kohen Rosh ha-Qahal,Saʿd b. Hilāl,Male,None,,,,,0,,,,1,
