@@ -1,7 +1,7 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,
 ʿAbd al-Raḥmān,,Male,None,,,,,0,,,,1,
-Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,3,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kata-ib/
+Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbd Allāh Ibn al-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,4,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kata-ib/
 Abū ʿAlī b. Abū ʿUmar,Bū ʿAlī b. Bū ʿUmar,Male,Jewish community member,,,India trader,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-b-abu-umar/
 Abū ʿAlī Ibn al-Sukkarī,,Male,Jewish community member,,,,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-ibn-al-sukkari/
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",,0,,,,1,
@@ -144,7 +144,7 @@ Al-Ḥāfiẓ (caliph),"Abū l-Maymūn ʿAbd al-Majīd b. Muḥammad b. al-Musta
 ʿAlī al-Maghrebi,,Male,None,,,,"IB2, India",1,Tripoli (Libya),,"Fustat, Yemen",0,
 ʿAlī al-Maghribī al-Ṭarābulsī,,Male,None,,,,,0,,,,1,
 (Abū l-Ḥasan) ʿAlī b. Ḥasan al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
-ʿAlī b. Manṣūr al-Fawfalī,,Male,None,,,"Shipowner (nākhudā) active in the Indian Ocean in the first half of the 12th century. See Ranabir Chakravarti, ""Two Men of Boats: ʿAlī b. Manṣūr al-Fawfalī and PDYR—Gleanings from the Cairo Geniza.""",,0,,,,1,https://geniza.princeton.edu/people/ali-b-mansur-al-fawfali/
+ʿAlī b. Manṣūr al-Fawfalī,,Male,None,,,"Shipowner (nākhudā) active in the Indian Ocean in the first half of the 12th century. See Ranabir Chakravarti, ""Two Men of Boats: ʿAlī b. Manṣūr al-Fawfalī and PDYR—Gleanings from the Cairo Geniza.""",,0,,,,2,https://geniza.princeton.edu/people/ali-b-mansur-al-fawfali/
 ʿAlī b. Yehoshuaʿ Ibn al-Lādhiqī,,Male,None,,,,,0,,,,1,
 ʿAlī Ibn Ḥusayn,,Male,None,,1036,,,0,,,,1,
 ʿAllān b. Ḥassūn,ʿAllāl b. Ḥassūn,Male,Jewish community member,,,"Indian Ocean trader. Son of the sister of ʿArūs b. Yūsuf, married to one of his daughters, and his protégé. Went to Sindabūr. See further Goitein, ""Portrait of a Medieval India Trader: Three Letters from the Cairo Geniza,"" BSOAS 1987",,1,,Aden,,5,https://geniza.princeton.edu/people/allan-b-hassun/
@@ -237,7 +237,7 @@ Avraham b. Yakhin,,Male,None,,,,,0,,,,1,
 Avraham b. Yefet ha-Levi,Abū Isḥāq,Male,None,,,,,0,,,,1,
 Avraham b. Yehuda ha-Kohen,,Male,None,,,,,0,,,,1,
 Avraham b. Yeshuʿa,,Male,None,,,,,0,,,,1,
-Avraham ben Yijū,Avraham b. Peraḥya b. Natan ben Yiju ha-Maʿaravi,Male,Jewish community member,,1131/1156,Placeholder,,3,,"Jurbattan, Mangaluru",,25,https://geniza.princeton.edu/people/avraham-b-yiju/
+Avraham ben Yijū,Avraham b. Peraḥya b. Natan ben Yiju ha-Maʿaravi,Male,Jewish community member,,1131/1156,Placeholder,,3,,"Jurbattan, Mangaluru",,31,https://geniza.princeton.edu/people/avraham-b-yiju/
 Avraham b. Yiṣḥaq,,Male,Jewish community member,,,,,0,,,,1,
 Avraham b. Yiṣḥaq ha-Kohen Ibn Furāt,"Peʾer ha-Kehuna, Sar ha-ʿEda",Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/avraham-b-yishaq-ha-kohen-ibn-furat/
 Avraham b. Yiṣḥaq ha-Kohen Sholal,,Male,Jewish community member,,,,,2,,,,4,https://geniza.princeton.edu/people/avraham-b-yishaq-ha-kohen-sholal/
@@ -259,6 +259,7 @@ Avraham Maimonides,"Abū l-Munā, Avraham Maymūnī, Avraham b. Moshe b. Maymūn
 ʿAzīz b. Ghanāʾim ha-Levi,,Male,Jewish community member,,,,,0,,,,1,
 Badr al-Jamālī,,Male,State official,,1073/1094,"Fatimid chief wazir and army commander who served under al-Mustanṣir (d. 1094) from 1073-1094. Originally an Armenian and a convert to Islam, he was initially deployed in Acre before he arrived in Egypt in 1073.",,0,,,,4,https://geniza.princeton.edu/people/badr-al-jamali/
 Bahāʾ al-Dīn Qarāqūsh b. ʿAbdallāh al-Asadī,,Male,State official,,1168/1201,Eunuch military commander in the service of Saladin and his successors. Died in 1201.,,0,,,,4,https://geniza.princeton.edu/people/baha-al-din-qaraqush-b-abdallah-al-asadi/
+Bama,Bomma,Male,Enslaved person,,,An Indian slave and factotum of Avraham ben Yiju. The subject of Amitav Ghosh's book In an Antique Land.,,0,,,,8,https://geniza.princeton.edu/people/bama/
 Benaya b. Moshe,Banāya b. Mūsā,Male,None,,,,,0,,,,3,https://geniza.princeton.edu/people/banaya-b-musa/
 Barakāt b. Khalaf,,Male,None,,,,,0,,,,0,
 Barakāt b. Khalaf,,Male,None,,,,,0,,,,1,
@@ -481,7 +482,7 @@ Khalaf b. Bundār,,Male,None,,,,,0,,,,1,
 Khalaf b. Hārūn Tāj al-Maʿālī,,Male,Jewish community member,,,,,1,,,,0,
 Khalaf b. Ibrāhīm al-Ḥallāl,,Male,None,,,,,0,,,,1,
 Khalaf b. Yaʿaqov,Khalaf b. Yaʿqūb,Male,None,,,,,0,,,,1,
-Khalaf b. Yiṣḥaq,,Male,Jewish community member,,,,,0,,Aden,,11,https://geniza.princeton.edu/people/khalaf-b-yishaq/
+Khalaf b. Yiṣḥaq,,Male,Jewish community member,,,,,0,,Aden,,12,https://geniza.princeton.edu/people/khalaf-b-yishaq/
 Khalfa al-Ḥazzan Ibn al-Qafṣī,,Male,None,,,,,1,Gafsa,,,1,
 Khallūf b. Saʿdān,,Male,None,,,,,0,,,,1,
 Khaṣīb b. Musāfir,,Male,None,,,,,0,,,,1,
@@ -490,7 +491,7 @@ Kitmān,,Female,Enslaved person,,,,,0,,,,1,
 Labrāṭ b. Moshe b. Sughmār,,Male,Jewish community member,,,,,1,,,,1,
 Maʿālī b. Khalaf,,Male,None,,,,,1,,,,1,https://geniza.princeton.edu/people/ma-ali-b-khalaf/
 Maḍmūn b. David,"Maḍmūn II, Shemarya b. David",Male,Jewish communal official,,,"Maḍmūn b. David is a descendant of the first Maḍmūn — possibly his great-grandson through his eldest son Ḥalfon b. Maḍmūn. Maḍmūn b. David is addressed as Nagīd (IB II, 69), and as a leader of the Jewish community in two documents. At some point, he was also representative of the merchants in Aden. In IB II, 67, he describes the Jewish community returning to the religion after what might have been a period of temporary apostasy under the previous ruler of Yemen.","IB2, India",0,,,,6,
-Maḍmūn b. Ḥasan,"Maḍmūn b. Yefet, Maḍmūn b. al-Ḥasan, Maḍmūn b. Ḥasan b. Bundār",Male,Jewish communal official,,,"Representative of the merchants in Aden; appointed Nagid ca. 1140 (II,40). Died 1151","IB2, India",2,,Aden,,5,https://geniza.princeton.edu/people/madmun-b-hasan/
+Maḍmūn b. Ḥasan,"Maḍmūn b. Yefet, Maḍmūn b. al-Ḥasan, Maḍmūn b. Ḥasan b. Bundār",Male,Jewish communal official,,,"Representative of the merchants in Aden; appointed Nagid ca. 1140 (II,40). Died 1151","IB2, India",2,,Aden,,10,https://geniza.princeton.edu/people/madmun-b-hasan/
 Maḍmūn b. Yaʿaqov,,Male,Jewish community member,,,,"IB2, India",0,,Aden,,1,
 Maḥbūb b. Nissim ha-Ḥazzan,,Male,None,,,,,0,,,,1,
 Maḥfūẓa bt. Abū l-Faḍl Yosef Zayn al-Tujjār,,Female,None,,,,,0,,,,3,https://geniza.princeton.edu/people/mahfuza-bt-abu-l-fadl-yosef-zayn-al-tujjar/
@@ -499,7 +500,7 @@ Maḥrūz b. Yaʿaqov,,Male,Jewish community member,,,Nākhudā (shipowner) trav
 Moshe Maimonides,"Maimonides, Moses Maimonides, Moshe b. Maymūn",Male,Jewish communal official,,,[placeholder],,2,,,,48,https://geniza.princeton.edu/people/maimonides/
 Makārim b. Sibāʿ,,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/makarim-b-siba/
 Makhlūf b. Faḍḍāl al-Qābisī.,,Male,None,,,,,1,,,,1,
-Makhlūf b. Mūsā Ibn al-Yatīm,"Ibn ʿAynayn Shirra, Ibn ʿAynayn Sārra, Makhlūf al-Nafūsī, Makhlūf b. ʿAyn Sārra",Male,Jewish community member,,,"Trader of the late eleventh and early twelfth century. An import-export merchant, he traveled between Iberia and India. Had legal disputes with Ibn Yijū in which he also tried to involve Maḍmūn b. Yūsuf. Ultimately, Maḍmūn paid Makhlūf 300 dinars on behalf of Ibn Yijū and Makhlūf dropped his claims.",,0,Nafūsa,Alexandria,,12,https://geniza.princeton.edu/people/makhluf-b-musa-ibn-al-yatim/
+Makhlūf b. Mūsā Ibn al-Yatīm,"Ibn ʿAynayn Shirra, Ibn ʿAynayn Sārra, Makhlūf al-Nafūsī, Makhlūf b. ʿAyn Sārra",Male,Jewish community member,,,"Trader of the late eleventh and early twelfth century. An import-export merchant, he traveled between Iberia and India. Had legal disputes with Ibn Yijū in which he also tried to involve Maḍmūn b. Yūsuf. Ultimately, Maḍmūn paid Makhlūf 300 dinars on behalf of Ibn Yijū and Makhlūf dropped his claims.",,0,Nafūsa,Alexandria,,13,https://geniza.princeton.edu/people/makhluf-b-musa-ibn-al-yatim/
 Makhlūf Neʾeman ha-Yeshiva,,Male,Jewish community member,,,,,2,,,,1,
 Makīn al-Dawla,,Male,State official,,,"The amīr Thiqat al-Mulk Makīn al-Dawla was a state official during the period of the Fatimid caliph al-Ḥakim. Officials by the same title also existed in the periods of al-Mustanṣir and al-Āmir (see T-S 10J14.24, T-S 13J22.23).",,0,,,,1,https://geniza.princeton.edu/people/makin-al-dawla/
 Makīn al-Dawla,,Male,Muslim judicial official,,1090,Qāḍī of Alexandria during the era of the Fāṭimid caliph al-Mustanṣir.,,1,,Alexandria,,1,
@@ -540,9 +541,9 @@ Merkado Karo,,Male,Jewish community member,,,Merchant active ca. 1800. Formed a 
 Meshullam b. Hiba Ibn al-Shuwaykiyya,Abū l-ʿAlāʾ,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/meshullam-b-hiba-ibn-al-shuwaykiyya/
 Meshullam b. Mevorakh,,Male,Jewish community member,,,,,0,,,,1,
 Meshullam b. Shelomo Ibn Sunaynāt,Musallam,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/meshullam-b-shelomo-ibn-sunaynat/
+Mevasser ben Yijū,"Abū l-Bishr b. Abū l-Surūr, Mevasser b. Peraḥya",Male,Jewish community member,,,,,1,,,,4,https://geniza.princeton.edu/people/mevasser-ben-yiju/
 Mevasser b. Shelomo,,Male,None,,,,,1,,,,1,
 Mevasser b. Yeshuʿa,,Male,None,,,,,0,,,,1,
-Mevasser b. Yijū,,Male,Jewish community member,,,,,1,,,,1,
 Mevorakh b. ʿAmram,,Male,None,,,,,0,,,,1,
 Mevorakh b. Avraham,,Male,None,,,,,0,,,,1,
 Mevorakh b. Avraham (al-Mahdiyya),,Male,None,,,,,0,,,,1,
