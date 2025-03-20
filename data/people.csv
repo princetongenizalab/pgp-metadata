@@ -146,7 +146,7 @@ al-Malik al-Afḍal,al-Afḍal b. Badr al-Jamālī,Male,State official,,1094/112
 Al-Asʿad b. Abū l-Faraj al-Ṣayrafī Ibn Nuʿmān,,Male,None,,,,,0,,,,1,
 Al-Ḥāfiẓ (caliph),"Abū l-Maymūn ʿAbd al-Majīd b. Muḥammad b. al-Mustanṣir, al-Ḥāfiẓ li-Dīn Allāh",Male,State official,,1132/1149,"Eleventh Fatimid caliph, r. 1132–49. Preceded by al-Āmir and succeeded by al-Ẓāfir.",,0,,,,1,https://geniza.princeton.edu/people/al-hafiz-caliph/
 al-Ḥusayn b. ʿAlī,الحسين بن علي,Male,Other,,,Mail carrier transporting letters from Jerusalem to Fustat in the second half of the eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96) and his son ʿUmar b. Yūsuf was frequently named alongside him in letters as a fellow mail carrier.,,1,,,"Fustat, Jerusalem",1,
-Al-Ḥusayn b. Ẓāhir,الحسين بن طاهر,Male,Other,,,Mail carrier working the Jersualem - Fustat route in the mid-eleventh century. Carried letters to Nahray b. Nissim (fl. 1040-96).,,0,,,,0,
+Al-Ḥusayn b. Ẓāhir,الحسين بن طاهر,Male,Other,,,Mail carrier working the Jersualem - Fustat route in the mid-eleventh century. Carried letters to Nahray b. Nissim (fl. 1040-96).,,0,,,,1,
 ʿAlī al-Maghrebi,,Male,None,,,,"IB2, India",1,Tripoli (Libya),,"Fustat, Yemen",0,
 ʿAlī al-Maghribī al-Ṭarābulsī,,Male,None,,,,,0,,,,1,
 (Abū l-Ḥasan) ʿAlī b. Ḥasan al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
@@ -261,7 +261,7 @@ Avraham II Maimonides,Avraham b. David b. Avraham b. Moshe Maymūnī,Male,Jewish
 Avraham Krispin,Avraham Crespin,Male,None,,,,,0,,,,4,https://geniza.princeton.edu/people/avraham-krispin/
 Avraham Maimonides,"Abū l-Munā, Avraham Maymūnī, Avraham b. Moshe b. Maymūn",Male,Jewish communal official,,1205/1237,"Son of Moshe Maimonides, served as Head of the Jews 1205–37, bearing the title Nagid from 1213 onward.",,5,,,,21,https://geniza.princeton.edu/people/avraham-maimonides/
 ʿAwāḍ b. Ḥananel,,Male,Jewish community member,,,,,1,,,,3,
-ʿAwwāḍ b. Ḥananel,,Male,Jewish community member,,,,,0,,,,4,
+ʿAwwāḍ b. Ḥananel,,Male,Jewish community member,,,,,0,,,,5,
 ʿAyyāsh b. Nissim,,Male,None,,,,,0,,,,0,
 ʿAyyāsh b. Ṣadaqa,Abū Ibrāhīm,Male,Jewish community member,,,,,3,,,Būṣīr,3,
 ʿAzarya b. David,,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/azarya-b-david/
@@ -463,7 +463,7 @@ Ibn al-Thumna,Betumen,Male,Other,,,"Ibn al-Thumna was a qāʾid of Sicily in the
 (Ibn) Najīb al-Dawla,,Male,State official,,,"Ali b. Ibrahim b. Najib al-Dawla (d. 519/1128) was a Fatimid state official who was formerly the secretary (kātib) of al-Afdal and was sent to Yemen to be at the service of the Sulayhid empress, a vassal of the Fatimids, Arwa bt. Aḥmad, also known known as al-Ḥurra al-Malika. Some sources report that he remained loyal for a few years but ultimately tried to undermine her authority and restrict her powers. She reportedly sent him back to Cairo in a wooden cage and he was thrown overboard and drowned on the journey.  The fact that Ibn Najīb al-Dawla is known not by his own laqab but by his father’s may indicate that his father was an important official.",,0,,,,2,https://geniza.princeton.edu/people/ibn-najib-al-dawla/
 Ibrahim b. Abī l-Ḥayy Khalīla,,Male,Jewish community member,,,,,1,,,,1,
 Ibrāhīm b. Farrāḥ,,Male,Jewish community member,,,,,0,,Alexandria,,1,
-Ibrāhīm (ʿAwwāḍ) b. Ḥananel,Abū Isḥāq,Male,Jewish community member,,,,,0,,,,1,
+Ibrāhīm (ʿAwwāḍ) b. Ḥananel,Abū Isḥāq,Male,Jewish community member,,,,,0,,,,2,
 Ibrahim b. Simḥūn,,Male,Jewish community member,,,,,0,,,,1,
 Ibrāhīm b. Ṭāhir,Avraham b. Ṭahor,Male,Jewish community member,,,,,0,,,,1,
 Iftikhār al-Dawla,,Male,State official,,1151/1152,al-Amīr al-Muʾayyad ʿIzz al-Mulk Iftikhār al-Dawla was a Fatimid state official active in the 12th century.,,1,,,,1,https://geniza.princeton.edu/people/iftikhar-al-dawla/
@@ -638,7 +638,7 @@ Born around 1025 and descended from a leader (nagid) of the Qayrawān community,
 
 Having studied at the Qayrawan academy of Nissim b. Ya`aqov, Nahray was learned in rabbinic literature; he acted as a professional jurisconsult in Fustat and responded to queries from North Africa. He also maintained ties to the Jerusalem academy and received two honorary titles from it. At various points, Nahray headed the Iraqi congregation in Fustat and managed the affairs of the Palestinian synagogue. He supported the Palestinian nasi David b. Daniel in his conflict with Mevorakh b. Sa'adya between 1082 and 1094, but supported Mevorakh after 1094. He also raised funds to redeem captives, in one case mobilizing the community to free Jewish merchants held by Byzantine forces in Amalfi, and served in other patronage and leadership capacities in the Jewish community. 
 
-(Information mainly from Phillip Ackerman-Lieberman, ""Nahray ben Nissim"" in Encyclopedia of Jews in the Islamic World)",,40,Qayrawān,Fustat,"Alexandria, Jerusalem",180,https://geniza.princeton.edu/people/nahray-b-nissim/
+(Information mainly from Phillip Ackerman-Lieberman, ""Nahray ben Nissim"" in Encyclopedia of Jews in the Islamic World)",,40,Qayrawān,Fustat,"Alexandria, Jerusalem",185,https://geniza.princeton.edu/people/nahray-b-nissim/
 Naʿ īm b. ʿImrān,,Male,Jewish community member,,,,,0,,,Fustat,1,
 Najā b. al-Ḥusayn al-Anṣārī,نجا بن الحسين اﻻنصاري,Male,Other,,,"Mail carrier, often transporting letters from Jerusalem to Fustat in the mid-eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96).",,0,,,"Fustat, Jerusalem",3,https://geniza.princeton.edu/people/naja-b-al-husayn-al-ansari/
 Nājiya bt. Shelomo b. Hiba al-Miṣrī,,Female,None,,,,,0,,,,2,
@@ -905,8 +905,7 @@ Tiqva b. Elʿazar,,Male,None,,,,,0,,,,1,
 (Abū l-Munā) ʿUlla b. Sibāʿ Ibn al-Dihqān,Abū l-Munā,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/ulla-b-siba-ibn-al-dihqan/
 ʿUlla b. Yeshuʿa Ibn al-ʿIrāqī,,Male,None,,,,,0,,,,1,
 ʿUlla b. Yosef ha-Levi,Abū l-ʿAlāʾ Ṣāʿid b. Munajjā al-Dimashqī,Male,Jewish communal official,,,Parnas,,0,,,,14,https://geniza.princeton.edu/people/ulla-b-yosef-ha-levi/
-ʿUmar b. Yūsuf,,Male,None,,,,,0,,,,1,
-ʿUmar b. Yūsuf,عمر بن يوسف,Male,Other,,,"Mail carrier transporting letters from Jerusalem to Fustat in the second half of the eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96) alongside his father, al-Ḥusayn b. ʿAlī, a fellow mail carrier. The family was likely Muslim (or perhaps Christians) because their names were always written out in Arabic while the letters they carried were in Hebrew script.",,1,,,"Fustat, Jerusalem",1,
+ʿUmar b. Yūsuf,عمر بن يوسف,Male,Other,,,"Mail carrier transporting letters from Jerusalem to Fustat in the second half of the eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96) alongside his father, al-Ḥusayn b. ʿAlī, a fellow mail carrier. The family was likely Muslim (or perhaps Christians) because their names were always written out in Arabic while the letters they carried were in Hebrew script.",,1,,,"Fustat, Jerusalem",3,
 Umm al-Khayr,,Female,None,,,,,2,,,,1,https://geniza.princeton.edu/people/umm-al-khayr/
 Umm Dāʾūd,,Female,Jewish community member,,,,,1,,,,1,https://geniza.princeton.edu/people/umm-da-ud/
 [Unknown] bt. Yūsuf,,Female,Jewish community member,,,,,0,,,,1,
@@ -1053,7 +1052,7 @@ Yiṣḥaq ha-Melammed b. Ḥayyim,Yiṣḥaq b. Ḥayyim,Male,None,,,,,0,,,,1,
 Yiṣḥaq Luria Ashkenazi (ha-Ari),,Male,None,,,"[placeholder] renowned Kabbalist, attested also in several Geniza documents as a merchant",,0,,,,2,https://geniza.princeton.edu/people/yishaq-luria-ashkenazi-ha-ari/
 Yisraʾel b. Daniʾel,Isrāʾīl b. Dāniyāl,Male,None,,,,,0,,,,1,
 Yisraʾel b. Ghālib ha-Kohen,,Male,Jewish community member,,,,,0,,,,1,
-Yisraʾel b. Natan,"Isrāʾīl b. Sahlūn, Yisraʾel b. Natan b. Nahray",Male,Jewish community member,,,,,0,,Jerusalem,,14,https://geniza.princeton.edu/people/yisra-el-b-natan/
+Yisraʾel b. Natan,"Isrāʾīl b. Sahlūn, Yisraʾel b. Natan b. Nahray",Male,Jewish community member,,,,,0,,Jerusalem,,15,https://geniza.princeton.edu/people/yisra-el-b-natan/
 Yisraʾel b. Yosef Janūnī,ישראל ביר יוסף גנוני,Male,Jewish community member,,,,,1,,,,1,
 Yisraʾel b. Yosef b. Bānūqa,,Male,Jewish community member,,,,,0,,,,1,
 Yiṣḥaq ha-Kohen al-Nafūsī,,Male,Jewish community member,,,,,0,Nafūsa,,,1,
