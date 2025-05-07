@@ -97,10 +97,10 @@ Būra,,"31° 24′ 0″ N, 31° 43′ 38″ E","""'A city on the seacoast near D
 Apparently on the site of present-day Kafr al-Baṭṭīkh.",2,0,0,https://geniza.princeton.edu/places/bura/
 Burullus,"Buḥayrat al-Burullus, Lake Burullus","31° 28′ 20″ N, 30° 50′ 11″ E",,2,0,0,https://geniza.princeton.edu/places/burullus/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 9′ 7″ N, 31° 7′ 53″ E",,6,0,0,https://geniza.princeton.edu/places/bush/
-Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,78,1,0,https://geniza.princeton.edu/places/busir/
+Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,100,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,"41° 0′ 23″ N, 28° 58′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,4,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,386,2,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,388,2,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,"11° 15′ 32″ N, 75° 46′ 49″ E",,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,"35° 20′ 27″ N, 25° 8′ 53″ E",,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,"44° 3′ 20″ N, 5° 2′ 56″ E",,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -129,6 +129,7 @@ Damshīt,دمشيت,"30° 52′ 41″ N, 31° 2′ 1″ E",,1,0,0,https://geniza
 Damūya,"Damūya al-Lāhūn, Dimūh, Dimūh al-Lāhūn, هواره عدلان","29° 12′ 11″ N, 30° 57′ 57″ E",,0,0,0,https://geniza.princeton.edu/places/damuya/
 Danūhyā,"Danūhiyya, دنوهيا, دنوهية","30° 32′ 12″ N, 31° 33′ 28″ E",,1,0,0,https://geniza.princeton.edu/places/danuhya/
 Darb Makīn (street),,,Street in Fustat,1,0,0,https://geniza.princeton.edu/places/darb-makin-street/
+Daybul,,"24° 45′ 12″ N, 67° 31′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/daybul/
 Daylam,"דילם, ديلم","36° 53′ 16″ N, 49° 54′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/daylam/
 Dayqūf,"داقوف, ديقوف","28° 23′ 35″ N, 30° 38′ 40″ E",,1,0,0,https://geniza.princeton.edu/places/dayquf/
 Dénia,"דאניה, دانية","38° 50′ 39″ N, 0° 6′ 39″ E",,3,0,0,https://geniza.princeton.edu/places/denia/
@@ -151,7 +152,7 @@ Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,16,1,0,https://geniza.princeton.edu
 Florence,פירנצה,"43° 46′ 16″ N, 11° 15′ 14″ E",,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,"46° 27′ 20″ N, 2° 10′ 44″ E",,1,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,"45° 53′ 59″ N, 13° 0′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,915,48,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,923,48,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,3,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,10,0,0,https://geniza.princeton.edu/places/gaza/
@@ -247,6 +248,7 @@ Nafūsa,Jebel Nafūsa,"31° 51′ 53″ N, 11° 47′ 35″ E","The Nafusa mount
 Nahrwāra,"Anahilavada, Patan","23° 51′ 0″ N, 72° 7′ 29″ E",,5,0,0,https://geniza.princeton.edu/places/nahrwara/
 Nájera,,"42° 24′ 59″ N, 2° 43′ 47″ W",,1,0,0,https://geniza.princeton.edu/places/najera/
 Narbonne,,"43° 11′ 0″ N, 3° 0′ 5″ E",,1,0,0,https://geniza.princeton.edu/places/narbonne/
+Naṣībīn,"Nisibis, Nusaybin, נציבין, نصيبين","37° 4′ 12″ N, 41° 12′ 50″ E",,1,0,0,https://geniza.princeton.edu/places/nasibin/
 Nawāj,نواج,"30° 52′ 5″ N, 31° 0′ 25″ E",,1,0,0,https://geniza.princeton.edu/places/nawaj/
 Ouarsenis,Wānsharīs,"35° 52′ 0″ N, 1° 37′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/oarsenis/
 Otranto,,"40° 8′ 43″ N, 18° 29′ 29″ E",,1,0,0,https://geniza.princeton.edu/places/otranto/
@@ -348,6 +350,7 @@ Tyre,,"33° 16′ 13″ N, 35° 13′ 50″ E",,36,1,0,https://geniza.princeton.
 Valapattanam,"Balyapattanam, Valarapattanam","11° 54′ 0″ N, 75° 22′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/valapattanam/
 Val Demone,"Dimunsh, דמנש","38° 1′ 48″ N, 14° 34′ 50″ E",,2,0,0,https://geniza.princeton.edu/places/val-demone/
 Valencia,,"39° 28′ 10″ N, 0° 22′ 38″ E",,2,0,0,https://geniza.princeton.edu/places/valencia/
+Valladolid,ואלדוליד,"41° 39′ 9″ N, 4° 43′ 24″ W",,1,0,0,https://geniza.princeton.edu/places/valladolid/
 Venice,,"45° 26′ 13″ N, 12° 19′ 57″ E",,22,0,0,https://geniza.princeton.edu/places/venice/
 Vienna,,"48° 12′ 29″ N, 16° 22′ 16″ E",,1,0,0,https://geniza.princeton.edu/places/vienna/
 Wardūnyā,,"33° 22′ 52″ N, 44° 20′ 34″ E","A NW suburb of Baghdad. See N. Golb, ‘A Marriage Deed from ‘Warduniā of Baghdad,’ Journal of Near Eastern Studies 43.2 (1984), pp. 152–56.",1,0,0,https://geniza.princeton.edu/places/wardunya/
