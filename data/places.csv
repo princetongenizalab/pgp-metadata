@@ -22,12 +22,12 @@ Aleppo,"חלב, צובה, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,38,0,0
 Alexandria,,"31° 12′ 16″ N, 29° 52′ 48″ E",,268,31,1,https://geniza.princeton.edu/places/alexandria/
 al-Fayyūm,,"29° 18′ 8″ N, 30° 53′ 31″ E",,6,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,"36° 8′ 26″ N, 5° 27′ 22″ W",,1,0,0,https://geniza.princeton.edu/places/algeciras/
-al-Gharbiyya (region),,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,2,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
+al-Gharbiyya (region),,"30° 52′ 1″ N, 31° 1′ 40″ E",Administrative region,3,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
 al-Karak,الكرك,"31° 10′ 59″ N, 35° 42′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/al-karak/
 ʿAlmā,,"33° 3′ 6″ N, 35° 29′ 56″ E",,1,0,0,https://geniza.princeton.edu/places/alma/
 al-Maghrib,al-Gharb,,Region,1,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,"15° 56′ 57″ N, 43° 26′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
-al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,42,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
+al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,43,1,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya","35° 30′ 0″ N, 11° 4′ 12″ E",,51,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,2,0,0,https://geniza.princeton.edu/places/al-manzala/
 al-Maṣṭāy,,"30° 37′ 14″ N, 31° 9′ 27″ E",,1,0,0,https://geniza.princeton.edu/places/al-mastay/
@@ -96,7 +96,7 @@ Būra,,"31° 24′ 0″ N, 31° 43′ 38″ E","""'A city on the seacoast near D
 Apparently on the site of present-day Kafr al-Baṭṭīkh.",2,0,0,https://geniza.princeton.edu/places/bura/
 Burullus,"Buḥayrat al-Burullus, Lake Burullus","31° 28′ 20″ N, 30° 50′ 11″ E",,2,0,0,https://geniza.princeton.edu/places/burullus/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 9′ 7″ N, 31° 7′ 53″ E",,6,0,0,https://geniza.princeton.edu/places/bush/
-Būṣīr,"Abū Ṣīr, אבו ציר, בו ציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,22,1,0,https://geniza.princeton.edu/places/busir/
+Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,23,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,"41° 0′ 23″ N, 28° 58′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,4,0,0,https://geniza.princeton.edu/places/caesarea/
 Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,384,2,1,https://geniza.princeton.edu/places/cairo/
@@ -150,7 +150,7 @@ Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,16,1,0,https://geniza.princeton.edu
 Florence,פירנצה,"43° 46′ 16″ N, 11° 15′ 14″ E",,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,"46° 27′ 20″ N, 2° 10′ 44″ E",,1,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,"45° 53′ 59″ N, 13° 0′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,906,48,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,912,48,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,3,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,9,0,0,https://geniza.princeton.edu/places/gaza/
@@ -259,7 +259,7 @@ Qabīl,,"31° 4′ 59″ N, 30° 30′ 0″ E",,1,0,0,https://geniza.princeton.e
 Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,3,3,0,https://geniza.princeton.edu/places/qabis/
 Qalhā,قلها,"29° 4′ 21″ N, 30° 53′ 25″ E",,1,0,0,https://geniza.princeton.edu/places/qalha/
 Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,18,1,0,https://geniza.princeton.edu/places/qalyub/
-Qaṣr al-Shamʿ (neighborhood),,,Neighborhood in Fustat.,3,0,0,https://geniza.princeton.edu/places/qasr-al-sham-neighborhood/
+Qaṣr al-Shamʿ (neighborhood),,,Neighborhood in Fustat.,4,0,0,https://geniza.princeton.edu/places/qasr-al-sham-neighborhood/
 Qaṭyā,Qaṭya,"30° 57′ 48″ N, 32° 45′ 15″ E",,7,0,0,https://geniza.princeton.edu/places/qatya/
 Qayrawān,Kairouan,"35° 40′ 1″ N, 10° 6′ 3″ E",,31,7,0,https://geniza.princeton.edu/places/qayrawan/
 Qedesh,,"33° 6′ 41″ N, 35° 31′ 46″ E",,1,0,0,https://geniza.princeton.edu/places/qedesh/
