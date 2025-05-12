@@ -37,7 +37,7 @@ Almeria,,"36° 50′ 41″ N, 2° 27′ 7″ W",,9,0,0,https://geniza.princeton.
 Al-Nastarāwiyya (region),,"31° 31′ 31″ N, 30° 49′ 36″ E",The strip of land to the north of Lake Burullus.,1,0,0,https://geniza.princeton.edu/places/al-nastarawiyya-region/
 al-Nuʿmāniyya,,"32° 32′ 40″ N, 45° 24′ 26″ E",,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
 al-Qaṣṣ,,,Unidentified location thought to be in NW India,1,0,0,https://geniza.princeton.edu/places/al-qass/
-al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,30,2,0,https://geniza.princeton.edu/places/al-ramla/
+al-Ramla,,"31° 55′ 38″ N, 34° 51′ 44″ E",,34,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة","35° 57′ 22″ N, 39° 0′ 43″ E",,9,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣāfiyya,الصافية,"31° 3′ 57″ N, 30° 43′ 46″ E",,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,"32° 1′ 59″ N, 35° 43′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/al-salt/
@@ -102,7 +102,7 @@ Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 9′ 7″ N, 31° 7′ 53″
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,100,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,"41° 0′ 23″ N, 28° 58′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,4,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,417,2,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,418,2,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,"11° 15′ 32″ N, 75° 46′ 49″ E",,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,"35° 20′ 27″ N, 25° 8′ 53″ E",,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,"44° 3′ 20″ N, 5° 2′ 56″ E",,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -124,7 +124,7 @@ Dahrūṭ,,"28° 36′ 46″ N, 30° 47′ 53″ E",,3,0,0,https://geniza.prince
 Dājūn,"Bayt Dagan, Bayt Dajan","32° 0′ 12″ N, 34° 49′ 45″ E",,1,0,0,https://geniza.princeton.edu/places/dajun/
 Dallāta,Dalton,"33° 1′ 19″ N, 35° 29′ 36″ E",,1,0,0,https://geniza.princeton.edu/places/dallata/
 Damanhūr,دمنهور,"31° 2′ 26″ N, 30° 28′ 11″ E",,4,0,0,https://geniza.princeton.edu/places/damanhur/
-Damascus,"Dimashq, חדרך, دمشق","33° 30′ 37″ N, 36° 16′ 41″ E",,75,1,0,https://geniza.princeton.edu/places/damascus/
+Damascus,"Dimashq, חדרך, دمشق","33° 30′ 37″ N, 36° 16′ 41″ E",,76,1,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط","31° 25′ 3″ N, 31° 48′ 51″ E",,43,0,0,https://geniza.princeton.edu/places/damietta/
 Damīra,,"31° 6′ 28″ N, 31° 21′ 40″ E",,29,0,0,https://geniza.princeton.edu/places/damira/
 Dammūh,"Dimwa, Ṭammūh","29° 56′ 22″ N, 31° 16′ 2″ E","For the location as identical with Ṭammūh, see Golb, ""Topography,"" part 1.",15,0,0,https://geniza.princeton.edu/places/dammuh/
@@ -132,6 +132,7 @@ Damshīt,دمشيت,"30° 52′ 41″ N, 31° 2′ 1″ E",,1,0,0,https://geniza
 Damūya,"Damūya al-Lāhūn, Dimūh, Dimūh al-Lāhūn, هواره عدلان","29° 12′ 11″ N, 30° 57′ 57″ E",,0,0,0,https://geniza.princeton.edu/places/damuya/
 Danūhyā,"Danūhiyya, دنوهيا, دنوهية","30° 32′ 12″ N, 31° 33′ 28″ E",,1,0,0,https://geniza.princeton.edu/places/danuhya/
 Darb Makīn (street),,,Street in Fustat,1,0,0,https://geniza.princeton.edu/places/darb-makin-street/
+Darmus,"Kalabsha, Talmis","24° 39′ 39″ N, 32° 56′ 10″ E",,1,0,0,https://geniza.princeton.edu/places/darmus/
 Daybul,,"24° 45′ 12″ N, 67° 31′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/daybul/
 Daylam,"דילם, ديلم","36° 53′ 16″ N, 49° 54′ 20″ E",,1,0,0,https://geniza.princeton.edu/places/daylam/
 Dayqūf,"داقوف, ديقوف","28° 23′ 35″ N, 30° 38′ 40″ E",,1,0,0,https://geniza.princeton.edu/places/dayquf/
@@ -156,7 +157,7 @@ Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,16,1,0,https://geniza.princeton.edu
 Florence,פירנצה,"43° 46′ 16″ N, 11° 15′ 14″ E",,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,"46° 27′ 20″ N, 2° 10′ 44″ E",,1,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,"45° 53′ 59″ N, 13° 0′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,999,48,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,1009,48,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,3,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -176,7 +177,7 @@ Hamadān,,"34° 47′ 53″ N, 48° 30′ 50″ E",,1,0,0,https://geniza.princet
 Hebron,"חברון, الخليل","31° 31′ 45″ N, 35° 5′ 37″ E",,12,0,0,https://geniza.princeton.edu/places/hebron/
 Ḥelwān,حلوان,"29° 50′ 31″ N, 31° 19′ 59″ E",,0,0,0,https://geniza.princeton.edu/places/hilwan/
 Homs,"حمص, Ḥimṣ","34° 43′ 57″ N, 36° 42′ 48″ E",,2,0,0,https://geniza.princeton.edu/places/homs/
-Ibrīm,"Qalʿat Ibrīm, Qaṣr Ibrīm","22° 38′ 58″ N, 31° 59′ 34″ E",,5,1,0,https://geniza.princeton.edu/places/ibrim/
+Ibrīm,"Qalʿat Ibrīm, Qaṣr Ibrīm","22° 38′ 58″ N, 31° 59′ 34″ E",,6,1,0,https://geniza.princeton.edu/places/ibrim/
 Imbāba,,"30° 5′ 33″ N, 31° 12′ 2″ E",,1,0,0,https://geniza.princeton.edu/places/imbaba/
 India,"אלהנד, الهند",,Region,1,0,0,https://geniza.princeton.edu/places/india/
 Iṣfahān,اصفهان,"32° 40′ 4″ N, 51° 40′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/isfahan/
@@ -184,7 +185,7 @@ Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,8,0,0,https://geniza.princ
 Jabala,,"35° 21′ 56″ N, 35° 55′ 32″ E",,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,"33° 10′ 1″ N, 35° 21′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,4,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,123,11,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,132,11,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,"21° 31′ 45″ N, 39° 9′ 39″ E",,4,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,"34° 7′ 24″ N, 35° 39′ 6″ E",,4,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,"31° 3′ 0″ N, 31° 20′ 41″ E","31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
