@@ -1,5 +1,7 @@
 # PGP Metadata
 
+[![validation](https://github.com/princetongenizalab/pgp-metadata/actions/workflows/validation.yml/badge.svg)](https://github.com/princetongenizalab/pgp-metadata/actions/workflows/validation.yml)
+
 This repository is used to version and publish data from the [Princeton Geniza Project](https://geniza.princeton.edu/) (PGP). The data files are automatically exported and synchronized from the PGP database. Commits include co-author information where possible, to credit the researchers who are working on the data.
 
 Files in the data directory should _NOT_ be edited or modified directly.
