@@ -1,8 +1,10 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-Karīm b. al-Ḥasan b. Dāwud,,Male,None,,,,,0,,,,1,
+ʿAbd Allāh b. al-qāḍī al-rashīd ʿAlī b. al-Zubayr,,Male,State official,,,,,2,,,,1,
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,https://geniza.princeton.edu/people/abd-al-masih-b-maqara-b-harun/
 ʿAbd al-Raḥmān,,Male,None,,,,,0,,,,1,
 Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbd Allāh Ibn al-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,4,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kataib/
+Abū ʿAbd Allāh (Qaṣr Ibrīm),,Male,State official,,,,Qasr Ibrim,2,,,Erkinun,1,
 Abū ʿAlī b. Abū ʿUmar,Bū ʿAlī b. Bū ʿUmar,Male,Jewish community member,,,India trader,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-b-abu-umar/
 Abū ʿAlī Ibn al-Sukkarī,,Male,Jewish community member,,,,,0,,,,6,https://geniza.princeton.edu/people/abu-ali-ibn-al-sukkari/
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",,0,,,,1,
@@ -44,7 +46,7 @@ Abū l-Faḍl b. Sahl,,Male,Jewish community member,,,,,0,,,,1,
 (Abū l-Faḍl) Maṣliaḥ al-Ṣiqillī,,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/abu-l-fadl-masliah-al-siqilli/
 Abū l-Faḍl Maṣliah b. Meshullam al-Ṣayrafī,,Male,Jewish community member,,,,,0,,,,1,
 (Abū l-Faḍl) Mevorakh b. Avraham Ibn Sabrā,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/abu-l-fadl-mevorakh-b-avraham-ibn-sabra/
-Abū l-Faḍl Muḥammad ibn al-Fātiḥ,,Male,Muslim judicial official,,,,,0,,,Aswān,1,
+Abū l-Faḍl Muḥammad ibn al-Fātiḥ (qāḍī),,Male,Muslim judicial official,,,,,0,,,Aswān,1,
 (Abū l-Faḍl) Sahl b. Yefet b. Shelomo Ibn al-Sukkarī,,Male,None,,,,,0,,,,1,
 Abū l-Fakhr b. Makhlūf,,Male,Jewish community member,,,,,2,,,,1,
 Abū l-Faraj b. Elʿazar al-Maghribī,,Male,None,,,,,0,,,,1,
@@ -757,6 +759,7 @@ Pinḥas b. Meshullam,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/
 Pinḥas b. Yosef,Binḥās b. Yūsuf,Male,None,,,,,0,,,,1,
 Qāsim b. ʿAbd al-ʿAzīz b. al-Nuʿman,,Male,Muslim judicial official,,1036/1049,"Abū Muḥammad Qāsim b. ʿAbd al-ʿAzīz b. al-Nuʿmān was the great-grandson of the eminent Fatimid jurist al-Qāḍī al-Nuʿmān (d. 363/970). He served as the Qāḍī al-Quḍāt (chief justice) and  Dāʿī al-Duʿāt (chief dāʿī) under the caliphs al-Ẓāhir and al-Mustanṣir. He was the last jurist of the Nuʿmān family and served for 13 years, one month, and fourteen days (information from al-Maqrīzī, Khiṭaṭ, II:149).","Fatimid, chief qadi",0,,,,2,https://geniza.princeton.edu/people/qasim-b-abd-al-aziz-b-al-numan/
 Qāsim Ibn al-Qatīf,,Male,None,,,,,0,,,,1,
+Qāsim (Qaṣr Ibrīm),,Male,State official,,,,Qasr Ibrim,2,,,Erkinun,1,
 Raḥel al-Giyoret al-Rūmiyya,,Female,None,,,,,0,,,,1,
 Rāhim (Qaṣr Ibrīm),,Male,Enslaved person,,,"Ghulām and son of an enslaved woman (jāriya). He seems to have belonged to an eparch at Ibrīm before being trafficked, together with his mother, further north to a merchant. After his mother fell ill, their new owner sent them back to the eparch, but the messenger who accompanied them fell ill, and eventually both Rāhim and his mother died.",Qasr Ibrim,0,,Ibrīm,,1,https://geniza.princeton.edu/people/rahim/
 Raḥmīm b. ʿImrān,,Male,None,,,,,1,,,Tinnīs,1,
