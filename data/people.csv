@@ -1,6 +1,7 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,None,,,Witness,,0,,,,1,
 ʿAbd al-Karīm b. al-Ḥasan b. Dāwud,,Male,None,,,,,0,,,,1,
+ʿAbdallāh b. Muḥammad b. Khalaf,عبد الله بن محمد بن خلف,Male,None,,,Witness,,0,,,,1,
 ʿAbd Allāh b. al-qāḍī al-rashīd ʿAlī b. al-Zubayr,,Male,State official,,,,,3,,,,1,
 ʿAbd al-Majīd b. Aḥmad b. aI-Ḥasan b. Khalīl,عبد المجيد بن احمد بن الحسين بن خليل,Male,None,,,Witness,,0,,,,1,
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,https://geniza.princeton.edu/people/abd-al-masih-b-maqara-b-harun/
@@ -9,6 +10,7 @@ Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, A
 Abū ʿAbd Allāh (Qaṣr Ibrīm),,Male,State official,,,,Qasr Ibrim,2,,,Erkinun,1,
 Abū al-Faḍl (qāḍī) (Qaṣr Ibrīm),,Male,Muslim judicial official,,,,Qasr Ibrim,0,,,Soba,1,
 Abū al-Ḥasan ʿAlī b. Muḥammad b. Aḥmad (Ibn al-Ṣīnī),(ابو الحسن علي بن محمد بن احمد (ابن الصيني,Male,None,,,Money-changer at al-Jifār in Fustat.,,0,,,,1,
+Abū al-Ḥusayn Yaḥyā b. ʿAlī b. Aslama b. Abī Zayd al-Tammār,أبو الحسين يحـيى بن على بن اسلم بن أبي زيد التمار,Male,None,,,,,0,,,,1,
 Abū ʿAlī b. Abū ʿUmar,Bū ʿAlī b. Bū ʿUmar,Male,Jewish community member,,,India trader,,0,,,,3,https://geniza.princeton.edu/people/abu-ali-b-abu-umar/
 Abū ʿAlī Ibn al-Sukkarī,,Male,Jewish community member,,,,,0,,,,6,https://geniza.princeton.edu/people/abu-ali-ibn-al-sukkari/
 (Abū ʿAlī) Muḥsin b. Ḥusayn,"אבו עלי מחסן בן חסין, ابو علي محسن بن حسين",Male,Jewish communal official,,,"representative of the merchants in Fustat; parnas of the Palestinian Rabbanite community in Fustat; descended from a Rabbanite trading family from the northern Syrian coast (Rustow, Heresy, 225)",,0,,,,1,
@@ -93,7 +95,7 @@ Abū l-Majd al-Melammed,,Male,Jewish community member,,,,,0,,,,1,
 Abū l-Makārim al-Tājir al-Levi b. Abū ʿImrān Mūsā Ibn Nufayʿ,,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/abu-l-makarim-al-tajir-al-levi-b-abu-imran-musa-ibn-nufay/
 Abū l-Mufaḍḍal Ibn Nānū,,Male,None,,,,,0,,,,1,
 Abū l-Munajjā al-Zariz al-Kohen,,Male,Jewish communal official,,,Collector (jābī) for the Heqdesh in New Cairo in the second half of the 12th century.,,0,,,,1,https://geniza.princeton.edu/people/abu-l-munajja-al-zariz-al-kohen/
-Abū l-Munajjā Bahūr b. Shanute b. Baḥāsh,ابي المنجا بهور بن شنوته بن بحاش,Male,Other,,,Christian clerk (kātib),,0,,,,1,
+Abū l-Munajjā Bahūr b. Shanute b. Baḥāsh,ابي المنجا بهور بن شنوته بن بحاش,Male,State official,,,Christian clerk (kātib),,0,,,,1,
 (Abū l-Munā) Yiṣḥaq b. Yehuda al-Dimashqī,,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/abu-l-muna-yishaq-b-yehuda-al-dimashqi/
 Abū l-Najm b. Manṣūr b. Sālim,,Male,Jewish community member,,,,,1,,,,8,https://geniza.princeton.edu/people/abu-l-najm-b-mansur-b-salim/
 Abū l-Qāsim Hibat Allāh b. Muḥammad Ibn al-Aʿmā,,Male,None,,,,,0,,,,1,
@@ -164,6 +166,7 @@ Aharon b. Yehuda ha-Ḥazzan,,Male,None,,,,,0,,,,1,
 Aharon b. Yeshuʿa ha-Rofeʾ Ibn al-ʿAmmānī,,Male,Jewish communal official,,1109/1143,,,0,,,,7,https://geniza.princeton.edu/people/aharon-b-yeshua-ha-rofe-ibn-al-ammani/
 Aharon b. Yosef ha-Kohen Ibn Sarjado,"Ibn Sargado, Khalaf Ibn Sarjado",Male,Jewish communal official,,943/960,Gaʾon of Pumbedita,,0,,,,1,https://geniza.princeton.edu/people/aharon-b-yosef-ha-kohen-ibn-sarjado/
 Aharon ha-Mumḥe b. Efrayim,"Aharon b. Efrayim b. Ṭarsūn, Aharon b. Efrayim nin Ṭarsūn, Aharon ha-Memunne, Aharon ha-Mumḥe, Aharon ha-Parnas, Aharon ha-Ḥazzan",Male,Jewish communal official,,,,,0,,,,13,https://geniza.princeton.edu/people/aharon-ha-mumhe-b-efrayim/
+Aḥmad b. Ibrāhīm b. Muḥammad al-Muzanī,احمد بن ابرهيم بن محمد المزني,Male,None,,,,,0,,,,1,
 Aḥmad b. Jaʿfar al-Khawārizmī,احمد بن جعفر الخوارزمي,Male,None,,,,,0,,,,1,
 Akhlābū b. Aharon ha-Kohen,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/akhlabu-b-aharon-ha-kohen/
 Akhlābū Kohen b. Aharon,,Male,Jewish communal official,,,,,0,,Alexandria,,1,
@@ -692,6 +695,7 @@ Mufaḍḍal al-Kohen al-Dhabbāḥ,,Male,None,,,,,0,,,,1,
 Mufaḍḍal b. Abū Saʿd,,Male,None,,,,,0,,,,1,
 Mufaḍḍal b. Salāma b. Saʿīd,,Male,None,,,,,0,,,,1,
 Muḥammad b. ʿAbdallāh al-Ḥāzimī,محمد بن عبد الله الحازمي,Male,None,,,Witness,,0,,,,1,
+Muḥammad b. Aḥmad b. ʿAlī,محمد بن احمد بن علي,Male,None,,,Witness,,0,,,,1,
 Muḥammad b. Ismaʿīl b. al-Qāsim b. Ṭabāṭabā,محمد بن اسمعيل بن القاسم بن طباطبا,Male,None,,,,,0,,,,1,
 Muḥammad b. Khalīl b. Ibrāhīm b. ʿAlī,محمد بن خليل بن ابرهيم بن علي,Male,None,,,Witness,,0,,,,1,
 Muḥammad b. Ṣadaqa b. Ibrāhīm b. ʿAlī,محمد بن صدقة بن ابرهيم بن علي,Male,None,,,Witness,,0,,,,1,
@@ -1038,6 +1042,7 @@ Yaḥyā b. Avraham ha-Levi he-Ḥaver,Yaḥyā ha-Ḥazzan b. Avraham,Male,None
 Yaḥyā b. Eliyya,,Male,None,,,,,0,,,,1,
 Yaḥyā b. Ḥamīd b. al-Ḥasan,يحيى بن حميد بن الحسن,Male,None,,,Witness,,0,,,,1,
 Abū Zikrī Yaḥyā b. Menashshe al-Ṣayrafī,,Male,Jewish community member,,,,,0,,Fustat,,6,https://geniza.princeton.edu/people/yahya-b-menashshe-halfon/
+Yaḥya b. Muḥammad al-Quḍāʿī,يحيى بن محمد القضاعي,Male,None,,,Witness,,0,,,,1,
 Yaḥyā ha-Sar,,Male,None,,,,,0,,,,1,
 Yaḥyā (Qaṣr Ibrīm),,Male,Enslaved person,,,A ghulām belonging to Abū Manṣūr Muḥammad. He conveyed a mare from Abū Manṣūr as a gift to the eparch at Ibrīm.,Qasr Ibrim,1,,,,1,
 Yaʾir ha-Shofeṭ,"Peʾer ha-Qahal, Yaʾir b. Avraham b. Yaʾir, ha-Shofeṭ ha-Nadiv",Male,Jewish communal official,,,Judge active in the late 11th century. Died by 1098 CE based on CUL Add.3413 (PGPID 40211).,,3,,,,4,https://geniza.princeton.edu/people/ya-ir-b-avraham-b-ya-ir/
