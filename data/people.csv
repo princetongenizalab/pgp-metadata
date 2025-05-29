@@ -1,6 +1,7 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-Karīm b. al-Ḥasan b. Dāwud,,Male,None,,,,,0,,,,1,
 ʿAbd Allāh b. al-qāḍī al-rashīd ʿAlī b. al-Zubayr,,Male,State official,,,,,3,,,,1,
+ʿAbd al-Majīd b. Aḥmad b. aI-Ḥasan b. Khalīl,عبد المجيد بن احمد بن الحسين بن خليل,Male,None,,,Witness,,0,,,,1,
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,https://geniza.princeton.edu/people/abd-al-masih-b-maqara-b-harun/
 ʿAbd al-Raḥmān,,Male,None,,,,,0,,,,1,
 Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbd Allāh Ibn al-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,4,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kataib/
@@ -54,6 +55,7 @@ Abū l-Faraj b. Elʿazar al-Maghribī,,Male,None,,,,,0,,,,1,
 Abū l-Faraj b. Yūsuf,,Male,Jewish community member,,,,,1,,,,2,
 Abū l-Ḥasan al-Dimashqī,,Male,None,,,,,0,,,,1,
 Abū l-Ḥasan al-Sofer,,Male,None,,,,,0,,,,1,
+Abū l-Ḥasan (b. Abī Sahl),ابو الحسن (بن ابي سهل),Male,Jewish community member,,,Physician (mutaṭabib),,2,,,,1,
 Abū l-Ḥasan b. Abū l-Karam,,Male,None,,,,,0,,,,1,
 Abū l-Ḥasan b. Abū l-Karam b. Bū l-Barakāt,,Male,None,,,,,0,,,,1,
 Abū l-Ḥasan b. ʿEzra,,Male,None,,,,,0,,,,1,
@@ -133,6 +135,7 @@ Abū Saʿd b. Naḥmān,,Male,None,,,,,0,,,,1,
 Abū Saʿd b. Netanʾel,,Male,None,,,,,0,,,,1,
 Abu Saʿd Ibn al-Sukkarī,,Male,None,,,,,0,,,,1,
 Abū Sahl al-Ṣayrafī,,Male,None,,,,,0,,,,1,
+Abū Sahl b. Ibrāhīm,ابو سهل بن ابراهيم,Male,Jewish community member,,,,,2,,,,1,
 Abū Sahl Levi,Levi ha-Levi b. Avraham,Male,None,,,,,2,,,,4,https://geniza.princeton.edu/people/abu-sahl-levi/
 Abū Sahl Menashshe b. Ṭoviyya al-Ḥazzān,,Male,None,,,,,0,,,,1,
 Abū Sahl Shela b. Meshullam,,Male,None,,,,,0,,,,1,
@@ -167,10 +170,13 @@ al-Malik al-Afḍal,al-Afḍal b. Badr al-Jamālī,Male,State official,,1094/112
 Al-Asʿad b. Abū l-Faraj al-Ṣayrafī Ibn Nuʿmān,,Male,None,,,,,0,,,,1,
 Al-Bazīl,,Male,None,,,"Deputy or vice-eparch (nāʾib) of the eparch Darmā in Qaṣr Ibrīm. The name al-Bazīl appears to be the name Basil with intervocalic voicing. (Khan, Medieval Nubia, p.51.)",,0,,,,1,https://geniza.princeton.edu/people/al-bazil/
 Al-Ḥāfiẓ (caliph),"Abū l-Maymūn ʿAbd al-Majīd b. Muḥammad b. al-Mustanṣir, al-Ḥāfiẓ li-Dīn Allāh",Male,State official,,1132/1149,"Eleventh Fatimid caliph, r. 1132–49. Preceded by al-Āmir and succeeded by al-Ẓāfir.",,0,,,,1,https://geniza.princeton.edu/people/al-hafiz-caliph/
+Al-Ḥasan b. ʿAbdaIlāh b. Jaʿfar b. al-Ḥasan b. Khalīl,الحسن بن عبد الله بن جعفر بن الحسين بن خليل,Male,None,,,Witness,,0,,,,1,
 al-Ḥusayn b. ʿAlī,الحسين بن علي,Male,Other,,,Mail carrier transporting letters from Jerusalem to Fustat in the second half of the eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96) and his son ʿUmar b. Yūsuf was frequently named alongside him in letters as a fellow mail carrier.,,1,,,"Fustat, Jerusalem",1,
 Al-Ḥusayn b. Ẓāhir,الحسين بن طاهر,Male,Other,,,Mail carrier working the Jersualem - Fustat route in the mid-eleventh century. Carried letters to Nahray b. Nissim (fl. 1040-96).,,0,,,,1,
 ʿAlī al-Maghrebi,,Male,None,,,,"IB2, India",1,Tripoli (Libya),,"Fustat, Yemen",0,
 ʿAlī al-Maghribī al-Ṭarābulsī,,Male,None,,,,,0,,,,1,
+ʿAlī b. ʿAbdaIlāh b. Ibrāhīm b. ʿAbd al-Qādir,علي بن عبد الله بن ابرهيم بن عبد القادر,Male,None,,,Witness,,0,,,,1,
+ʿAlī b. 'Abd al-Malik b. Futūḥ b. Marwān,علي بن عبد الملك بن فتوح بن مروان,Male,None,,,Witness,,0,,,,1,
 (Abū l-Ḥasan) ʿAlī b. Ḥasan al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
 ʿAlī b. Manṣūr al-Fawfalī,,Male,None,,,"Shipowner (nākhudā) active in the Indian Ocean in the first half of the 12th century. See Ranabir Chakravarti, ""Two Men of Boats: ʿAlī b. Manṣūr al-Fawfalī and PDYR—Gleanings from the Cairo Geniza.""",,0,,,,2,https://geniza.princeton.edu/people/ali-b-mansur-al-fawfali/
 ʿAlī b. Yehoshuaʿ Ibn al-Lādhiqī,,Male,None,,,,,0,,,,1,
@@ -457,6 +463,7 @@ Abu Saʿĩd b. Maḥfūẓ (12th c),"Ibn Jumayhir, Ḥalfon b. Shemaryā ha-Levi
 Ḥananel b. Shemuel,,Male,Jewish communal official,,,,"IB2, India",2,,Alexandria,,1,
 "Ḥananya b. Yosef ha-Kohen, Av Bet Din",Ḥananya Av Bet Din b. Yosef Ga'on,Male,Jewish communal official,,,Active first decades of the eleventh century (legal document from his court precisely dated to 1007),,0,,,,3,
 Hārūn b. Binyām,,Male,None,,,,,0,,,,3,https://geniza.princeton.edu/people/harun-b-binyam/
+Hārūn b. Khulayf b. Hārūn,هرون بن خليف بن هرون,Male,Jewish community member,,,Jewish druggist (al-ʿaṭṭār).,,0,,,,1,
 Hārūn Ibn Shamārī,הרון בן שמארי,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/harun-ibn-shamari/
 Ḥasan b. Bundār,,Male,None,,,,,0,,,,4,https://geniza.princeton.edu/people/hasan-b-bundar/
 Ḥasan b. Kulayb al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
@@ -551,6 +558,7 @@ Khallūf b. Saʿdān,,Male,None,,,,,0,,,,1,
 Khaṣīb b. Musāfir,,Male,None,,,,,0,,,,1,
 Khiyār b. Yaʿqūb,"Abū l-Khayr, Khiyār b. Yaʿaqov, Ḥananʾel b. Yaʿaqov",Male,None,,,,,0,,,,7,https://geniza.princeton.edu/people/khiyar-b-yaqub/
 Khulayf b. Hārūn,,Male,None,,,,,0,,,,1,
+Khulayf b. ʿUbayd b. ʿAlī b. Khulayf al-Iskandarī,خليف بن عبيد بن علي بن خليف الاسكندري,Male,None,,,Dealer in combs,,0,,,,1,
 King Basil,,Male,State official,,,"Two potential candidates for who he could be: either a king of Alodia at Soba, or a king at Makuria (ca. 1089 CE).","Nubian, Qasr Ibrim",0,,,,1,
 King David,,Male,State official,,1107,,Qasr Ibrim,0,,,,1,
 King Mūyis,King Moses George,Male,State official,,1155/1190,Likely the King Moses George who is attested in P. QI III 30. This Nubian proclamation is dated 22 August 1155. Reign: 1155-1190 CE.,Qasr Ibrim,1,,,"Dongola, Soba",1,
@@ -668,12 +676,15 @@ Mufaḍḍal,Abū l-Mufaḍḍal,Male,Jewish community member,,,,,0,,,,1,
 Mufaḍḍal al-Kohen al-Dhabbāḥ,,Male,None,,,,,0,,,,1,
 Mufaḍḍal b. Abū Saʿd,,Male,None,,,,,0,,,,1,
 Mufaḍḍal b. Salāma b. Saʿīd,,Male,None,,,,,0,,,,1,
+Muḥammad b. Khalīl b. Ibrāhīm b. ʿAlī,محمد بن خليل بن ابرهيم بن علي,Male,None,,,Witness,,0,,,,1,
+Muḥammad b. Ṣadaqa b. Ibrāhīm b. ʿAlī,محمد بن صدقة بن ابرهيم بن علي,Male,None,,,Witness,,0,,,,1,
 Muḥammad ibn Ramaḍān,,Male,Other,,,"A Muslim merchant who operated in the area around Upper Egypt and Lower Nubia. He corresponded with the eparch Ibrīm. He dealt in perfumes, aromatics, and vinegar.",,0,,,,1,
 Muʿizz al-Dawla wa-Shujāʿuhā,,Male,State official,,1101/1130,Abū Manṣūr Maḥmūd Murhaf al-Dīn Muʿizz al-Dawla wa-Shujāʿuhā was a state official during the era of the Fatimid caliph al-ʾĀmir.,,0,,,,2,https://geniza.princeton.edu/people/muizz-al-dawla-wa-shujauha/
 Munā,,Female,Jewish community member,,,,,1,,,,2,https://geniza.princeton.edu/people/muna/
 Munīr al-Dawla,,Male,State official,,1089,"Munīr al-Dawla al-Juyūshī was the Fatimid governor of Tyre who incited a revolt against the Fatimids in the coastal areas of Palestine like Jubayl and Acre, advancing further south, including Beirut, Sidon, and Tyre. His rebellion together with that of Nāṣir al-Dawla was quashed by the state.",,0,,Tyre,,1,https://geniza.princeton.edu/people/munir-al-dawla/
 Munjid al-Dawla,,Male,State official,,1062/1072,"Fatimid state official. The amir Munjid al-Dawla, Abū l-Ḥasan Mukhtār al-Mustanṣirī comes from a family of government officials, his father Amīn al-Dawla was also an amir and his grandson Maʾmūn al-Baṭāʾiḥī was a very influential government official and wazir of the Caliph al-Āmir Billah. (al-Maqrīzī, al-Muqaffāʿ al-Kabīr: VI, 254).",,0,,,,1,https://geniza.princeton.edu/people/munjid-al-dawla/
 Mūsā b. Abī l-Ḥayy Khalīla,Abū ʿImrān,Male,Jewish community member,,,,,5,,,,34,https://geniza.princeton.edu/people/musa-b-abi-l-hayy-khalila/
+Mūsā b. Abī Sahl,موسى بن أبي سهل,Male,Jewish community member,,,,,2,,,,1,
 Mūsā b. Barhūn al-Tāhartī,Abū al-Khayr,Male,Jewish community member,,,,,14,,,,2,
 Mūsā b. Mardūk,,Male,Jewish community member,,,,,1,,,,1,
 Mūsā b. Mūsā Ibn Majjān,Moshe b. Moshe Ibn Majjān,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/musa-b-musa-ibn-majjan/
@@ -1007,6 +1018,7 @@ Yaʿaqov Levi b. Yosef,,Male,None,,,,,0,,,,1,
 Yaḥyā b. ʿAmmār al-Iskandarānī,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/yahya-b-ammar-al-iskandarani/
 Yaḥyā b. Avraham ha-Levi he-Ḥaver,Yaḥyā ha-Ḥazzan b. Avraham,Male,None,,,,,0,,,,1,
 Yaḥyā b. Eliyya,,Male,None,,,,,0,,,,1,
+Yaḥyā b. Ḥamīd b. al-Ḥasan,يحيى بن حميد بن الحسن,Male,None,,,Witness,,0,,,,1,
 Abū Zikrī Yaḥyā b. Menashshe al-Ṣayrafī,,Male,Jewish community member,,,,,0,,Fustat,,6,https://geniza.princeton.edu/people/yahya-b-menashshe-halfon/
 Yaḥyā ha-Sar,,Male,None,,,,,0,,,,1,
 Yaḥyā (Qaṣr Ibrīm),,Male,Enslaved person,,,A ghulām belonging to Abū Manṣūr Muḥammad. He conveyed a mare from Abū Manṣūr as a gift to the eparch at Ibrīm.,Qasr Ibrim,1,,,,1,
