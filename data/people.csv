@@ -1,6 +1,7 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,None,,,Witness,,0,,,,1,
 ʿAbd al-Bāqī b. Aḥmad al-Khaṭṭāb,عبد الباقي بن احمد الخطاب,Male,None,,,,,0,,,,1,
+ʿAbd al-Bāqī b. Ibrāhīm b. al-Salam,عبد الباقى بن ابرهيم بن السلم,Male,None,,,,,0,,,,1,
 ʿAbd al-Karīm b. al-Ḥasan b. Dāwud,,Male,None,,,,,0,,,,1,
 ʿAbdallāh b. Muḥammad b. Khalaf,عبد الله بن محمد بن خلف,Male,None,,,Witness,,0,,,,1,
 ʿAbdallāh b. Ṭāhir al-Mutaṣarrif,عبدالله بن طاهرالمتصرف,Male,None,,,,,0,,,,1,
@@ -9,6 +10,7 @@
 ʿAbd al-Masīḥ b. Maqāra b. Hārūn,,Male,Other,,,"Christian physician who bought a slavewoman from Sitt al-Munā bt. Natan/Hibatallāh, the widow of Nahray b. Nissim.",,0,,,,1,https://geniza.princeton.edu/people/abd-al-masih-b-maqara-b-harun/
 ʿAbd al-Raḥmān,,Male,None,,,,,0,,,,1,
 Abū ʿAbdallāh Ibn Abī l-Katāʾib,"Abū ʿAbd Allāh Ibn Abī l-Katāʾib, Abū ʿAbd Allāh Ibn al-Katāʾib, Abū ʿAbdallāh b. Abū l-Ḥasan Ibn al-Katāʾib",Male,Other,,,,,1,,,,4,https://geniza.princeton.edu/people/abu-abdallah-ibn-abi-l-kataib/
+Abū ʿAbdallāh Muḥammad b. ʿAbd al-Wāḥid b. ʿAlī,ابو عبد الله محمد بن عبد الواحد بن على,Male,Muslim judicial official,,,Accredited witness (muʿaddal) in Fustat. He had a house north of Ṣadaqa street in Fustat.,,0,,,,1,https://geniza.princeton.edu/people/abu-abdallah-muhammad-b-abd-al-wahid-b-ali/
 Abū ʿAbd Allāh (Qaṣr Ibrīm),,Male,State official,,,,Qasr Ibrim,2,,,Erkinun,1,
 Abū al-Badr Manṣūr b. ʿAlūn b. Mīnā b. Andūna,أبو البدر منصور بن علون بن مینا بن اندونة,Male,Other,,,Clerk (al-kātib),,4,,,,1,
 Abū al-Faḍl al-Muḥassin b. Saʿīd b. ʿUthmān,ابو الفضل المحسن بن سعيد بن عثمان,Male,None,,,Merchant,,0,,,,1,
@@ -160,6 +162,7 @@ Abu Saʿĩd b. Maḥfūẓ (11th c),,Male,Jewish community member,,,,"IB2, India
 Abū Saʿīd b. Thābit al-Dayyan,,Male,None,,,,,0,,,,1,
 Abū Saʿīd Khalīfa,,Male,None,,,,,0,,,,1,
 Abū Sulaymān Dāʾūd b. Abū l-Khaṣīb Zurʿa,,Male,None,,,,,0,,,,1,
+Abū ʿUmar Dāʾūd b. Ḥasan al-Arjuwānī,ابو عمر داود بن حسن الارجواني,Male,Jewish community member,,,,,0,,,,1,
 Abū Yaʿqūb al-Tinnīsī,,Male,None,,,,,0,,,,1,
 Abū Yaʿqūb Ibn al-Ḥarīrī,,Male,None,,,,,0,,,,1,
 (Abū Yūsuf) Elʿazar b. Ismāʿīl,,Male,Jewish community member,,,,,0,,,,1,https://geniza.princeton.edu/people/abu-yusuf-elazar-b-ismail/
@@ -220,6 +223,7 @@ al-Raʾīs Bū al-Tāḥir ibn al-Bayān,الريس بو الطاهر بن ال�
 al-Rayyis Bū Saʿd al-Sheviʿi,,Male,None,,,,,0,,,,1,
 al-Sadīd ʿAlī b. Maḥmūd,Ibn al-Muḥtasib,Male,Muslim judicial official,,,,"IB2, India",1,,,"Fustat, Yemen",1,
 al-Ṣanīʿa b. Bū l-Karam Ibn Ḥunaykh,,Male,None,,,,,0,,,,1,
+Al-Sharīf Abū al-Ḥusayn Ismaʿīl b. al-Ḥusayn al-ʿAbbāsī,الشريف ابو الحسين اسمعيل بن الحسين العباسي,Male,Muslim judicial official,,,Accredited witness (muʿaddal) in Fustat. He had a house east of Ṣadaqa street in Fustat.,,0,,,,1,https://geniza.princeton.edu/people/al-sharif-abu-al-husayn-ismail-b-al-husayn-al-abbasi/
 al-Shaykh al-Thiqa,,Male,None,,,,,0,,,,1,
 al-Surrī b. Sahl,السرى بن سهل,Male,None,,,,,0,,,,1,
 Amat al-ʿAzīz bt. Ḥizqiyyahu,,Female,Jewish community member,,,Daughter of the Qaraite Nasi Ḥizqiyyahu b. Shelomo b. David.,,1,,,,1,
@@ -468,6 +472,7 @@ Fityān b. Muḥammad b. al-Samḥ al-Tujībī,فتيان بن محمد بن س�
 Futūḥ,Petaḥya,Male,Jewish community member,,,"An India trader who died on a ship on the India route (PGPID 5405). Possibly identified with the deceased merchant Petaḥya (PGPID 5480).
 
 His father might be the India trader Abu ʾl-Ḥasan ʿIwāḍ, known from Maimonides, Responsa, 1:99–102, no. 62. (Information from Goitein and Friedman, India Traders, 543 n. 3)","IB2, India",1,,Alexandria,Yemen,2,
+Futūḥ b. Faḍl,فتوح بن فضل,Male,None,,,Representative (wakīl) at the Bāb al-Ḥukm in Fustat.,,0,,,,1,
 Gabriel Conforte,,Male,Jewish community member,,,Active in Cairo in the late 17th and early 18th centuries. He may have been the son of the famous David Conforte.,,0,,,,2,https://geniza.princeton.edu/people/gabriel-conforte/
 Gavriʾel Ḥefeṣ,Gavriʾel Ḥefez,Male,Jewish community member,,,"Merchant active ca. 1800 CE. Often signs letters together with Avraham Hamān. His signature resembles חפז, but חפץ is a more typical name and the last letter could be somewhat stylized.",,1,,,,1,https://geniza.princeton.edu/people/gavriel-hefes/
 Ghālib b. Ḥalfon al-Zayyāt,"Abū Manṣūr, Ghālib al-Ḥazzān",Male,None,,,,,1,,,,7,https://geniza.princeton.edu/people/ghalib-b-halfon-al-zayyat/
@@ -590,6 +595,7 @@ Karīm al-Dawla ʿAytham,,Male,State official,,1131/1149,"One os the state offic
 Karīm b. ʿEli ha-Mumḥe Ibn Zalaṭ,,Male,Jewish community member,,,,,0,,,,2,https://geniza.princeton.edu/people/karim-b-eli-ha-mumhe-ibn-zalat/
 Karo Frances Co.,"Karo wa-Fransīs, Karo y Frances, קארו פראנסיס קונפאנייא",Unknown,Other,,,Company active ca. 1800 comprised of Merkado Karo and Shimʿon Frances.,,2,,,,3,https://geniza.princeton.edu/people/karo-frances-co/
 Kathīr b. Avraham,,Male,None,,,,,1,,,,1,
+Khalaf al-Kindī,خلف الكندى,Male,None,,,Has endowed a big house in Ṣadaqa street in Fustat.,,0,,,,1,
 Khalaf b. ʿAzrūn,,Male,None,,,,,0,,,,1,
 Khalaf b. Bundār,,Male,None,,,,,0,,,,1,
 Khalaf b. Hārūn Tāj al-Maʿālī,,Male,Jewish community member,,,,,1,,,,0,
@@ -1042,6 +1048,7 @@ Tiqva b. Elʿazar,,Male,None,,,,,0,,,,1,
 (Abū l-Munā) ʿUlla b. Sibāʿ Ibn al-Dihqān,Abū l-Munā,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/ulla-b-siba-ibn-al-dihqan/
 ʿUlla b. Yeshuʿa Ibn al-ʿIrāqī,,Male,None,,,,,0,,,,1,
 ʿUlla b. Yosef ha-Levi ha-Parnas,"Abū l-ʿAlāʾ Ṣāʿid b. Munajjā al-Dimashqī, ʿUlla ha-Parnas ha-Neʾeman",Male,Jewish communal official,,,Parnas,,0,,,,15,https://geniza.princeton.edu/people/ulla-b-yosef-ha-levi/
+ʿUmar b. Mūsā al-Zayyāt,عمر بن موسى الزيات,Male,None,,,"""A man of  average stature, pure reddy-brown in complexion, with a smooth broad forehead, with fine eyebrows separated in the middle, with fleshy eye-lids, dark brown eyes, a wide, thick nose, prominent cheekbones and a round beard.""",,0,,,,1,
 ʿUmar b. Yūsuf,عمر بن يوسف,Male,Other,,,"Mail carrier transporting letters from Jerusalem to Fustat in the second half of the eleventh century. He transported several letters to Nahray b. Nissim (fl. 1050-96) alongside his father, al-Ḥusayn b. ʿAlī, a fellow mail carrier. The family was likely Muslim (or perhaps Christians) because their names were always written out in Arabic while the letters they carried were in Hebrew script.",,1,,,"Fustat, Jerusalem",4,
 Umm al-Khayr,,Female,None,,,,,2,,,,1,https://geniza.princeton.edu/people/umm-al-khayr/
 Umm Dāʾūd,,Female,Jewish community member,,,,,1,,,,1,https://geniza.princeton.edu/people/umm-daud/
@@ -1068,6 +1075,7 @@ Yaʿaqov b. Yosef ha-Kohen,,Male,None,,,,,0,,,,2,
 Yaʿaqov b. Yosef he-Ḥaver (Aleppo),Yaaqov he-Ḥaver b. Yosef Av Bet Din,Male,Jewish communal official,,,"Leader of the Aleppo community. See Frenkel (1990/91), 270–84.",,0,,,,6,https://geniza.princeton.edu/people/yaaqov-b-yosef-he-haver-aleppo/
 Yaʿaqov he-Ḥaver b. Shemuʾel,Yaʿaqov b. Shemuʾel,Male,None,,,,,0,,,,1,
 Yaʿaqov Levi b. Yosef,,Male,None,,,,,0,,,,1,
+Yaʾāsa (?) ibnat Ismaʿīl al-Kohen,يااسه ابنة اسمعيل الكوهان,Female,Jewish community member,,,,,0,,,,1,
 (Abū Zikrī) Yaḥyā al-Fāsī,,Male,None,,,,,0,,,,3,https://geniza.princeton.edu/people/yahya-al-fasi/
 Yaḥyā b. ʿAmmār al-Iskandarānī,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/yahya-b-ammar-al-iskandarani/
 Yaḥyā b. Avraham ha-Levi he-Ḥaver,Yaḥyā ha-Ḥazzan b. Avraham,Male,None,,,,,0,,,,1,
