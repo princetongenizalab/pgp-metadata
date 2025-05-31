@@ -1,4 +1,5 @@
 ﻿name,name_variants,gender,social_role,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,occasional_trips_to,related_documents_count,url
+ʿAbd al-ʿAzīz b. Hārūn,عبد العزيز بن هرون,Male,Other,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,Other,,,Witness,,0,,,,1,
 ʿAbd al-Bāqī b. Aḥmad al-Khaṭṭāb,عبد الباقي بن احمد الخطاب,Male,Other,,,,,0,,,,1,
 ʿAbd al-Bāqī b. Ibrāhīm b. al-Salam,عبد الباقى بن ابرهيم بن السلم,Male,Other,,,Witness,,0,,,,1,
@@ -44,7 +45,7 @@ Abū al-Mufaḍḍal Hibatallāh b. Ḥasan al-Mutaṭib,ابو المفضل ه�
 Abū al-Qāsim ʿAlī b. Muḥammad al-Zaydī,ابو القسم على بن محمد الزيدي,Male,Other,,,Supreme leader of the Talibis (نقيب من نقبا الطالبيين).,,0,,,,1,
 Abū al-Shaṭranjī,,Male,Jewish community member,,,,,0,,,,1,
 Abū al-Surūr ʿAlūn b. Mīnā b. Andūna,ابو السرور علون بن مینا بن اندونة,Male,Other,,,,,1,,,,1,
-Abū Bakr Aḥmad b. Muḥammad b. Ibrāhīm al-Rūbānī,ابو بكر احمد بن محمد بن ابرهيم الروبانى,Male,Muslim judicial official,,,Judge and shāhid in Miṣr,,0,,,,1,
+Abū Bakr Aḥmad b. Muḥammad b. Ibrāhīm al-Rūbānī,ابو بكر احمد بن محمد بن ابرهيم الروبانى,Male,Muslim judicial official,,,Judge and shāhid in Miṣr,,0,,,,1,https://geniza.princeton.edu/people/abu-bakr-ahmad-b-muhammad-b-ibrahim-al-rubani/
 Abū Bishr Azhar b. Manṣūr,,Male,None,,,,,0,,,,1,
 Abū Dāniyāl,,Male,None,,,,,0,,,,1,
 Abū Ghālib Elʿazar b. Shelomo ha-Kohen,,Male,None,,,,,0,,,,1,
@@ -147,6 +148,7 @@ Abū Mansūr Aharon b. Mevasser al-Zayyāt,,Male,Jewish community member,,,,,1,,
 Abū Manṣūr al-Nushādirī,,Male,None,,,,,0,,,,1,
 (Abū Manṣūr) Elʿāzar b. Shelomo ha-Rofeʾ b. Daniʾel,,Male,None,,,,,0,,,,1,
 Abū Manṣūr Elʿazar b. Yishaq al-Dimashqī,,Male,None,,,,,0,,,,1,
+Abū Manṣūr Hibatallāh b. Ḥasan b. Hibatallāh,"Thiqat al-Dawla, ابو منصور هبة الله بن حسن بن هبة الله, ثقة الدولة",Male,State official,,,,,0,,,,1,
 Abū Manṣūr Muḥammad,,Male,State official,,,"Abū Manṣūr Muḥammad was the son of an unnamed Hilāl al-Dawla / Kanz al-Dīn. He corresponded with an eparch at Ibrīm about a shipment of horses. It seems he answers to a governor (at Aswan?). He had a mare that he gave as a gift to the eparch. He also had at least two slaves, one of whom was named Yaḥyā.",Qasr Ibrim,1,,,,1,
 Abū Manṣūr Mutawwaj Kanz al-Dawla,,Male,State official,,,"Abū Manṣūr Mutawwaj held the hereditary title of Kanz al-Dawla (""Treasure of the Dynasty"") among the tribal populations of Upper Egypt and Lower Nubia. The holder of this title was the ""de facto governor of Aswan"" and derived power and wealth through control of the Nile trade through Upper Egypt. The Fatimid government, writes Khan, ""granted the Kanz al-Dawla responsibility for regulating Fatimid diplomatic relations and commerce with Nubia, tax collection in the frontier villages, protecting the mines of Wādī al-ʿAllāqī and travelers and caravans passing through their sphere of control"" (Khan (2024), 32–33).
 
@@ -202,6 +204,7 @@ Aharon ha-Mumḥe b. Efrayim,"Aharon b. Efrayim b. Ṭarsūn, Aharon b. Efrayim 
 Aḥmad b. ʿAbdallāh b. Muḥammad b. ʿAbdallāh,احمد بن عبد الله بن محمد بن عبد الله,Male,Other,,,Witness,,0,,,,1,
 Aḥmad b. ʿAbd al-Malik b. al-Ḥusayn b. Mahdī al-Anṣārī,احمد بن عبد الملك بن الحسين بن مهدي الأنصاري,Male,Other,,,Witness,,0,,,,1,
 Aḥmad b. al-Sayyidī,احمد بن السيدي,Male,Other,,,"Representative of the head of the Ṭālibīs, Abū l-Qāsim ʿAlī b. Muḥammad al-Zaydī.",,0,,,,1,
+Aḥmad [?] b. al-Shaykh ʿAlī b. Abī al-Akhḍar,احـمد [؟] بن الشيخ على بن ابي الاخضـر,Male,Other,,,,,0,,,,1,
 Aḥmad b. Ibrāhīm b. Muḥammad al-Muzanī,احمد بن ابرهيم بن محمد المزني,Male,Other,,,,,0,,,,1,
 Aḥmad b. Jaʿfar al-Khawārizmī,احمد بن جعفر الخوارزمي,Male,Other,,,,,0,,,,1,
 Akhlābū b. Aharon ha-Kohen,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/akhlabu-b-aharon-ha-kohen/
@@ -245,6 +248,7 @@ al-Maʾmūn al-Baṭāʾiḥī,,Male,State official,,1122/1125,"Abū ʿAbd Allah
 (Abū Naṣr) al-Mubārak b. Ḥusayn al-Wakīl,,Male,None,,,,,0,,,,1,
 al-Muʿizz b. Bādīs,,Male,None,,1016/1062,Zīrid ruler of Ifrīqiyya,,0,,,,1,https://geniza.princeton.edu/people/al-muizz-b-badis/
 al-Mustanṣir,"Abū Tamīm Maʿadd b. al-Ẓāhir, al-Imām al-Mustanṣir bi-l-lāh",Male,State official,,,"Fatimid caliph, r. 1036–1094. [Placeholder]",,0,,,,2,https://geniza.princeton.edu/people/al-mustansir/
+al-Muzbid Abū al-Khayr al-Mutaṭib,المزبد ابي الخير المتطبب,Male,Other,,,,,0,,,,1,
 Alpalas y Costa,,Unknown,None,,,,,0,,,,1,
 al-Qāḍī Abū l-Maʿālī b. al-Qāḍī al-Mukhliṣ Thiqat al-Mulk,,Male,Muslim judicial official,,1152/1153,,,1,,,,1,https://geniza.princeton.edu/people/al-qadi-abu-l-maali-b-al-qadi-al-mukhlis-thiqat-al-mulk/
 al-Qāʾid Abū Shujāʿ,,Male,State official,,,,,0,,,,1,
@@ -780,6 +784,7 @@ Muḥammad b. Ṣadaqa b. Ibrāhīm b. ʿAlī,محمد بن صدقة بن ابر
 Muḥammad b. Ṭāhir al-Anmāṭī,محمد بن طاهر الأنماري,Male,Other,,,,,0,,,,1,
 Muḥammad ibn Ramaḍān,,Male,Other,,,"A Muslim merchant who operated in the area around Upper Egypt and Lower Nubia. He corresponded with the eparch Ibrīm. He dealt in perfumes, aromatics, and vinegar.",,0,,,,1,
 Muʿizz al-Dawla wa-Shujāʿuhā,,Male,State official,,1101/1130,Abū Manṣūr Maḥmūd Murhaf al-Dīn Muʿizz al-Dawla wa-Shujāʿuhā was a state official during the era of the Fatimid caliph al-ʾĀmir.,,0,,,,2,https://geniza.princeton.edu/people/muizz-al-dawla-wa-shujauha/
+Abū ʿAlī al-Ḥasan b. ʿAlī b. Ḥassān,"Mukhliṣ al-Dawla wa-Amīnuhā, ابو على الحسن بن علی بن حسان, مخلص الدولة وامينها",Male,Muslim judicial official,,,Judge and supervisor of the collect of money in Akhmīm,,0,,,,1,https://geniza.princeton.edu/people/mukhlis-al-dawla-wa-aminuha/
 Munā,,Female,Jewish community member,,,,,1,,,,2,https://geniza.princeton.edu/people/muna/
 Munīr al-Dawla,,Male,State official,,1089,"Munīr al-Dawla al-Juyūshī was the Fatimid governor of Tyre who incited a revolt against the Fatimids in the coastal areas of Palestine like Jubayl and Acre, advancing further south, including Beirut, Sidon, and Tyre. His rebellion together with that of Nāṣir al-Dawla was quashed by the state.",,0,,Tyre,,1,https://geniza.princeton.edu/people/munir-al-dawla/
 Munjid al-Dawla,,Male,State official,,1062/1072,"Fatimid state official. The amir Munjid al-Dawla, Abū l-Ḥasan Mukhtār al-Mustanṣirī comes from a family of government officials, his father Amīn al-Dawla was also an amir and his grandson Maʾmūn al-Baṭāʾiḥī was a very influential government official and wazir of the Caliph al-Āmir Billah. (al-Maqrīzī, al-Muqaffāʿ al-Kabīr: VI, 254).",,0,,,,1,https://geniza.princeton.edu/people/munjid-al-dawla/
