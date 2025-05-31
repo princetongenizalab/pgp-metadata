@@ -208,6 +208,7 @@ Al-Ḥusayn b. Ẓāhir,الحسين بن طاهر,Male,Other,,,Mail carrier wor
 ʿAlī b. ʿAbdaIlāh b. Ibrāhīm b. ʿAbd al-Qādir,علي بن عبد الله بن ابرهيم بن عبد القادر,Male,Other,,,Witness,,0,,,,1,
 ʿAlī b. 'Abd al-Malik b. Futūḥ b. Marwān,علي بن عبد الملك بن فتوح بن مروان,Male,Other,,,Witness,,0,,,,1,
 ʿAlī b. ʿEli ibn Abī Saʿd 'Efrayim ibn ʿEli,علي بن عالی بن ابی سعد افرایم بن عالى,Male,Jewish community member,,,,,1,,,,1,
+ʿAlī b. Ghanāʾim b. Muḥammmad al-Mudayyin,على بن غنائم بن محمد المدين,Male,Other,,,,,0,,,,1,
 (Abū l-Ḥasan) ʿAlī b. Ḥasan al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
 ʿAlī b. Ḥassān b. Maʿālī al-Ṭarābulusī,على بن حسان بن معالى الطرابلسى,Male,Other,,,"Potentially: a butcher (al-jazzār), a sewer of skins (al-kharrāz), or a leather bottle maker (al-jarrār). ""Pure reddy-brown in complexion, with a smooth forehead, in which there are some wrinkles, with light hair between the eyebrows, with dark brown eyes, a hooked nosed, a round beard and with the top right incisor missing.""",,0,,,,1,
 ʿAlī b. Ḥusayn b. Hibatallāh,علي بن حسين بن هبة الله,Male,Other,,,Witness,,0,,,,1,
@@ -363,6 +364,7 @@ Berakhot b. Shelomo ha-Levi,,Male,Jewish community member,,,,,0,,,,1,
 Berakhot b. Shemuʾel,,Male,Jewish community member,,,Prolific scribe active in the early 13th century.,,0,,,,1,https://geniza.princeton.edu/people/berakhot-b-shemuel/
 Berakhot b. Yefet,,Male,None,,,,,0,,,,1,
 Berakhot b. Yeshuʿa ha-Rofeʾ,,Male,None,,,,,0,,,,1,
+Bint Muṭṭalib,بنت مطلب,Female,Other,,,,,1,,,,1,
 Binyām al-ʿAṭṭār al-Rashīdī,,Male,Jewish community member,,,A druggist of Rosetta (Rashīd) active in the early to mid-12th century.,,0,,,,5,https://geniza.princeton.edu/people/binyam/
 Binyām b. Hārūn,,Male,None,,,,,0,,,,1,
 Binyām b. Ibrāhīm,,Male,None,,,,,1,,,,1,
@@ -575,7 +577,7 @@ Ibrahim b. Simḥūn,,Male,Jewish community member,,,,,0,,,,1,
 Ibrāhīm b. Ṭāhir,Avraham b. Ṭahor,Male,Jewish community member,,,,,0,,,,1,
 Iftikhār al-Dawla,,Male,State official,,1151/1152,al-Amīr al-Muʾayyad ʿIzz al-Mulk Iftikhār al-Dawla was a Fatimid state official active in the 12th century.,,1,,,,1,https://geniza.princeton.edu/people/iftikhar-al-dawla/
 Iftikhār al-Dawla Mubārak al-Afḍalī al-Juyūshī,,Male,State official,,1130,"Fatimid state official, active around the 6th/12th C.",,0,,,,1,https://geniza.princeton.edu/people/iftikhar-al-dawla-mubarak-al-afdali-al-juyushi/
-ʿImād al-Dawla,عماد الدولة,Male,Muslim judicial official,,,,,0,,,,1,
+ʿImād al-Dawla,"Abū al-Faḍāʾil al-Ḥasan b. al-Khiyār b. ʿAlī, ابو الفضائل الحسن بن الخيار بن على, عماد الدولة",Male,Muslim judicial official,,,Judge (qāḍī) and accredited witness (al-muʿaddal) in Cairo and Miṣr.,,0,,,,1,https://geniza.princeton.edu/people/imad-al-dawla/
 ʿImmanuel b. Yeḥiʾel,,Male,Jewish communal official,,1231/1279,,,0,,,,24,https://geniza.princeton.edu/people/immanuel-b-yehiel/
 ʿImrān b. Khalaf,,Male,None,,,,,0,,,,1,
 Ipisi,,Male,Enslaved person,,,"An enslaved person (ghulām) belonging to Uruwī. On two occasions, he delivered letters from Uruwī to Ḥusayn ibn Ḥasan al-Kanzī.",Qasr Ibrim,1,,,,2,
@@ -853,6 +855,7 @@ Raḥel al-Giyoret al-Rūmiyya,,Female,None,,,,,0,,,,1,
 Rāhim (Qaṣr Ibrīm),,Male,Enslaved person,,,"Ghulām and son of an enslaved woman (jāriya). He seems to have belonged to an eparch at Ibrīm before being trafficked, together with his mother, further north to a merchant. After his mother fell ill, their new owner sent them back to the eparch, but the messenger who accompanied them fell ill, and eventually both Rāhim and his mother died.",Qasr Ibrim,0,,Ibrīm,,1,https://geniza.princeton.edu/people/rahim/
 Raḥmīm b. ʿImrān,,Male,None,,,,,1,,,Tinnīs,1,
 Rāmisht,,Male,Other,,,Nākhudā,,0,,,,1,https://geniza.princeton.edu/people/ramisht/
+Riḍwān b. ʿĀṭiyya,رضوان بن عطية,Male,Other,,,,,1,,,,1,
 Riḍwān b. Walakhshī,,Male,State official,,1137/1139,Riḍwān b. al-Walakshī was a Fatimid wazīr and army commander under the caliph al-Ḥāfīẓ.,,0,,,,1,https://geniza.princeton.edu/people/ridwan-b-walakhshi/
 (Abū l-Fakhr) Saʿadya b. Avraham Ibn al-Amshāṭī,"Abū l-Fakhr, אבו אלפכר בר אברהם",Male,Jewish community member,,,,,0,,Fustat,,3,https://geniza.princeton.edu/people/sa-adya-b-avraham-ibn-al-amshati/
 Saʿadya b. Hillel ha-Kohen Rosh ha-Qahal,Saʿd b. Hilāl,Male,None,,,,,0,,,,1,
@@ -1097,6 +1100,7 @@ Yaḥyā b. ʿAmmār al-Iskandarānī,,Male,None,,,,,0,,,,1,https://geniza.princ
 Yaḥyā b. Avraham ha-Levi he-Ḥaver,Yaḥyā ha-Ḥazzan b. Avraham,Male,None,,,,,0,,,,1,
 Yaḥyā b. Eliyya,,Male,None,,,,,0,,,,1,
 Yaḥyā b. Ḥamīd b. al-Ḥasan,يحيى بن حميد بن الحسن,Male,Other,,,Witness,,0,,,,1,
+Yaḥyā b. Ibrāhīm b. ʿAlī b. al-Ḥasan,يحيى بن ابرهيم بن على بن الحسن,Male,Other,,,Witness,,0,,,,1,
 Abū Zikrī Yaḥyā b. Menashshe al-Ṣayrafī,,Male,Jewish community member,,,,,0,,Fustat,,6,https://geniza.princeton.edu/people/yahya-b-menashshe-halfon/
 Yaḥya b. Muḥammad al-Quḍāʿī,يحيى بن محمد القضاعي,Male,Other,,,Witness,,0,,,,1,
 Yaḥyā ha-Sar,,Male,None,,,,,0,,,,1,
