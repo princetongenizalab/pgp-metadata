@@ -22,7 +22,7 @@ al-Bannā,"אלבנא, البنا",,Unidentified locality near Fāqūs.,1,0,0,ht
 al-Bashmūr,"אלבשמור, البشمور","31° 18′ 36″ N, 31° 3′ 48″ E",,1,0,0,https://geniza.princeton.edu/places/al-bashmur/
 Al-Daqahliyya (region),,"31° 15′ 57″ N, 31° 37′ 37″ E",,1,0,0,https://geniza.princeton.edu/places/al-daqahliyya-region/
 Aleppo,"חלב, צובה, حلب","36° 13′ 0″ N, 37° 10′ 0″ E",,41,0,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية","31° 12′ 16″ N, 29° 52′ 48″ E",,563,32,1,https://geniza.princeton.edu/places/alexandria/
+Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية","31° 12′ 16″ N, 29° 52′ 48″ E",,572,32,1,https://geniza.princeton.edu/places/alexandria/
 al-Fashn,"الفشن, ⲡⲃⲏϣⲛ","28° 49′ 21″ N, 30° 53′ 57″ E",,1,0,0,https://geniza.princeton.edu/places/al-fashn/
 al-Fayyūm,,"29° 18′ 8″ N, 30° 53′ 31″ E",,9,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,"36° 8′ 26″ N, 5° 27′ 22″ W",,1,0,0,https://geniza.princeton.edu/places/algeciras/
@@ -32,7 +32,7 @@ al-Karak,الكرك,"31° 10′ 59″ N, 35° 42′ 0″ E",,1,0,0,https://geniz
 ʿAlmā,,"33° 3′ 6″ N, 35° 29′ 56″ E",,1,0,0,https://geniza.princeton.edu/places/alma/
 al-Maghrib,al-Gharb,,Region,2,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,"15° 56′ 57″ N, 43° 26′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
-al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,51,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
+al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,52,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya, المهدية","35° 30′ 0″ N, 11° 4′ 12″ E",,83,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين","31° 2′ 8″ N, 30° 47′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,3,0,0,https://geniza.princeton.edu/places/al-manzala/
@@ -172,7 +172,7 @@ Fez,,"34° 3′ 36″ N, 4° 58′ 23″ W",,16,1,0,https://geniza.princeton.edu
 Florence,פירנצה,"43° 46′ 16″ N, 11° 15′ 14″ E",,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,"46° 27′ 20″ N, 2° 10′ 44″ E",,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,"45° 53′ 59″ N, 13° 0′ 0″ E",,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,1191,49,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط","30° 0′ 17″ N, 31° 14′ 15″ E",,1194,49,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة","31° 12′ 14″ N, 30° 33′ 13″ E",,5,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,"34° 25′ 51″ N, 8° 46′ 32″ E",,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,"31° 30′ 11″ N, 34° 28′ 4″ E",,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -242,7 +242,7 @@ Malta,,"35° 53′ 42″ N, 14° 30′ 35″ E",,4,0,0,https://geniza.princeton.
 Manfalūṭ,,"27° 18′ 42″ N, 30° 58′ 21″ E",,2,0,0,https://geniza.princeton.edu/places/manfalut/
 Mangaluru,"Mangalore, Manjarūr, מנגרור","12° 52′ 11″ N, 74° 50′ 24″ E",,5,1,0,https://geniza.princeton.edu/places/mangaluru/
 Manṣūra,"מנצורה, منصورة","31° 2′ 23″ N, 31° 23′ 24″ E",,6,0,0,https://geniza.princeton.edu/places/mansura/
-Manūf,Minūf,"30° 27′ 56″ N, 30° 55′ 51″ E",,1,0,0,https://geniza.princeton.edu/places/manuf/
+Manūf,Minūf,"30° 27′ 56″ N, 30° 55′ 51″ E",,2,0,0,https://geniza.princeton.edu/places/manuf/
 Marīs (region),"Migi, Nobadia","22° 21′ 47″ N, 31° 52′ 24″ E",One of three Nubian kingdoms that emerged in the aftermath of the collapse of the Kushite kingdom at Meroe. Marīs had its capital at Pachōras (Faras) north of Wādī Ḥalfa. Its region extended from Aswan to the third cataract.,2,0,0,https://geniza.princeton.edu/places/maris/
 Marrakesh,מראכש,"31° 37′ 20″ N, 7° 59′ 23″ W",,2,0,0,https://geniza.princeton.edu/places/marrakesh/
 Marseille,,"43° 18′ 9″ N, 5° 21′ 36″ E",,8,0,0,https://geniza.princeton.edu/places/marseille/
@@ -293,7 +293,7 @@ Qabīl,,"31° 4′ 59″ N, 30° 30′ 0″ E",,1,0,0,https://geniza.princeton.e
 Qābis,"Gabès, قابس","33° 52′ 48″ N, 10° 7′ 11″ E",,3,3,0,https://geniza.princeton.edu/places/qabis/
 Qalhā,قلها,"29° 4′ 21″ N, 30° 53′ 25″ E",,1,0,0,https://geniza.princeton.edu/places/qalha/
 Qallīn,"קלין, قلين, ⲕⲁⲗⲗⲓⲛ","31° 2′ 46″ N, 30° 51′ 16″ E",,1,0,0,https://geniza.princeton.edu/places/qallin/
-Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,27,1,0,https://geniza.princeton.edu/places/qalyub/
+Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ","30° 11′ 59″ N, 31° 12′ 36″ E",,28,1,0,https://geniza.princeton.edu/places/qalyub/
 Qarqanna,"קרקנה, قرقنة","34° 42′ 0″ N, 11° 10′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/qarqanna/
 Qaṣr al-Shamʿ (neighborhood),,,Neighborhood in Fustat.,10,0,0,https://geniza.princeton.edu/places/qasr-al-sham-neighborhood/
 Qaṭyā,Qaṭya,"30° 57′ 48″ N, 32° 45′ 15″ E",,7,0,0,https://geniza.princeton.edu/places/qatya/
@@ -335,6 +335,7 @@ Shamṭūniyya,שום טמיא,,"Unidentified location in Iraq; Goitein, Golb, a
 Shanashā,شنشا,"30° 52′ 58″ N, 31° 19′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/shanasha/
 Shaqqat al-Waʿr,,,Unidentified port near Tobruk,1,0,0,https://geniza.princeton.edu/places/shaqqat-al-wa-r/
 Sharbīn,شربين,"31° 11′ 24″ N, 31° 31′ 11″ E",,1,0,0,https://geniza.princeton.edu/places/sharbin/
+Shaṭānūf,"שטנוף, شطانوف","30° 14′ 17″ N, 31° 4′ 26″ E",,1,0,0,https://geniza.princeton.edu/places/shatanuf/
 Shingli,"Kodungallur, Shingly, שנגלי, شنجلي","10° 13′ 12″ N, 76° 13′ 11″ E",,3,0,0,https://geniza.princeton.edu/places/shingli/
 Shiraz,,"29° 36′ 0″ N, 52° 32′ 23″ E",,1,0,0,https://geniza.princeton.edu/places/shiraz/
 Shubrā Damsīs,Damsīs,"30° 49′ 12″ N, 31° 13′ 11″ E",,21,1,0,https://geniza.princeton.edu/places/shubra-damsis/
