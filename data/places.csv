@@ -113,7 +113,7 @@ Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ","29° 9′ 7″ N, 31° 7′ 53″
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير","29° 15′ 0″ N, 31° 4′ 47″ E",,103,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,"41° 0′ 23″ N, 28° 58′ 33″ E",,1,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,"32° 30′ 0″ N, 34° 53′ 30″ E",,5,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,458,2,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira","30° 3′ 6″ N, 31° 15′ 41″ E",,459,2,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,"11° 15′ 32″ N, 75° 46′ 49″ E",,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,"35° 20′ 27″ N, 25° 8′ 53″ E",,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,"44° 3′ 20″ N, 5° 2′ 56″ E",,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -192,7 +192,7 @@ Hamadān,,"34° 47′ 53″ N, 48° 30′ 50″ E",,1,0,0,https://geniza.princet
 Ḥamida,"חמדה, حمدة, Ḥamuda","15° 49′ 56″ N, 43° 57′ 58″ E",,1,0,0,https://geniza.princeton.edu/places/hamida/
 Ḥammūriyya,"חמוריה, حمورية","33° 31′ 39″ N, 36° 23′ 12″ E",,1,0,0,https://geniza.princeton.edu/places/hammuriyya/
 Hawwāra,"Miṣrāta, Qaṣr Aḥmad, הוארה, هوارة","32° 22′ 38″ N, 15° 5′ 31″ E","In the 13th century, the port of Hawwāra was known as Qaṣr Aḥmad (Ibn Rushayd al-Sabtī, Riḥla, 6: 5), which became known as Miṣrāta in the 16th century.",1,0,0,https://geniza.princeton.edu/places/hawwara/
-Hebron,"חברון, الخليل","31° 31′ 45″ N, 35° 5′ 37″ E",,13,0,0,https://geniza.princeton.edu/places/hebron/
+Hebron,"חברון, الخليل","31° 31′ 45″ N, 35° 5′ 37″ E",,14,0,0,https://geniza.princeton.edu/places/hebron/
 Ḥijāz,,"22° 0′ 0″ N, 39° 30′ 0″ E",,3,0,0,https://geniza.princeton.edu/places/hijaz/
 Ḥelwān,حلوان,"29° 50′ 31″ N, 31° 19′ 59″ E",,0,0,0,https://geniza.princeton.edu/places/hilwan/
 Homs,"حمص, Ḥimṣ","34° 43′ 57″ N, 36° 42′ 48″ E",,2,0,0,https://geniza.princeton.edu/places/homs/
@@ -204,7 +204,7 @@ Izmir,Smyrna,"38° 24′ 45″ N, 27° 8′ 18″ E",,8,0,0,https://geniza.princ
 Jabala,,"35° 21′ 56″ N, 35° 55′ 32″ E",,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,"33° 10′ 1″ N, 35° 21′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,"32° 3′ 1″ N, 34° 45′ 7″ E",,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,173,11,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,"31° 46′ 36″ N, 35° 14′ 3″ E",,174,11,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,"21° 31′ 45″ N, 39° 9′ 39″ E",,5,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,"34° 7′ 24″ N, 35° 39′ 6″ E",,4,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,"31° 3′ 0″ N, 31° 20′ 41″ E","31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -315,7 +315,7 @@ Romania,רומנייה,"46° 0′ 0″ N, 25° 0′ 0″ E",,1,0,0,https://geniz
 Rome,,"41° 53′ 48″ N, 12° 28′ 55″ E",,3,0,0,https://geniza.princeton.edu/places/rome/
 Rosetta,Rashīd,"31° 23′ 58″ N, 30° 25′ 1″ E",,53,0,0,https://geniza.princeton.edu/places/rosetta/
 Ṣā,"Sais, Ṣā al-Ḥajar","30° 57′ 52″ N, 30° 45′ 59″ E",,1,0,0,https://geniza.princeton.edu/places/sa/
-Safed,"צפת, صفد","32° 57′ 52″ N, 35° 29′ 45″ E",,32,0,0,https://geniza.princeton.edu/places/safed/
+Safed,"צפת, صفد","32° 57′ 52″ N, 35° 29′ 45″ E",,33,0,0,https://geniza.princeton.edu/places/safed/
 Ṣaffūriyya,Sepphoris,"32° 44′ 44″ N, 35° 16′ 42″ E",,1,0,0,https://geniza.princeton.edu/places/saffuriyya/
 Ṣahrajt,,"30° 38′ 18″ N, 31° 17′ 1″ E",,23,0,0,https://geniza.princeton.edu/places/sahrajt/
 Sakhā,,"31° 5′ 21″ N, 30° 56′ 39″ E",,1,0,0,https://geniza.princeton.edu/places/sakha/
