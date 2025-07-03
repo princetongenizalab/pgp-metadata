@@ -166,7 +166,7 @@ Abū Naṣr b. ʿAṭiyya,ابو نصر بن عطية,Male,Jewish community memb
 Abū Naṣr b. Avraham,Bū Naṣr b. Ibrāhīm,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/abu-nasr-b-avraham/
 Abū Naṣr b. Elishaʿ,,Male,None,,,,,0,,,,1,https://geniza.princeton.edu/people/abu-nasr-b-elisha/
 Abū Naṣr Ibn Ṣaghīr,,Male,None,,,,,0,,,,1,
-Abū Naṣr Ibn Shaʿyā,,Male,None,,,,,0,,,,2,
+Abū Naṣr Ibn Shaʿyā,,Male,None,,,,IB2,0,,,,2,
 Abu Naṣr Yehuda b. Yeshuʿa ha-Levi,,Male,None,,,,,0,,,,1,
 Abūn b. Ṣadaqa al-Maghribī,,Male,Jewish community member,,,,,1,,Jerusalem,,11,https://geniza.princeton.edu/people/abun-b-sadaqa-al-maghribi/
 Abū Saʿd b. Abū l-ʿAlāʾ,,Male,None,,,,,0,,,,1,
@@ -563,7 +563,7 @@ Hārūn b. Khulayf b. Hārūn,هرون بن خليف بن هرون,Male,Jewish c
 Hārūn Ibn Shamārī,הרון בן שמארי,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/harun-ibn-shamari/
 Ḥasan b. Aḥmad b. Muḥammad Abū ʿUbaydallāh,حسن بن احمد بن محمد ابي عبيد الله,Male,Other,,,Witness,,0,,,,1,
 Ḥasan b. ʿAlī al-Baqqāl,حسن بن علي البقال,Male,Other,,,,,0,,,,1,
-Ḥasan b. Bundār,,Male,None,,,,,0,,,,5,https://geniza.princeton.edu/people/hasan-b-bundar/
+Ḥasan b. Bundār,,Male,None,,,,IB2,0,,,,5,https://geniza.princeton.edu/people/hasan-b-bundar/
 Ḥasan b. Kulayb al-ʿAsqalānī,,Male,None,,,,,0,,,,1,
 Ḥasan ibn Isḥāq al-Ramlī al-Mayāzirī,حسن بن اسحق الميازري الرملي,Male,Jewish community member,,,,,0,,,,1,
 Ḥasān Abū ʿAlī b. Ibrāhīm b. Azhar,حسن ابو علي ابرهيم بن ازهر,Male,Jewish community member,,,Money-changer,,0,,,,1,
@@ -973,6 +973,7 @@ Salmān b. Hārūn,,Male,None,,,,,0,,,,1,
 Salmān b. Ibrāhīm,,Male,None,,,,,0,,,,1,
 Samḥūn b. Yaḥyā al-Maghribī,,Male,None,,,,,0,,,,1,
 Ṣārim al-Dawla ʿAlī b. Manṣūr,,Male,None,,,Governor of Ascalon under the Fatimid caliph al-Mustanṣir.,,0,,,,1,https://geniza.princeton.edu/people/sarim-al-dawla-ali-b-mansur/
+Sār Shālōm b. al-Shāmī,,Male,Jewish community member,,,He and his son Zechariah were India traders,IB2,0,al-Shām,,,1,
 Sar Shalom ha-Levi (Gaʾon),"Abū Zikrī Yaḥyā, Sar Shalom b. Moshe b. Netanʾel ha-Levi",Male,Jewish communal official,,1171/1195,"Served as head of the Jews in Fustat around 1170/71 and again from around 1173–95. Bore the title gaʾon. Before this appointment he held the post of av bet din in the Palestinian yeshiva in Damascus, under his brother ʿAzarya who was gaʾon in Damascus. In Fustat, succeeded his brother Netanʾel b. Moshe ha-Levi. Moshe Maimonides briefly replaced Sar Shalom ca. 1171 when the Ayyubids came to power and abolished the Fatimid caliphate. The events of Sar Shalom's second tenure (ca. 1173–95) are narrated in Megillat Zuṭa, a scroll authored by a supporter of Maimonides named Avraham b. Hillel, who accuses Sar Shalom and his father Moshe b. Netanʾel ha-Shishi, of gaining the headship of the Jews by corrupt means.",,0,,,,5,https://geniza.princeton.edu/people/sar-shalom-b-moshe-ha-levi/
 Sar Shalom b. Yakhin,,Male,Jewish community member,,,,,0,,,,1,https://geniza.princeton.edu/people/sar-shalom-b-yakhin/
 Sason b. Efrayim,,Male,None,,,,,0,,,,1,
@@ -1114,6 +1115,9 @@ Sutayt bt. Nadiv,,Female,Jewish community member,,,,,0,,,,1,
 Ṭāhir b. Ibrāhīm,Ṭahor b. Avraham,Male,None,,,,,0,,,,1,
 Ṭāhir b. Isḥāq,,Male,None,,,,,0,,,,1,
 Tāj al-Dawla,,Male,State official,,415,"State official, worked for the fiscal.",,0,,,,1,
+Tamīm,,Male,Jewish community member,,,"He is always mentioned without a family name and occasionally without an honorific epithet. Twice he is mentioned transporting cloves from Aden to Fustat. There is also mention of a lawsuit against him in Aden. 
+
+Goitein initially thought Tamīm must be the name of a freedman, but now that we know of a Tamīm ha-Kohen b. Jacob (a Kohen, and therefore not a former slave), that is no longer a tenable assumption.","IB2, IB6, IB7",0,,,"Aden, Fustat",4,
 Tamīm b. Mevorakh,,Male,None,,,,,0,,,,1,
 Tamīm b. Mūsā,,Male,Jewish community member,,,,,0,,,,1,
 Tamīm b. Najā,,Male,None,,,,,0,,,,1,
@@ -1240,7 +1244,7 @@ Yehuda b. Simḥa,,Male,Jewish community member,,,,,1,,,,1,
 Yehuda b. Ṭuviyyahu,,Male,Jewish communal official,,1172/1218,Muqaddam of Bilbays,,0,,Bilbays,,15,https://geniza.princeton.edu/people/yehuda-b-tuviyyahu/
 Yehuda b. Yosef ha-Kohen,,Male,Jewish communal official,,,,,0,,,,1,
 Yehuda ha-Levi,Judah Halevi,Male,Jewish community member,,,"Hebrew poet and author of The Kuzari, a philosophical defense of Judaism. Born in Toledo, died probably on the way to Palestine from Alexandria in 1141. Spent the last year or so of his life in Egypt where he composed numerous poems in honor of various individuals. Also a prolific author of liturgical poetry. Several of his autograph letters survived in the Geniza.",,0,,Toledo,,3,https://geniza.princeton.edu/people/yehuda-ha-levi/
-Yequtiʾel b. Moshe,"Abū Yaʿqūb Yequtiʾel Peqid ha-Soḥarim b. Moshe ha-Rofeʾ, al-Ḥakīm",Male,None,,,,,1,,,,8,https://geniza.princeton.edu/people/yequtiel-b-moshe/
+Yequtiʾel b. Moshe,"Abū Yaʿqūb Yequtiʾel Peqid ha-Soḥarim b. Moshe ha-Rofeʾ, al-Ḥakīm",Male,None,,,,"IB2, IB1",1,,,,8,https://geniza.princeton.edu/people/yequtiel-b-moshe/
 Yeshaʿya ha-Levi,,Male,None,,,,,0,,,,1,
 Yeshaʿyahu b. Mishaʾel ha-Levi,,Male,None,,,,,0,,,,2,https://geniza.princeton.edu/people/yeshayahu-b-mishael-ha-levi/
 Yeshuʿa al-Fāsī,,Male,Jewish community member,,,,,0,,,,1,
