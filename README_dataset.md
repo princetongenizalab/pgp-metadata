@@ -1,6 +1,6 @@
 # PGP Metadata
 
-This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2025-05 by Rebecca Koeser. Reviewed by Sarah Reif Connell. Final version updated by Rachel Richman 2025-07-03.
+This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2025-05 by Rebecca Koeser. Reviewed by Sarah Reiff Connell. Final version updated by Rachel Richman 2025-07-03.
 
 GENERAL INFORMATION
 
@@ -89,7 +89,9 @@ DATA & FILE OVERVIEW
 
 	places.csv: metadata describing places associated with Geniza documents (whether mentioned in the text or where they were written or sent).
 
-2. Relationship between files, if important: 
+	datapackage.json: specifying format and rules for the data files above, and the non-commerical license.
+
+3. Relationship between files, if important: 
 
 	documents.csv is intended to be the primary entry point, and can be used in combination with other files:
 
@@ -99,13 +101,13 @@ DATA & FILE OVERVIEW
 
 	people.csv and places.csv relate to documents but exports in the current dataset only include counts of related documents; the list of specific documents can be found at the url included in the data for entries with public urls.
 
-3. Additional related data collected that was not included in the current data package: 
+4. Additional related data collected that was not included in the current data package: 
 	Images of fragments are not included, but are referenceable via IIIF Presentation manifests
 	PGP-specific arrangement of images for documents (overrides for fragment image order, orientation, and exclusion)
 	Links between people and documents or places and documents
 	Events
 
-4. Are there multiple versions of the dataset? 
+5. Are there multiple versions of the dataset? 
 	This is the first published version of PGP data.
 	
 
