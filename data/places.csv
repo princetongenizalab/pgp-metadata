@@ -33,7 +33,7 @@ al-Karak,الكرك,"31° 10′ 59″ N, 35° 42′ 0″ E",,1,0,0,https://geniz
 al-Maghrib,al-Gharb,,Region,2,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,"15° 56′ 57″ N, 43° 26′ 15″ E",,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى","30° 58′ 11″ N, 31° 9′ 36″ E",,57,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya, المهدية","35° 30′ 0″ N, 11° 4′ 12″ E",,115,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya, المهدية","35° 30′ 0″ N, 11° 4′ 12″ E",,127,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين","31° 2′ 8″ N, 30° 47′ 47″ E",,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,"31° 9′ 36″ N, 31° 56′ 18″ E",,3,0,0,https://geniza.princeton.edu/places/al-manzala/
 Al-Marāgha,المراغة,"26° 42′ 22″ N, 31° 36′ 16″ E",,1,0,0,https://geniza.princeton.edu/places/al-maragha/
@@ -225,6 +225,7 @@ Kīsh,"Qays, כיש, קיס, قيس, كيش","26° 31′ 59″ N, 53° 59′ 11�
 Kolkata,כלכתה,"22° 34′ 27″ N, 88° 21′ 42″ E",,1,0,0,https://geniza.princeton.edu/places/kolkata/
 Kūlam,"Kollam, Quilon","8° 53′ 35″ N, 76° 36′ 50″ E",,3,0,1,https://geniza.princeton.edu/places/kulam/
 Lakhaba,,"12° 55′ 42″ N, 44° 54′ 1″ E","Coordinates are approximate. See Margariti, Aden, 60–63.",1,0,0,https://geniza.princeton.edu/places/lakhaba/
+Lamṭa,"למטה, لمطة","35° 40′ 31″ N, 10° 52′ 50″ E",,1,0,0,https://geniza.princeton.edu/places/lamta/
 Land of the Zanj (region),בלאד אלזנג (region),"4° 3′ 14″ S, 39° 40′ 0″ E","Bilād al-Zanj refers to the Swahili coast. Until PGP can handle regions, I've arbitrarily set the point at Mombasa.",2,0,0,https://geniza.princeton.edu/places/land-of-the-zanj-region/
 Latakia,al-Lādhiqiyya,"35° 32′ 30″ N, 35° 47′ 55″ E",,18,0,0,https://geniza.princeton.edu/places/latakia/
 Livorno,Leghorn,"43° 32′ 54″ N, 10° 18′ 38″ E",,13,0,0,https://geniza.princeton.edu/places/livorno/
@@ -306,7 +307,7 @@ Qedesh,,"33° 6′ 41″ N, 35° 31′ 46″ E",,1,0,0,https://geniza.princeton.
 Qift,,"25° 59′ 42″ N, 32° 48′ 57″ E",,1,0,0,https://geniza.princeton.edu/places/qift/
 Qiryat Ono,,"32° 3′ 17″ N, 34° 51′ 32″ E",,1,0,0,https://geniza.princeton.edu/places/qiryat-ono/
 Qujandīm,"קגנדים, قوجنديمة",,Locality in al-Daqahliyya province; precise coordinates unknown.,1,0,0,https://geniza.princeton.edu/places/qujandim/
-Qūṣ,,"25° 55′ 47″ N, 32° 46′ 12″ E",,31,0,0,https://geniza.princeton.edu/places/qus/
+Qūṣ,,"25° 55′ 47″ N, 32° 46′ 12″ E",,32,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,"̋Ḥaṣor, חצור, رفح","31° 17′ 57″ N, 34° 14′ 39″ E","On the identification of Ḥaṣor as Rafaḥ, see M. A. Friedman, Jewish Marriage in Palestine, vol. 2, p. 316.",3,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa (Sicily),רגוס,"36° 55′ 29″ N, 14° 43′ 7″ E",,1,0,0,https://geniza.princeton.edu/places/ragusa/
 Raʾs al-Khalīj,,"31° 14′ 57″ N, 31° 38′ 54″ E",,1,0,0,https://geniza.princeton.edu/places/ra-s-al-khalij/
