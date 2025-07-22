@@ -32,7 +32,7 @@ al-Karak,الكرك,N,"31° 10′ 59″ N, 35° 42′ 0″ E",,,1,0,0,https://ge
 ʿAlmā,,N,"33° 3′ 6″ N, 35° 29′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/alma/
 al-Maghrib,al-Gharb,N,,,Region,2,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
-al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,58,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
+al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,60,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,204,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين",N,"31° 2′ 8″ N, 30° 47′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,N,"31° 9′ 36″ N, 31° 56′ 18″ E",,,3,0,0,https://geniza.princeton.edu/places/al-manzala/
@@ -113,7 +113,7 @@ Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53�
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,105,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,1,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,11,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,470,3,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,471,3,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,N,"11° 15′ 32″ N, 75° 46′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,N,"35° 20′ 27″ N, 25° 8′ 53″ E",,,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,N,"44° 3′ 20″ N, 5° 2′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -176,7 +176,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1290,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1291,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,7,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -209,7 +209,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,262,11,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,265,11,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,5,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,4,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -364,7 +364,7 @@ Skopje,אישקופייה,N,"41° 59′ 47″ N, 21° 25′ 53″ E",,,1,0,0,htt
 Soba,,N,"15° 30′ 18″ N, 32° 41′ 26″ E",,"Soba was the capital of the Nubian kingdom of Alodia (Arabic: ʿAlwa). Located on the banks of the Blue Nile, the town may have occupied an area of up to 275 ha, of which only ~1% has been excavated. The medieval city contained large houses, churches and monasteries. From the sixteenth century onward, however, it fell into ruin. Today the medieval remains are buried, but there is modern settlement in the area as a result of the expansion of nearby Khartoum. The site was excavated by the Polish Centre for Mediterranean Archaeology from 2019–22, and that team has published a number of reports and articles about the site. See the project page at: https://pcma.uw.edu.pl/en/2019/01/25/soba-2/",1,2,0,https://geniza.princeton.edu/places/soba/
 Suez,,N,"29° 58′ 4″ N, 32° 32′ 56″ E",,,4,0,0,https://geniza.princeton.edu/places/suez/
 Sumusṭā,,N,"28° 55′ 14″ N, 30° 51′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/sumusta/
-Sunbāṭ,,N,"30° 48′ 24″ N, 31° 12′ 16″ E",,,20,0,0,https://geniza.princeton.edu/places/sunbat/
+Sunbāṭ,,N,"30° 48′ 24″ N, 31° 12′ 16″ E",,,21,0,0,https://geniza.princeton.edu/places/sunbat/
 Sura,"מתא מחסיא, סורא",N,"31° 52′ 59″ N, 44° 27′ 0″ E",,Home to one of the two major rabbinic academies in Iraq from late antiquity until the early 10th century when the academies moved to Baghdad.,1,0,0,https://geniza.princeton.edu/places/sura/
 Surat,,N,"21° 12′ 20″ N, 72° 50′ 24″ E",,,1,0,0,https://geniza.princeton.edu/places/surat/
 Sūsa,"Soussa, Sousse",N,"35° 49′ 47″ N, 10° 37′ 48″ E",,,50,0,0,https://geniza.princeton.edu/places/susa/
