@@ -22,7 +22,7 @@ al-Bannā,"אלבנא, البنا",N,,,Unidentified locality near Fāqūs.,1,0,0
 al-Bashmūr,"אלבשמור, البشمور",Y,"31° 18′ 36″ N, 31° 3′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-bashmur/
 Al-Daqahliyya (region),,Y,"31° 15′ 57″ N, 31° 37′ 37″ E",,,1,0,0,https://geniza.princeton.edu/places/al-daqahliyya-region/
 Aleppo,"חלב, צובה, حلب",N,"36° 13′ 0″ N, 37° 10′ 0″ E",,,43,0,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,693,33,1,https://geniza.princeton.edu/places/alexandria/
+Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,694,33,1,https://geniza.princeton.edu/places/alexandria/
 al-Fashn,"الفشن, ⲡⲃⲏϣⲛ",N,"28° 49′ 21″ N, 30° 53′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/al-fashn/
 al-Fayyūm,,Y,"29° 18′ 8″ N, 30° 53′ 31″ E",,,12,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,N,"36° 8′ 26″ N, 5° 27′ 22″ W",,,1,0,0,https://geniza.princeton.edu/places/algeciras/
@@ -41,7 +41,7 @@ al-Maṣṭāy,,N,"30° 37′ 14″ N, 31° 9′ 27″ E",,,1,0,0,https://geniza
 Almeria,אלמריה,N,"36° 50′ 41″ N, 2° 27′ 7″ W",,,16,2,0,https://geniza.princeton.edu/places/almeria/
 Al-Nastarāwiyya (region),,Y,"31° 31′ 31″ N, 30° 49′ 36″ E",,The strip of land to the north of Lake Burullus.,1,0,0,https://geniza.princeton.edu/places/al-nastarawiyya-region/
 al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
-al-Qaṣṣ (region),"Kachchh, Kutch",N,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,3,0,0,https://geniza.princeton.edu/places/al-qass/
+al-Qaṣṣ (region),"Kachchh, Kutch",N,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,4,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,53,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
@@ -125,7 +125,7 @@ Chania,,N,"35° 30′ 49″ N, 24° 1′ 4″ E",,,2,0,0,https://geniza.princeto
 Chios,,N,"38° 22′ 7″ N, 26° 8′ 13″ E",,,1,0,0,https://geniza.princeton.edu/places/chios/
 Colombo,Kalambu,N,"6° 55′ 38″ N, 79° 51′ 3″ E",,"A port in Sri Lanka. Today it is the capital of the Democratic Socialist Republic of Sri Lanka.
 
-The island of Sri Lanka is generally referred to in Geniza documents as Silān (Ceylon), but a single letter refers to a merchant's planned trip to Kalambu. If Colombo on the southwestern coast of Sri Lanka is intended here, then this would be our only known reference to a specific port in Sri Lanka rather than the island as a whole.",1,0,0,https://geniza.princeton.edu/places/colombo/
+The island of Sri Lanka is generally referred to in Geniza documents as Silān (Ceylon), but two letters refer to the Alexandrian merchant Ismāʿīl al-Fāṣid's trip from Aden to Kalambu. If Colombo on the southwestern coast of Sri Lanka is intended here, then these would be our only known references to a specific port in Sri Lanka rather than the island as a whole. Alternatively, these letters might refer to Sri Lanka as a whole as Kalambu. (Goitein previously suggested that Kalambu might refer to Quilon)",2,0,0,https://geniza.princeton.edu/places/colombo/
 Constantine,,N,"36° 21′ 25″ N, 6° 38′ 20″ E",,,1,0,0,https://geniza.princeton.edu/places/constantine/
 Constantinople,Istanbul,N,"41° 0′ 54″ N, 28° 58′ 46″ E",,,55,0,0,https://geniza.princeton.edu/places/constantinople/
 Córdoba,"קרטבה, قرطبة",N,"37° 53′ 24″ N, 4° 46′ 48″ W",,,3,0,0,https://geniza.princeton.edu/places/cordoba/
