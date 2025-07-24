@@ -42,7 +42,7 @@ Almeria,אלמריה,N,"36° 50′ 41″ N, 2° 27′ 7″ W",,,16,2,0,https://g
 Al-Nastarāwiyya (region),,Y,"31° 31′ 31″ N, 30° 49′ 36″ E",,The strip of land to the north of Lake Burullus.,1,0,0,https://geniza.princeton.edu/places/al-nastarawiyya-region/
 al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
 Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,4,0,0,https://geniza.princeton.edu/places/al-qass/
-al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,53,2,0,https://geniza.princeton.edu/places/al-ramla/
+al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,54,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
@@ -113,7 +113,7 @@ Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53�
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,105,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,2,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,11,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,477,3,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,478,3,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,N,"11° 15′ 32″ N, 75° 46′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,N,"35° 20′ 27″ N, 25° 8′ 53″ E",,,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,N,"44° 3′ 20″ N, 5° 2′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -176,7 +176,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1293,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1294,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,7,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -209,7 +209,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,270,11,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,272,11,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,5,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,4,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -399,7 +399,7 @@ Tunis,تونس,N,"36° 48′ 21″ N, 10° 10′ 55″ E",,,5,0,0,https://geniza
 Ṭunūb,طنوب,N,"30° 41′ 18″ N, 30° 48′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/tunub/
 Turin,Torino,N,"45° 4′ 13″ N, 7° 41′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/turin/
 Turūja,تروجة,N,"30° 30′ 0″ N, 30° 6′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/turuja/
-Tyre,"צור, صور",N,"33° 16′ 13″ N, 35° 13′ 50″ E",,,63,2,0,https://geniza.princeton.edu/places/tyre/
+Tyre,"צור, صور",N,"33° 16′ 13″ N, 35° 13′ 50″ E",,,64,2,0,https://geniza.princeton.edu/places/tyre/
 Urmīya,"ארמיה, اروميه",N,"37° 32′ 37″ N, 45° 3′ 52″ E",,,1,0,0,https://geniza.princeton.edu/places/urmiya/
 ואדי לינפש,,N,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
 Valapattanam,"Balyapattanam, Valarapattanam",N,"11° 54′ 0″ N, 75° 22′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/valapattanam/
