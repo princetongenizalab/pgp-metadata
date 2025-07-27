@@ -66,7 +66,7 @@ Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",
 Ashmūn,"Ashmūm, Ashmūn Ṭannāḥ",N,"31° 5′ 48″ N, 31° 40′ 0″ E",,"""Ashmūn"" in Geniza documents appears to refer to Ashmūn Ṭannāh, present-day Ashmūn al-Rummān. However this identification is not certain in all cases; there is another locality called Ashmūn in al-Minūfiyya (30.2936, 30.9786).  See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 118.",13,0,0,https://geniza.princeton.edu/places/ashmun/
 Aswān,,N,"24° 5′ 20″ N, 32° 53′ 59″ E",,,7,1,0,https://geniza.princeton.edu/places/aswan/
 Asyūṭ,,N,"27° 10′ 59″ N, 31° 10′ 0″ E",,,4,0,0,https://geniza.princeton.edu/places/asyut/
-Aṭfīḥ,"Aphroditopolis, אתפיח, أطفيح",N,"29° 25′ 12″ N, 31° 15′ 0″ E",,,6,0,0,https://geniza.princeton.edu/places/atfih/
+Aṭfīḥ,"Aphroditopolis, אתפיח, أطفيح",N,"29° 25′ 12″ N, 31° 15′ 0″ E",,,7,0,0,https://geniza.princeton.edu/places/atfih/
 Atfihnā,"Tafahnā, Tafihnā, אתפהנא, تفهنا العزب",N,"30° 35′ 49″ N, 31° 15′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/atfihna/
 ʿAwarta,,N,"32° 9′ 43″ N, 35° 17′ 11″ E",,,1,0,0,https://geniza.princeton.edu/places/awarta/
 Awjila,"אוגלה, أوجلة",N,"29° 8′ 17″ N, 21° 18′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/awjila/
@@ -176,7 +176,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1299,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1300,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -299,7 +299,7 @@ Pisa,"בישה, بيشة",N,"43° 42′ 59″ N, 10° 24′ 0″ E",,,4,0,0,http
 Port Said,,N,"31° 15′ 58″ N, 32° 17′ 50″ E",,,1,0,0,https://geniza.princeton.edu/places/port-said/
 Pumbedita,פומבדיתא,N,"33° 21′ 3″ N, 43° 47′ 9″ E",,Home to one of the two major rabbinic academies in Iraq from late antiquity until the early 10th century when the academies moved to Baghdad.,2,0,0,https://geniza.princeton.edu/places/pumbedita/
 Qabīl,,N,"31° 4′ 59″ N, 30° 30′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/qabil/
-Qābis,"Gabès, قابس",N,"33° 52′ 48″ N, 10° 7′ 11″ E",,,3,3,0,https://geniza.princeton.edu/places/qabis/
+Qābis,"Gabès, قابس",N,"33° 52′ 48″ N, 10° 7′ 11″ E",,,6,3,0,https://geniza.princeton.edu/places/qabis/
 Qalhā,قلها,N,"29° 4′ 21″ N, 30° 53′ 25″ E",,,1,0,0,https://geniza.princeton.edu/places/qalha/
 Qallīn,"קלין, قلين, ⲕⲁⲗⲗⲓⲛ",N,"31° 2′ 46″ N, 30° 51′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/qallin/
 Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ",N,"30° 11′ 59″ N, 31° 12′ 36″ E",,,30,1,0,https://geniza.princeton.edu/places/qalyub/
@@ -330,6 +330,7 @@ Salamant,سلمنت,N,"30° 22′ 12″ N, 31° 25′ 25″ E",,,1,0,0,https://g
 Salaqṭa,"סלקטה, سلقطة",N,"35° 23′ 35″ N, 11° 2′ 37″ E",,,1,0,0,https://geniza.princeton.edu/places/salaqta/
 Salerno,,N,"40° 40′ 52″ N, 14° 46′ 27″ E",,,2,0,0,https://geniza.princeton.edu/places/salerno/
 Thessaloniki,Salonica,N,"40° 37′ 45″ N, 22° 56′ 50″ E",,,23,0,0,https://geniza.princeton.edu/places/salonica/
+Samalūṭ,Samālūṭ,N,"28° 18′ 43″ N, 30° 42′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/samalut/
 Sammanūd,,N,"30° 57′ 43″ N, 31° 14′ 32″ E",,,22,1,0,https://geniza.princeton.edu/places/sammanud/
 Ṣanʿāʾ,"צנעא, صنعاء",N,"15° 22′ 9″ N, 44° 11′ 27″ E",,,12,0,0,https://geniza.princeton.edu/places/san-a/
 Ṣanāfīr,,N,"30° 13′ 18″ N, 31° 10′ 4″ E",,,1,0,0,https://geniza.princeton.edu/places/sanafir/
