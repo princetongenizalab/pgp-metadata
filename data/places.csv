@@ -42,7 +42,7 @@ Almeria,אלמריה,N,"36° 50′ 41″ N, 2° 27′ 7″ W",,,16,2,0,https://g
 Al-Nastarāwiyya (region),,Y,"31° 31′ 31″ N, 30° 49′ 36″ E",,The strip of land to the north of Lake Burullus.,1,0,0,https://geniza.princeton.edu/places/al-nastarawiyya-region/
 al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
 Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,4,0,0,https://geniza.princeton.edu/places/al-qass/
-al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,56,2,0,https://geniza.princeton.edu/places/al-ramla/
+al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,57,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
@@ -62,7 +62,7 @@ Antioch,Antakya,N,"36° 12′ 23″ N, 36° 9′ 25″ E",,,3,0,0,https://geniza
 ʿAqrabā,,N,"32° 7′ 40″ N, 35° 20′ 35″ E",,,1,0,0,https://geniza.princeton.edu/places/aqraba/
 ʿArqā,"ערקה, عرقا",N,"34° 31′ 46″ N, 36° 2′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/arqa/
 Arsūf,"Apollonia, ארצוף, أرسوف",N,"32° 11′ 42″ N, 34° 48′ 23″ E",,,2,0,0,https://geniza.princeton.edu/places/arsuf/
-Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,29,1,0,https://geniza.princeton.edu/places/ascalon/
+Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,30,1,0,https://geniza.princeton.edu/places/ascalon/
 Ashmūn,"Ashmūm, Ashmūn Ṭannāḥ",N,"31° 5′ 48″ N, 31° 40′ 0″ E",,"""Ashmūn"" in Geniza documents appears to refer to Ashmūn Ṭannāh, present-day Ashmūn al-Rummān. However this identification is not certain in all cases; there is another locality called Ashmūn in al-Minūfiyya (30.2936, 30.9786).  See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 118.",13,0,0,https://geniza.princeton.edu/places/ashmun/
 Aswān,,N,"24° 5′ 20″ N, 32° 53′ 59″ E",,,7,1,0,https://geniza.princeton.edu/places/aswan/
 Asyūṭ,,N,"27° 10′ 59″ N, 31° 10′ 0″ E",,,4,0,0,https://geniza.princeton.edu/places/asyut/
@@ -111,7 +111,7 @@ Apparently on the site of present-day Kafr al-Baṭṭīkh.",3,0,0,https://geniz
 Burullus,"Buḥayrat al-Burullus, Lake Burullus",N,"31° 28′ 20″ N, 30° 50′ 11″ E",,,2,0,0,https://geniza.princeton.edu/places/burullus/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53″ E",,,6,0,0,https://geniza.princeton.edu/places/bush/
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,105,1,0,https://geniza.princeton.edu/places/busir/
-Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,4,0,0,https://geniza.princeton.edu/places/byzantium-region/
+Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,5,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,12,0,0,https://geniza.princeton.edu/places/caesarea/
 Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,491,3,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,N,"11° 15′ 32″ N, 75° 46′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/calicut/
@@ -176,7 +176,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1337,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1343,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -352,7 +352,7 @@ Shingli,"Kodungallur, Shingly, שנגלי, شنجلي",N,"10° 13′ 12″ N, 76
 Shiraz,,N,"29° 36′ 0″ N, 52° 32′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/shiraz/
 Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,25,1,0,https://geniza.princeton.edu/places/shubra-damsis/
 Shūshtar,"שושתר, شوشتر",N,"32° 2′ 52″ N, 48° 51′ 7″ E",,,2,0,0,https://geniza.princeton.edu/places/shushtar/
-Sicily,,N,"37° 38′ 42″ N, 13° 55′ 50″ E",,Region,64,0,0,https://geniza.princeton.edu/places/sicily/
+Sicily,,N,"37° 38′ 42″ N, 13° 55′ 50″ E",,Region,65,0,0,https://geniza.princeton.edu/places/sicily/
 Sidon,صيدا,N,"33° 33′ 37″ N, 35° 22′ 32″ E",,,6,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,N,"43° 19′ 6″ N, 11° 19′ 50″ E",,,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,N,"31° 16′ 48″ N, 4° 16′ 48″ W",,,1,1,0,https://geniza.princeton.edu/places/sijilmasa/
