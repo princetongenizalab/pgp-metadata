@@ -22,7 +22,7 @@ al-Bannā,"אלבנא, البنا",N,,,Unidentified locality near Fāqūs.,1,0,0
 al-Bashmūr,"אלבשמור, البشمور",Y,"31° 18′ 36″ N, 31° 3′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-bashmur/
 Al-Daqahliyya (region),,Y,"31° 15′ 57″ N, 31° 37′ 37″ E",,,1,0,0,https://geniza.princeton.edu/places/al-daqahliyya-region/
 Aleppo,"חלב, צובה, حلب",N,"36° 13′ 0″ N, 37° 10′ 0″ E",,,43,0,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,699,33,1,https://geniza.princeton.edu/places/alexandria/
+Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,700,33,1,https://geniza.princeton.edu/places/alexandria/
 al-Fashn,"الفشن, ⲡⲃⲏϣⲛ",N,"28° 49′ 21″ N, 30° 53′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/al-fashn/
 al-Fayyūm,,Y,"29° 18′ 8″ N, 30° 53′ 31″ E",,,12,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,N,"36° 8′ 26″ N, 5° 27′ 22″ W",,,1,0,0,https://geniza.princeton.edu/places/algeciras/
@@ -44,6 +44,7 @@ al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geni
 Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,4,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,57,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
+al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sabah/
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
@@ -176,7 +177,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1368,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1369,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -221,6 +222,7 @@ Kafr al-Ḥārith,"כפר אלחארת, كفر الحارث",N,"30° 12′ 11″
 Kafr al-Jazaʾir,"כפר אלגזאייר, كفر الجزائر",N,"31° 4′ 12″ N, 30° 46′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-al-jaza-ir/
 Kafr Birʿim,Barʿam,N,"33° 3′ 32″ N, 35° 25′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-bir-im/
 Kafr Ḥāris,Kifl Ḥāris,N,"32° 6′ 59″ N, 35° 9′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-haris/
+Kafr Ramāda,"כפר רמאדה, كفر رمادة",N,"30° 12′ 56″ N, 31° 13′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-ramada/
 Kalabshā,Kalābsha,N,"23° 57′ 38″ N, 32° 52′ 4″ E",,,1,0,0,https://geniza.princeton.edu/places/kalabsha/
 Kanbāyat,"Cambay, כנבאית",N,"22° 19′ 5″ N, 72° 37′ 8″ E",,,1,0,0,https://geniza.princeton.edu/places/kanbayat/
 Karystos,,N,"38° 0′ 50″ N, 24° 25′ 11″ E",,,1,0,0,https://geniza.princeton.edu/places/karystos/
