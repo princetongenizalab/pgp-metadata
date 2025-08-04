@@ -33,7 +33,7 @@ al-Kharqāniyya,"אלכ'רקאנייה, الخرقانية",N,"30° 10′ 31″ 
 ʿAlmā,,N,"33° 3′ 6″ N, 35° 29′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/alma/
 al-Maghrib,al-Gharb,N,,,Region,2,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
-al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,63,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
+al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,64,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,204,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين",N,"31° 2′ 8″ N, 30° 47′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,N,"31° 9′ 36″ N, 31° 56′ 18″ E",,,3,0,0,https://geniza.princeton.edu/places/al-manzala/
@@ -178,7 +178,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1418,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1429,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -356,7 +356,7 @@ Sharbīn,شربين,N,"31° 11′ 24″ N, 31° 31′ 11″ E",,,1,0,0,https://g
 Shaṭānūf,"שטנוף, شطانوف",N,"30° 14′ 17″ N, 31° 4′ 26″ E",,,2,0,0,https://geniza.princeton.edu/places/shatanuf/
 Shingli,"Kodungallur, Shingly, שנגלי, شنجلي",N,"10° 13′ 12″ N, 76° 13′ 11″ E",,,3,0,0,https://geniza.princeton.edu/places/shingli/
 Shiraz,,N,"29° 36′ 0″ N, 52° 32′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/shiraz/
-Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,25,1,0,https://geniza.princeton.edu/places/shubra-damsis/
+Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,26,1,0,https://geniza.princeton.edu/places/shubra-damsis/
 Shūshtar,"שושתר, شوشتر",N,"32° 2′ 52″ N, 48° 51′ 7″ E",,,2,0,0,https://geniza.princeton.edu/places/shushtar/
 Sicily,,N,"37° 38′ 42″ N, 13° 55′ 50″ E",,Region,65,0,0,https://geniza.princeton.edu/places/sicily/
 Sidon,صيدا,N,"33° 33′ 37″ N, 35° 22′ 32″ E",,,6,0,0,https://geniza.princeton.edu/places/sidon/
@@ -394,7 +394,7 @@ Tel Yaʿqūb,"Tepealtı, Tilyaqup",N,"37° 5′ 45″ N, 41° 22′ 15″ E",,,1
 Thebes,,N,"38° 19′ 14″ N, 23° 19′ 4″ E",,,2,0,0,https://geniza.princeton.edu/places/thebes/
 Tiberias,,N,"32° 47′ 42″ N, 35° 31′ 51″ E",,,26,0,0,https://geniza.princeton.edu/places/tiberias/
 Tilimsān,"Tlemcen, تلمسان",N,"34° 52′ 48″ N, 1° 19′ 12″ W",,,6,1,0,https://geniza.princeton.edu/places/tilimsan/
-Tinnīs,תניס,N,"31° 11′ 59″ N, 32° 13′ 59″ E",,,68,3,0,https://geniza.princeton.edu/places/tinnis/
+Tinnīs,תניס,N,"31° 11′ 59″ N, 32° 13′ 59″ E",,,69,3,0,https://geniza.princeton.edu/places/tinnis/
 Tīz,"Chabahar, al-Tīz, אלתיז",N,"25° 21′ 24″ N, 60° 37′ 14″ E",,Primary medieval port of Makran.,3,0,0,https://geniza.princeton.edu/places/tiz/
 Tobruk,"טברק, طبرق",N,"32° 4′ 42″ N, 23° 56′ 35″ E",,,4,0,0,https://geniza.princeton.edu/places/tobruk/
 Toledo,Ṭulayṭula,N,"39° 51′ 35″ N, 4° 1′ 38″ W",,,4,1,0,https://geniza.princeton.edu/places/toledo/
@@ -402,7 +402,7 @@ Trapani,אטראבנש,N,"38° 1′ 1″ N, 12° 30′ 54″ E",,,3,0,0,https://
 Trieste,,N,"45° 38′ 55″ N, 13° 46′ 10″ E",,,4,0,0,https://geniza.princeton.edu/places/trieste/
 Tripoli (Greece),,N,"37° 30′ 32″ N, 22° 22′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/tripoli-greece/
 Tripoli (Lebanon),"סינים, Ṭarāblus al-Shām",N,"34° 26′ 12″ N, 35° 50′ 3″ E",,,16,1,0,https://geniza.princeton.edu/places/tripoli-lebanon/
-Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus",N,"32° 53′ 24″ N, 13° 11′ 23″ E",,,55,1,0,https://geniza.princeton.edu/places/tripoli-libya/
+Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus",N,"32° 53′ 24″ N, 13° 11′ 23″ E",,,56,1,0,https://geniza.princeton.edu/places/tripoli-libya/
 Tuḥuriyya,طحورية,N,"30° 21′ 43″ N, 31° 19′ 51″ E",,,1,0,0,https://geniza.princeton.edu/places/tuhuriyya/
 Ṭūkh,طوخ الملق,N,"30° 21′ 9″ N, 31° 12′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/tukh/
 Tunis,تونس,N,"36° 48′ 21″ N, 10° 10′ 55″ E",,,5,0,0,https://geniza.princeton.edu/places/tunis/
