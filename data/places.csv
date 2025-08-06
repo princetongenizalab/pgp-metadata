@@ -49,7 +49,7 @@ al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32�
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
-al-Shām,"Levant, Syria",N,,,Region,4,1,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,"Levant, Syria",N,,,Region,11,1,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,N,"30° 17′ 30″ N, 31° 19′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Suwaydiyya,"Samandağ, אלסוידייה, السويدية",N,"36° 5′ 6″ N, 35° 58′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/al-suwaydiyya/
 al-Ṭūr,,N,"28° 15′ 14″ N, 33° 36′ 3″ E",,,1,0,0,https://geniza.princeton.edu/places/al-tur/
@@ -99,7 +99,7 @@ Berbera,,N,"10° 26′ 5″ N, 45° 0′ 50″ E",,,2,0,0,https://geniza.princet
 Bethlehem,,N,"31° 42′ 19″ N, 35° 12′ 8″ E",,,2,0,0,https://geniza.princeton.edu/places/bethlehem/
 Bharuch,"Barūṣ, Bharutkutccha, Broach, ברוץ",N,"21° 41′ 59″ N, 72° 59′ 23″ E",,,8,3,0,https://geniza.princeton.edu/places/bharuch/
 Bijāya,Bougie,N,"36° 45′ 3″ N, 5° 3′ 51″ E",,,9,0,0,https://geniza.princeton.edu/places/bijaya/
-Bilbays,Bulbays,N,"30° 25′ 12″ N, 31° 33′ 35″ E",,,102,2,0,https://geniza.princeton.edu/places/bilbays/
+Bilbays,Bulbays,N,"30° 25′ 12″ N, 31° 33′ 35″ E",,,103,2,0,https://geniza.princeton.edu/places/bilbays/
 Bilqās,Belkas,N,"31° 12′ 50″ N, 31° 21′ 28″ E",,,0,0,0,https://geniza.princeton.edu/places/bilqas/
 Birma,,N,"30° 50′ 40″ N, 30° 54′ 29″ E",,,2,0,0,https://geniza.princeton.edu/places/birma/
 Birya,ביריה,N,"32° 58′ 41″ N, 35° 30′ 10″ E",,,1,0,0,https://geniza.princeton.edu/places/birya/
@@ -115,7 +115,7 @@ Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53�
 Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,105,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,5,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,12,0,0,https://geniza.princeton.edu/places/caesarea/
-Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,504,3,1,https://geniza.princeton.edu/places/cairo/
+Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,506,3,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,N,"11° 15′ 32″ N, 75° 46′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/calicut/
 Candia,Heraklion,N,"35° 20′ 27″ N, 25° 8′ 53″ E",,,8,0,0,https://geniza.princeton.edu/places/candia/
 Carpentras,קארפינטראץ,N,"44° 3′ 20″ N, 5° 2′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/carpentras/
@@ -178,7 +178,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1491,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1495,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,11,0,0,https://geniza.princeton.edu/places/gaza/
@@ -318,7 +318,7 @@ Qedesh,,N,"33° 6′ 41″ N, 35° 31′ 46″ E",,,1,0,0,https://geniza.princet
 Qift,,N,"25° 59′ 42″ N, 32° 48′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/qift/
 Qiryat Ono,,N,"32° 3′ 17″ N, 34° 51′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/qiryat-ono/
 Qujandīm,"קגנדים, قوجنديمة",N,,,Locality in al-Daqahliyya province; precise coordinates unknown.,1,0,0,https://geniza.princeton.edu/places/qujandim/
-Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,34,0,0,https://geniza.princeton.edu/places/qus/
+Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,35,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,"̋Ḥaṣor, חצור, رفح",N,"31° 17′ 57″ N, 34° 14′ 39″ E",,"On the identification of Ḥaṣor as Rafaḥ, see M. A. Friedman, Jewish Marriage in Palestine, vol. 2, p. 316.",3,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa (Sicily),רגוס,N,"36° 55′ 29″ N, 14° 43′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/ragusa/
 Raḥbeh,"רחבה, رحبة",N,"34° 30′ 13″ N, 36° 8′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/rahbeh/
