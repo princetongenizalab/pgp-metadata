@@ -49,7 +49,7 @@ al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32�
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
-al-Shām,"Levant, Syria",N,,,Region,36,1,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,"Levant, Syria",N,,,Region,44,1,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,N,"30° 17′ 30″ N, 31° 19′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Suwaydiyya,"Samandağ, אלסוידייה, السويدية",N,"36° 5′ 6″ N, 35° 58′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/al-suwaydiyya/
 al-Ṭūr,,N,"28° 15′ 14″ N, 33° 36′ 3″ E",,,1,0,0,https://geniza.princeton.edu/places/al-tur/
@@ -222,6 +222,7 @@ Jūsiya,,N,"34° 26′ 6″ N, 36° 34′ 12″ E",,,1,0,0,https://geniza.prince
 Kafr Abū Jumaʿa,"כפר אבו גומעה, كفر أبو جمعة",N,"30° 12′ 23″ N, 31° 13′ 8″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-abu-juma-a/
 Kafr al-Ḥārith,"כפר אלחארת, كفر الحارث",N,"30° 12′ 11″ N, 31° 9′ 58″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-al-harith/
 Kafr al-Jazaʾir,"כפר אלגזאייר, كفر الجزائر",N,"31° 4′ 12″ N, 30° 46′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-al-jaza-ir/
+Kafr ʿAnān,"כפר ענאן, كفر عنان",N,"32° 55′ 22″ N, 35° 25′ 6″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-anan/
 Kafr Birʿim,Barʿam,N,"33° 3′ 32″ N, 35° 25′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-bir-im/
 Kafr Ḥāris,Kifl Ḥāris,N,"32° 6′ 59″ N, 35° 9′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-haris/
 Kafr Kanna,"כפר כנא, كفر كنا",N,"32° 45′ 1″ N, 35° 20′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/kafr-kanna/
@@ -360,7 +361,7 @@ Shingli,"Kodungallur, Shingly, שנגלי, شنجلي",N,"10° 13′ 12″ N, 76
 Shiraz,,N,"29° 36′ 0″ N, 52° 32′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/shiraz/
 Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,26,1,0,https://geniza.princeton.edu/places/shubra-damsis/
 Shūshtar,"שושתר, شوشتر",N,"32° 2′ 52″ N, 48° 51′ 7″ E",,,2,0,0,https://geniza.princeton.edu/places/shushtar/
-Sicily,,N,"37° 38′ 42″ N, 13° 55′ 50″ E",,Region,65,0,0,https://geniza.princeton.edu/places/sicily/
+Sicily,,N,"37° 38′ 42″ N, 13° 55′ 50″ E",,Region,66,0,0,https://geniza.princeton.edu/places/sicily/
 Sidon,صيدا,N,"33° 33′ 37″ N, 35° 22′ 32″ E",,,6,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,N,"43° 19′ 6″ N, 11° 19′ 50″ E",,,2,0,0,https://geniza.princeton.edu/places/siena/
 Sijilmāsa,,N,"31° 16′ 48″ N, 4° 16′ 48″ W",,,1,1,0,https://geniza.princeton.edu/places/sijilmasa/
@@ -403,7 +404,7 @@ Toledo,Ṭulayṭula,N,"39° 51′ 35″ N, 4° 1′ 38″ W",,,4,1,0,https://ge
 Trapani,אטראבנש,N,"38° 1′ 1″ N, 12° 30′ 54″ E",,,3,0,0,https://geniza.princeton.edu/places/trapani/
 Trieste,,N,"45° 38′ 55″ N, 13° 46′ 10″ E",,,4,0,0,https://geniza.princeton.edu/places/trieste/
 Tripoli (Greece),,N,"37° 30′ 32″ N, 22° 22′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/tripoli-greece/
-Tripoli (Lebanon),"סינים, Ṭarāblus al-Shām",N,"34° 26′ 12″ N, 35° 50′ 3″ E",,,17,1,0,https://geniza.princeton.edu/places/tripoli-lebanon/
+Tripoli (Lebanon),"סינים, Ṭarāblus al-Shām",N,"34° 26′ 12″ N, 35° 50′ 3″ E",,,18,1,0,https://geniza.princeton.edu/places/tripoli-lebanon/
 Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus",N,"32° 53′ 24″ N, 13° 11′ 23″ E",,,57,1,0,https://geniza.princeton.edu/places/tripoli-libya/
 Tuḥuriyya,طحورية,N,"30° 21′ 43″ N, 31° 19′ 51″ E",,,1,0,0,https://geniza.princeton.edu/places/tuhuriyya/
 Ṭūkh,طوخ الملق,N,"30° 21′ 9″ N, 31° 12′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/tukh/
@@ -424,7 +425,7 @@ Wardūnyā,,N,"33° 22′ 52″ N, 44° 20′ 34″ E",,"A NW suburb of Baghdad.
 Wārjalān,Ouargla,N,"31° 56′ 57″ N, 5° 19′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,N,"32° 11′ 16″ N, 46° 17′ 52″ E",,,2,0,0,https://geniza.princeton.edu/places/wasit/
 Yazd,,N,"31° 51′ 35″ N, 54° 19′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/yazd/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,17,3,1,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,18,3,1,https://geniza.princeton.edu/places/yemen/
 Zabīd,,N,"14° 11′ 59″ N, 43° 19′ 19″ E",,,4,0,0,https://geniza.princeton.edu/places/zabid/
 Zagreb,Agram,N,"45° 48′ 53″ N, 15° 58′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/zagreb/
 Zakynthos,Zante,N,"37° 46′ 48″ N, 20° 53′ 41″ E",,,1,0,0,https://geniza.princeton.edu/places/zakynthos/
