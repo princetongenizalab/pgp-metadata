@@ -1,4 +1,5 @@
 ﻿name,name_variants,is_region,coordinates,containing_region,notes,related_documents_count,related_people_count,related_events_count,url
+Abnūd,,N,"26° 3′ 2″ N, 32° 47′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/abnud/
 Abshīsh,أبشيش,N,"30° 28′ 11″ N, 31° 5′ 18″ E",,,1,0,0,https://geniza.princeton.edu/places/abshish/
 Abū Qīr,,N,"31° 18′ 41″ N, 30° 3′ 37″ E",,,7,0,0,https://geniza.princeton.edu/places/abu-qir/
 Abwān (near Damietta),Ibwān,N,"31° 20′ 6″ N, 31° 46′ 15″ E",,"A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
@@ -112,7 +113,7 @@ Būra,,N,"31° 24′ 0″ N, 31° 43′ 38″ E",,"""'A city on the seacoast nea
 Apparently on the site of present-day Kafr al-Baṭṭīkh.",3,0,0,https://geniza.princeton.edu/places/bura/
 Burullus,"Buḥayrat al-Burullus, Lake Burullus",N,"31° 28′ 20″ N, 30° 50′ 11″ E",,,2,0,0,https://geniza.princeton.edu/places/burullus/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53″ E",,,7,0,0,https://geniza.princeton.edu/places/bush/
-Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,105,1,0,https://geniza.princeton.edu/places/busir/
+Būṣīr,"Abū Ṣīr, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",,,106,1,0,https://geniza.princeton.edu/places/busir/
 Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,5,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,12,0,0,https://geniza.princeton.edu/places/caesarea/
 Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,603,3,1,https://geniza.princeton.edu/places/cairo/
@@ -322,7 +323,7 @@ Qedesh,,N,"33° 6′ 41″ N, 35° 31′ 46″ E",,,1,0,0,https://geniza.princet
 Qift,,N,"25° 59′ 42″ N, 32° 48′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/qift/
 Qiryat Ono,,N,"32° 3′ 17″ N, 34° 51′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/qiryat-ono/
 Qujandīm,"קגנדים, قوجنديمة",N,,,Locality in al-Daqahliyya province; precise coordinates unknown.,1,0,0,https://geniza.princeton.edu/places/qujandim/
-Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,35,0,0,https://geniza.princeton.edu/places/qus/
+Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,36,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,"̋Ḥaṣor, חצור, رفح",N,"31° 17′ 57″ N, 34° 14′ 39″ E",,"On the identification of Ḥaṣor as Rafaḥ, see M. A. Friedman, Jewish Marriage in Palestine, vol. 2, p. 316.",3,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa (Sicily),רגוס,N,"36° 55′ 29″ N, 14° 43′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/ragusa/
 Raḥbeh,"רחבה, رحبة",N,"34° 30′ 13″ N, 36° 8′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/rahbeh/
