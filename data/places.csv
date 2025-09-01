@@ -50,7 +50,7 @@ al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32�
 al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,https://geniza.princeton.edu/places/al-safiyya/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
-al-Shām,"Levant, Syria",N,,,Region,48,1,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,"Levant, Syria",N,,,Region,49,1,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,N,"30° 17′ 30″ N, 31° 19′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Suwaydiyya,"Samandağ, אלסוידייה, السويدية",N,"36° 5′ 6″ N, 35° 58′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/al-suwaydiyya/
 al-Ṭūr,,N,"28° 15′ 14″ N, 33° 36′ 3″ E",,,1,0,0,https://geniza.princeton.edu/places/al-tur/
@@ -65,7 +65,7 @@ Antioch,Antakya,N,"36° 12′ 23″ N, 36° 9′ 25″ E",,,3,0,0,https://geniza
 ʿAqrabā,,N,"32° 7′ 40″ N, 35° 20′ 35″ E",,,1,0,0,https://geniza.princeton.edu/places/aqraba/
 ʿArqā,"ערקה, عرقا",N,"34° 31′ 46″ N, 36° 2′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/arqa/
 Arsūf,"Apollonia, ארצוף, أرسوف",N,"32° 11′ 42″ N, 34° 48′ 23″ E",,,2,0,0,https://geniza.princeton.edu/places/arsuf/
-Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,30,1,0,https://geniza.princeton.edu/places/ascalon/
+Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,31,1,0,https://geniza.princeton.edu/places/ascalon/
 Ashmūn,"Ashmūm, Ashmūn Ṭannāḥ",N,"31° 5′ 48″ N, 31° 40′ 0″ E",,"""Ashmūn"" in Geniza documents appears to refer to Ashmūn Ṭannāh, present-day Ashmūn al-Rummān. However this identification is not certain in all cases; there is another locality called Ashmūn in al-Minūfiyya (30.2936, 30.9786).  See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 118.",15,0,0,https://geniza.princeton.edu/places/ashmun/
 Aswān,,N,"24° 5′ 20″ N, 32° 53′ 59″ E",,,7,1,0,https://geniza.princeton.edu/places/aswan/
 Asyūṭ,Suyūṭ,N,"27° 10′ 59″ N, 31° 10′ 0″ E",,,6,0,0,https://geniza.princeton.edu/places/asyut/
@@ -168,7 +168,7 @@ Edessa,al-Ruhāʾ,N,"37° 9′ 29″ N, 38° 47′ 30″ E",,,1,0,0,https://geni
 Edfu,"Idfū, اتفو, ادفو",N,"24° 58′ 45″ N, 32° 52′ 33″ E",,,1,0,0,https://geniza.princeton.edu/places/edfu/
 Edirne,Adrianople,N,"41° 40′ 36″ N, 26° 33′ 19″ E",,,1,0,0,https://geniza.princeton.edu/places/edirne/
 Egypt (region),,Y,,,,37,0,0,https://geniza.princeton.edu/places/egypt-region/
-Ereṣ Yisraʾel,ארץ ישראל,Y,"31° 42′ 35″ N, 34° 49′ 28″ E",,,7,0,0,https://geniza.princeton.edu/places/eretz-yisra-el/
+Ereṣ Yisraʾel,ארץ ישראל,Y,"31° 42′ 35″ N, 34° 49′ 28″ E",,,9,0,0,https://geniza.princeton.edu/places/eretz-yisra-el/
 Erkinun,"Argeen, Arqin",N,"21° 59′ 47″ N, 31° 17′ 22″ E",,A town in the frontier zone between Egypt and Nubia. It is located just north of Wādī Ḥalfa on the western bank of the Nile.,1,2,0,https://geniza.princeton.edu/places/erkinun/
 Essaouira,,N,"31° 30′ 30″ N, 9° 45′ 34″ W",,,2,0,0,https://geniza.princeton.edu/places/essaouira/
 Fāknūr,"Barkur, فاكنور",N,"13° 27′ 36″ N, 74° 45′ 0″ E",,,2,0,0,https://geniza.princeton.edu/places/faknur/
@@ -181,10 +181,10 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1556,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1558,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
-Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,13,0,0,https://geniza.princeton.edu/places/gaza/
+Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,14,0,0,https://geniza.princeton.edu/places/gaza/
 Genoa,,N,"44° 24′ 25″ N, 8° 56′ 2″ E",,,3,0,0,https://geniza.princeton.edu/places/genoa/
 Ghadames,"Ghadāmis, غدامس",N,"30° 7′ 54″ N, 9° 29′ 42″ E",,,1,1,0,https://geniza.princeton.edu/places/ghadames/
 Ghulayfiqa,,N,"14° 26′ 2″ N, 43° 0′ 57″ E",,The port of Zabīd,2,0,0,https://geniza.princeton.edu/places/ghulayfiqa/
@@ -215,7 +215,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,286,12,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,291,12,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,6,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,5,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
