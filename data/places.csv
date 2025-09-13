@@ -35,7 +35,7 @@ al-Kharqāniyya,"אלכ'רקאנייה, الخرقانية",N,"30° 10′ 31″ 
 al-Maghrib,al-Gharb,N,,,Region,2,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,124,2,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,204,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,205,6,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين",N,"31° 2′ 8″ N, 30° 47′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,N,"31° 9′ 36″ N, 31° 56′ 18″ E",,,3,0,0,https://geniza.princeton.edu/places/al-manzala/
 Al-Marāgha,المراغة,N,"26° 42′ 22″ N, 31° 36′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/al-maragha/
@@ -67,7 +67,7 @@ Antioch,Antakya,N,"36° 12′ 23″ N, 36° 9′ 25″ E",,,3,0,0,https://geniza
 ʿAqrabā,,N,"32° 7′ 40″ N, 35° 20′ 35″ E",,,1,0,0,https://geniza.princeton.edu/places/aqraba/
 ʿArqā,"ערקה, عرقا",N,"34° 31′ 46″ N, 36° 2′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/arqa/
 Arsūf,"Apollonia, ארצוף, أرسوف",N,"32° 11′ 42″ N, 34° 48′ 23″ E",,,2,0,0,https://geniza.princeton.edu/places/arsuf/
-Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,39,1,0,https://geniza.princeton.edu/places/ascalon/
+Ascalon,"אשקלון, عسقلان",N,"31° 40′ 12″ N, 34° 34′ 12″ E",,,41,1,0,https://geniza.princeton.edu/places/ascalon/
 Ashmūn,"Ashmūm, Ashmūn Ṭannāḥ",N,"31° 5′ 48″ N, 31° 40′ 0″ E",,"""Ashmūn"" in Geniza documents appears to refer to Ashmūn Ṭannāh, present-day Ashmūn al-Rummān. However this identification is not certain in all cases; there is another locality called Ashmūn in al-Minūfiyya (30.2936, 30.9786).  See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 118.",16,0,0,https://geniza.princeton.edu/places/ashmun/
 Aswān,,N,"24° 5′ 20″ N, 32° 53′ 59″ E",,,7,1,0,https://geniza.princeton.edu/places/aswan/
 Asyūṭ,Suyūṭ,N,"27° 10′ 59″ N, 31° 10′ 0″ E",,,6,0,0,https://geniza.princeton.edu/places/asyut/
@@ -169,7 +169,7 @@ Dubrovnik,"Ragusa (Adriatic Coast), רגוסה",N,"42° 38′ 27″ N, 18° 6′
 Edessa,al-Ruhāʾ,N,"37° 9′ 29″ N, 38° 47′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/edessa/
 Edfu,"Idfū, اتفو, ادفو",N,"24° 58′ 45″ N, 32° 52′ 33″ E",,,1,0,0,https://geniza.princeton.edu/places/edfu/
 Edirne,Adrianople,N,"41° 40′ 36″ N, 26° 33′ 19″ E",,,1,0,0,https://geniza.princeton.edu/places/edirne/
-Egypt (region),,Y,,,,41,0,0,https://geniza.princeton.edu/places/egypt-region/
+Egypt (region),,Y,,,,42,0,0,https://geniza.princeton.edu/places/egypt-region/
 Ereṣ Yisraʾel,ארץ ישראל,Y,"31° 42′ 35″ N, 34° 49′ 28″ E",,,9,0,0,https://geniza.princeton.edu/places/eretz-yisra-el/
 Erkinun,"Argeen, Arqin",N,"21° 59′ 47″ N, 31° 17′ 22″ E",,A town in the frontier zone between Egypt and Nubia. It is located just north of Wādī Ḥalfa on the western bank of the Nile.,1,2,0,https://geniza.princeton.edu/places/erkinun/
 Essaouira,,N,"31° 30′ 30″ N, 9° 45′ 34″ W",,,2,0,0,https://geniza.princeton.edu/places/essaouira/
@@ -183,7 +183,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1655,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1659,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,16,0,0,https://geniza.princeton.edu/places/gaza/
@@ -217,7 +217,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,297,12,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,298,12,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,6,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,5,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -425,7 +425,7 @@ Tunis,تونس,N,"36° 48′ 21″ N, 10° 10′ 55″ E",,,5,0,0,https://geniza
 Ṭunūb,طنوب,N,"30° 41′ 18″ N, 30° 48′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/tunub/
 Turin,Torino,N,"45° 4′ 13″ N, 7° 41′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/turin/
 Turūja,تروجة,N,"30° 30′ 0″ N, 30° 6′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/turuja/
-Tyre,"צור, صور",N,"33° 16′ 13″ N, 35° 13′ 50″ E",,,70,2,0,https://geniza.princeton.edu/places/tyre/
+Tyre,"צור, صور",N,"33° 16′ 13″ N, 35° 13′ 50″ E",,,71,2,0,https://geniza.princeton.edu/places/tyre/
 Urmīya,"ארמיה, اروميه",N,"37° 32′ 37″ N, 45° 3′ 52″ E",,,1,0,0,https://geniza.princeton.edu/places/urmiya/
 ואדי לינפש,,N,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
 Valapattanam,"Balyapattanam, Valarapattanam",N,"11° 54′ 0″ N, 75° 22′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/valapattanam/
