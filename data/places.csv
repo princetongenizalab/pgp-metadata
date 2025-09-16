@@ -183,7 +183,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,16,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),צרפת,Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,2,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1663,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1665,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,17,0,0,https://geniza.princeton.edu/places/gaza/
@@ -217,7 +217,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,299,12,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,300,12,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,6,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,5,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -395,7 +395,7 @@ Surat,,N,"21° 12′ 20″ N, 72° 50′ 24″ E",,,1,0,0,https://geniza.princet
 Sūsa,"Soussa, Sousse",N,"35° 49′ 47″ N, 10° 37′ 48″ E",,,50,0,0,https://geniza.princeton.edu/places/susa/
 Sūsa (Libya),"Apollonia, Sozusa, Sūsat Barqa, סוסת ברקה, سوسة برقة",N,"32° 53′ 48″ N, 21° 57′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/susa-2/
 Sawākin,Suwākin,N,"19° 6′ 0″ N, 37° 19′ 47″ E",,,5,0,0,https://geniza.princeton.edu/places/suwakin/
-Syracuse,,N,"37° 4′ 33″ N, 15° 17′ 13″ E",,,9,0,0,https://geniza.princeton.edu/places/syracuse/
+Syracuse,,N,"37° 4′ 33″ N, 15° 17′ 13″ E",,,10,0,0,https://geniza.princeton.edu/places/syracuse/
 Ṭaḥā,طحا,N,"28° 11′ 23″ N, 30° 42′ 6″ E",,,1,0,0,https://geniza.princeton.edu/places/taha/
 Ṭalkhā,"طلخا, طلخة",N,"31° 3′ 17″ N, 31° 22′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/talkha/
 Ṭamlāy,,N,"30° 30′ 8″ N, 30° 51′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/tamlay/
@@ -416,9 +416,9 @@ Tobruk,"טברק, طبرق",N,"32° 4′ 42″ N, 23° 56′ 35″ E",,,4,0,0,ht
 Toledo,Ṭulayṭula,N,"39° 51′ 35″ N, 4° 1′ 38″ W",,,4,1,0,https://geniza.princeton.edu/places/toledo/
 Trapani,אטראבנש,N,"38° 1′ 1″ N, 12° 30′ 54″ E",,,3,0,0,https://geniza.princeton.edu/places/trapani/
 Trieste,,N,"45° 38′ 55″ N, 13° 46′ 10″ E",,,4,0,0,https://geniza.princeton.edu/places/trieste/
-Tripoli (Greece),,N,"37° 30′ 32″ N, 22° 22′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/tripoli-greece/
-Tripoli (Lebanon),"סינים, Ṭarāblus al-Shām",N,"34° 26′ 12″ N, 35° 50′ 3″ E",,,22,1,0,https://geniza.princeton.edu/places/tripoli-lebanon/
-Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus",N,"32° 53′ 24″ N, 13° 11′ 23″ E",,,62,1,0,https://geniza.princeton.edu/places/tripoli-libya/
+Tripoli (Greece),,N,"37° 30′ 32″ N, 22° 22′ 45″ E",,,2,0,0,https://geniza.princeton.edu/places/tripoli-greece/
+Tripoli (Lebanon),"סינים, Ṭarāblus al-Shām",N,"34° 26′ 12″ N, 35° 50′ 3″ E",,,25,1,0,https://geniza.princeton.edu/places/tripoli-lebanon/
+Tripoli (Libya),"طرابلس, طرابلس الغرب, Ṭarābulus",N,"32° 53′ 24″ N, 13° 11′ 23″ E",,,64,1,0,https://geniza.princeton.edu/places/tripoli-libya/
 Tuḥuriyya,طحورية,N,"30° 21′ 43″ N, 31° 19′ 51″ E",,,1,0,0,https://geniza.princeton.edu/places/tuhuriyya/
 Ṭūkh,طوخ الملق,N,"30° 21′ 9″ N, 31° 12′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/tukh/
 Tunis,تونس,N,"36° 48′ 21″ N, 10° 10′ 55″ E",,,5,0,0,https://geniza.princeton.edu/places/tunis/
