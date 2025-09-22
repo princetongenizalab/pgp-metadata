@@ -1,7 +1,7 @@
 ﻿name,name_variants,is_region,coordinates,geographic_area,notes,related_documents_count,related_people_count,related_events_count,url
 Abnūd,,N,"26° 3′ 2″ N, 32° 47′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/abnud/
 Abshīsh,أبشيش,N,"30° 28′ 11″ N, 31° 5′ 18″ E",,,2,0,0,https://geniza.princeton.edu/places/abshish/
-Abū Qīr,,N,"31° 18′ 41″ N, 30° 3′ 37″ E",,,7,0,0,https://geniza.princeton.edu/places/abu-qir/
+Abū Qīr,,N,"31° 18′ 41″ N, 30° 3′ 37″ E",,,8,0,0,https://geniza.princeton.edu/places/abu-qir/
 Abwān (near Damietta),Ibwān,N,"31° 20′ 6″ N, 31° 46′ 15″ E",,"A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
 Abwān (near al-Ushmūnayn),,N,"28° 24′ 1″ N, 30° 43′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/abwan-near-al-ushmunayn/
 Abyār,Ibyār,N,"30° 50′ 7″ N, 30° 52′ 2″ E",,,7,0,0,https://geniza.princeton.edu/places/abyar/
@@ -217,7 +217,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,0,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,302,12,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,303,12,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,6,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,5,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -344,7 +344,7 @@ Romania,רומנייה,Y,"46° 0′ 0″ N, 25° 0′ 0″ E",,,1,0,0,https://ge
 Rome,,N,"41° 53′ 48″ N, 12° 28′ 55″ E",,,3,0,0,https://geniza.princeton.edu/places/rome/
 Rosetta,Rashīd,N,"31° 23′ 58″ N, 30° 25′ 1″ E",,,112,0,0,https://geniza.princeton.edu/places/rosetta/
 Ṣā,"Sais, Ṣā al-Ḥajar",N,"30° 57′ 52″ N, 30° 45′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/sa/
-Safed,"צפת, صفد",N,"32° 57′ 52″ N, 35° 29′ 45″ E",,,34,0,0,https://geniza.princeton.edu/places/safed/
+Safed,"צפת, صفد",N,"32° 57′ 52″ N, 35° 29′ 45″ E",,,35,0,0,https://geniza.princeton.edu/places/safed/
 Ṣaffūriyya,Sepphoris,N,"32° 44′ 44″ N, 35° 16′ 42″ E",,,1,0,0,https://geniza.princeton.edu/places/saffuriyya/
 Ṣahrajt,,N,"30° 38′ 18″ N, 31° 17′ 1″ E",,,24,0,0,https://geniza.princeton.edu/places/sahrajt/
 Sakhā,,N,"31° 5′ 21″ N, 30° 56′ 39″ E",,,1,0,0,https://geniza.princeton.edu/places/sakha/
