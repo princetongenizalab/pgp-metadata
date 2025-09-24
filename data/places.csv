@@ -23,7 +23,7 @@ al-Bannā,"אלבנא, البنا",N,,,Unidentified locality near Fāqūs.,1,0,0
 al-Bashmūr,"אלבשמור, البشمور",Y,"31° 18′ 36″ N, 31° 3′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-bashmur/
 Al-Daqahliyya (region),,Y,"31° 15′ 57″ N, 31° 37′ 37″ E",,,1,0,0,https://geniza.princeton.edu/places/al-daqahliyya-region/
 Aleppo,"חלב, צובה, حلب",N,"36° 13′ 0″ N, 37° 10′ 0″ E",,,54,0,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,730,39,1,https://geniza.princeton.edu/places/alexandria/
+Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,731,39,1,https://geniza.princeton.edu/places/alexandria/
 al-Fashn,"الفشن, ⲡⲃⲏϣⲛ",N,"28° 49′ 21″ N, 30° 53′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/al-fashn/
 al-Fayyūm,,Y,"29° 18′ 8″ N, 30° 53′ 31″ E",,,13,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,N,"36° 8′ 26″ N, 5° 27′ 22″ W",,,1,0,0,https://geniza.princeton.edu/places/algeciras/
@@ -45,6 +45,7 @@ Almeria,אלמריה,N,"36° 50′ 41″ N, 2° 27′ 7″ W",,,17,2,0,https://g
 Al-Nastarāwiyya (region),,Y,"31° 31′ 31″ N, 30° 49′ 36″ E",,The strip of land to the north of Lake Burullus.,1,0,0,https://geniza.princeton.edu/places/al-nastarawiyya-region/
 al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
 Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,4,0,0,https://geniza.princeton.edu/places/al-qass/
+al-Quṣayr,"קוצייר, القصير",N,"26° 6′ 6″ N, 34° 16′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-qusayr/
 al-Raḥba,"אלרחבה, الرحبة",N,"35° 0′ 18″ N, 40° 25′ 24″ E",,,2,0,0,https://geniza.princeton.edu/places/al-rahba/
 al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,61,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
@@ -146,7 +147,7 @@ Dahrūṭ,,N,"28° 36′ 46″ N, 30° 47′ 53″ E",,,7,0,0,https://geniza.pri
 Dājūn,"Bayt Dagan, Bayt Dajan",N,"32° 0′ 12″ N, 34° 49′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/dajun/
 Dallāta,Dalton,N,"33° 1′ 19″ N, 35° 29′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/dallata/
 Damanhūr,دمنهور,N,"31° 2′ 26″ N, 30° 28′ 11″ E",,,4,0,0,https://geniza.princeton.edu/places/damanhur/
-Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,185,1,0,https://geniza.princeton.edu/places/damascus/
+Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,186,1,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط",N,"31° 25′ 3″ N, 31° 48′ 51″ E",,,104,0,0,https://geniza.princeton.edu/places/damietta/
 Damīra,,N,"31° 6′ 28″ N, 31° 21′ 40″ E",,,35,0,0,https://geniza.princeton.edu/places/damira/
 Dammūh,"Dimwa, דמוה, דמוי, דמויה, دير طمويه, طموه, طمويه, Ṭammūh, Ṭamwa, Ṭamwayh",N,"29° 56′ 22″ N, 31° 16′ 2″ E",,"For the location as identical with Ṭammūh/Ṭamwa, see Golb, ""Topography,"" part 1.",34,0,0,https://geniza.princeton.edu/places/dammuh/
@@ -220,7 +221,7 @@ Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,8,0,0,https://geniza.pr
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/jabala/
 Jabal ʿĀmil,Jabal ʿĀmila,N,"33° 10′ 1″ N, 35° 21′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/jabal-amil/
 Jaffa,Yāfā,N,"32° 3′ 1″ N, 34° 45′ 7″ E",,,5,0,0,https://geniza.princeton.edu/places/jaffa/
-Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,303,12,0,https://geniza.princeton.edu/places/jerusalem/
+Jerusalem,,N,"31° 46′ 36″ N, 35° 14′ 3″ E",,,304,12,0,https://geniza.princeton.edu/places/jerusalem/
 Jidda,,N,"21° 31′ 45″ N, 39° 9′ 39″ E",,,6,0,0,https://geniza.princeton.edu/places/jidda/
 Jubayl,Byblos,N,"34° 7′ 24″ N, 35° 39′ 6″ E",,,5,0,0,https://geniza.princeton.edu/places/jubayl/
 Jūjar,,N,"31° 3′ 0″ N, 31° 20′ 41″ E",,"31.0406° N, ° E",6,0,0,https://geniza.princeton.edu/places/jujar/
@@ -327,7 +328,8 @@ Qabīl,,N,"31° 4′ 59″ N, 30° 30′ 0″ E",,,1,0,0,https://geniza.princeto
 Qābis,"Gabès, قابس",N,"33° 52′ 48″ N, 10° 7′ 11″ E",,,7,3,0,https://geniza.princeton.edu/places/qabis/
 Qalhā,قلها,N,"29° 4′ 21″ N, 30° 53′ 25″ E",,,1,0,0,https://geniza.princeton.edu/places/qalha/
 Qallīn,"קלין, قلين, ⲕⲁⲗⲗⲓⲛ",N,"31° 2′ 46″ N, 30° 51′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/qallin/
-Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ",N,"30° 11′ 59″ N, 31° 12′ 36″ E",,,35,1,0,https://geniza.princeton.edu/places/qalyub/
+Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ",N,"30° 11′ 59″ N, 31° 12′ 36″ E",,,36,1,0,https://geniza.princeton.edu/places/qalyub/
+Qanā,"קנא, قنا",N,"26° 9′ 18″ N, 32° 42′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/qana/
 Qarqanna,"קרקנה, قرقنة",N,"34° 42′ 0″ N, 11° 10′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/qarqanna/
 Qaṣr al-Shamʿ (neighborhood),,N,,,Neighborhood in Fustat.,28,0,0,https://geniza.princeton.edu/places/qasr-al-sham-neighborhood/
 Qaṭyā,Qaṭya,N,"30° 57′ 48″ N, 32° 45′ 15″ E",,,7,0,0,https://geniza.princeton.edu/places/qatya/
