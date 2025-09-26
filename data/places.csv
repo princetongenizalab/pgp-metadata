@@ -4,7 +4,7 @@ Abshīsh,أبشيش,N,"30° 28′ 11″ N, 31° 5′ 18″ E",,,2,0,0,https://ge
 Abū Qīr,,N,"31° 18′ 41″ N, 30° 3′ 37″ E",,,8,0,0,https://geniza.princeton.edu/places/abu-qir/
 Abwān (near Damietta),Ibwān,N,"31° 20′ 6″ N, 31° 46′ 15″ E",,"A place of uncertain location but probably identical with the Abwanāt near the village of al-ʿAṭawī in the district of Fāraskūr. See Golb, ""The Topography of the Jews of Medieval Egypt,"" p. 116.",2,0,0,https://geniza.princeton.edu/places/abwan/
 Abwān (near al-Ushmūnayn),,N,"28° 24′ 1″ N, 30° 43′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/abwan-near-al-ushmunayn/
-Abyār,Ibyār,N,"30° 50′ 7″ N, 30° 52′ 2″ E",,,7,0,0,https://geniza.princeton.edu/places/abyar/
+Abyār,Ibyār,N,"30° 50′ 7″ N, 30° 52′ 2″ E",,,8,0,0,https://geniza.princeton.edu/places/abyar/
 Abyssinia (region),"al-Ḥabash (region), אלחבש (region)",Y,"12° 1′ 54″ N, 39° 2′ 27″ E",,Abyssinia is a region more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela until the PGP is able to handle regions.,1,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا",N,"32° 55′ 40″ N, 35° 4′ 54″ E",,,19,1,0,https://geniza.princeton.edu/places/acre/
 Aden,"ʿAdan, עדן, عدن",N,"12° 47′ 28″ N, 44° 59′ 7″ E",,,75,16,1,https://geniza.princeton.edu/places/aden/
@@ -28,7 +28,7 @@ al-Fashn,"الفشن, ⲡⲃⲏϣⲛ",N,"28° 49′ 21″ N, 30° 53′ 57″ E"
 al-Fayyūm,,Y,"29° 18′ 8″ N, 30° 53′ 31″ E",,,13,1,0,https://geniza.princeton.edu/places/al-fayyum/
 Algeciras,,N,"36° 8′ 26″ N, 5° 27′ 22″ W",,,1,0,0,https://geniza.princeton.edu/places/algeciras/
 al-Gharbiyya (region),,Y,"30° 52′ 1″ N, 31° 1′ 40″ E",,Administrative region,6,0,0,https://geniza.princeton.edu/places/al-gharbiyya/
-Algiers,"Argel, الجزائر",N,"36° 46′ 15″ N, 3° 3′ 21″ E",,,2,0,0,https://geniza.princeton.edu/places/algiers/
+Algiers,"Argel, الجزائر",N,"36° 46′ 15″ N, 3° 3′ 21″ E",,,3,0,0,https://geniza.princeton.edu/places/algiers/
 al-Jawah,"אלגווה, الجوة",N,"16° 57′ 23″ N, 43° 1′ 46″ E",,,1,0,0,https://geniza.princeton.edu/places/al-jawah/
 al-Karak,الكرك,N,"31° 10′ 59″ N, 35° 42′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/al-karak/
 al-Kharqāniyya,"אלכ'רקאנייה, الخرقانية",N,"30° 10′ 31″ N, 31° 10′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-kharqaniyya/
@@ -84,7 +84,7 @@ Baalbek,"בעלת, بعلبك",N,"34° 0′ 16″ N, 36° 12′ 39″ E",,,5,0,0
 Bāb al-Mandab,,N,"12° 34′ 59″ N, 43° 19′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/bab-al-mandab/
 Bāḍiʿ,,N,"18° 9′ 36″ N, 38° 25′ 47″ E",,,4,0,0,https://geniza.princeton.edu/places/badi/
 Badsā,"Bidsa, بدسا, بدسة",N,"29° 40′ 36″ N, 31° 15′ 18″ E",,,1,0,0,https://geniza.princeton.edu/places/badsa/
-Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,38,2,0,https://geniza.princeton.edu/places/baghdad/
+Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,39,2,0,https://geniza.princeton.edu/places/baghdad/
 Baḥṭīṭ,بحطيط,N,"30° 29′ 19″ N, 31° 38′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/bahtit/
 Balaqṭar,"בלקטר, بلقطر",N,"31° 4′ 20″ N, 30° 12′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/balaqtar/
 Balāṭa,,N,"32° 12′ 28″ N, 35° 17′ 11″ E",,,1,0,0,https://geniza.princeton.edu/places/balata/
@@ -258,7 +258,7 @@ Lucena,,N,"37° 24′ 35″ N, 4° 28′ 59″ W",,,7,1,0,https://geniza.princet
 Lukk,,N,"31° 59′ 17″ N, 24° 36′ 32″ E",,,3,0,0,https://geniza.princeton.edu/places/lukk/
 Luxor,"al-Uqṣur, אלאקצור, אלאקצר, الاقصر",N,"25° 41′ 12″ N, 32° 38′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/luxor/
 Maʿarrat al-Nuʿmān,معرة النعمان,N,"35° 38′ 48″ N, 36° 40′ 43″ E",,,2,0,0,https://geniza.princeton.edu/places/ma-arrat-al-nu-man/
-Madīnat al-Fayyūm,"Arsinoë, Krokodilopolis",N,"29° 18′ 28″ N, 30° 50′ 31″ E",,,4,0,0,https://geniza.princeton.edu/places/madinat-al-fayyum/
+Madīnat al-Fayyūm,"Arsinoë, Krokodilopolis",N,"29° 18′ 28″ N, 30° 50′ 31″ E",,,6,0,0,https://geniza.princeton.edu/places/madinat-al-fayyum/
 Madrid,"מגריט, مجريط",N,"40° 25′ 0″ N, 3° 42′ 10″ W",,,1,0,0,https://geniza.princeton.edu/places/madrid/
 Maḥallat Diyāy,"מחלת דייאיי, محلة دياي",N,"31° 1′ 56″ N, 30° 43′ 50″ E",,,1,0,0,https://geniza.princeton.edu/places/mahallat-diyay/
 Mainz,,N,"49° 59′ 34″ N, 8° 14′ 50″ E",,,1,0,0,https://geniza.princeton.edu/places/mainz/
@@ -288,7 +288,7 @@ Mecca,,N,"21° 25′ 26″ N, 39° 49′ 1″ E",,,5,0,0,https://geniza.princeto
 Messina,מסיני,N,"38° 11′ 37″ N, 15° 33′ 15″ E",,,8,0,0,https://geniza.princeton.edu/places/messina/
 Methoni,Modon,N,"36° 49′ 11″ N, 21° 42′ 22″ E",,,3,0,0,https://geniza.princeton.edu/places/methoni/
 Milazzo,Mīlāṣ,N,"38° 13′ 15″ N, 15° 14′ 29″ E",,,1,0,0,https://geniza.princeton.edu/places/milazzo/
-Minya,,N,"28° 6′ 0″ N, 30° 45′ 0″ E",,,8,0,0,https://geniza.princeton.edu/places/minya/
+Minya,,N,"28° 6′ 0″ N, 30° 45′ 0″ E",,,9,0,0,https://geniza.princeton.edu/places/minya/
 Minyat al-Qāʾid,,N,"29° 31′ 33″ N, 31° 15′ 15″ E",,,7,0,0,https://geniza.princeton.edu/places/minyat-al-qa-id/
 Minyat al-Shammās,منية الشماس,N,"29° 56′ 8″ N, 31° 15′ 20″ E",,,1,0,0,https://geniza.princeton.edu/places/minyat-al-shammas/
 Minyat Ashnā,,N,"30° 48′ 6″ N, 31° 14′ 8″ E",,,8,0,0,https://geniza.princeton.edu/places/minyat-ashna/
@@ -341,7 +341,7 @@ Qedesh,,N,"33° 6′ 41″ N, 35° 31′ 46″ E",,,1,0,0,https://geniza.princet
 Qift,,N,"25° 59′ 42″ N, 32° 48′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/qift/
 Qiryat Ono,,N,"32° 3′ 17″ N, 34° 51′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/qiryat-ono/
 Qujandīm,"קגנדים, قوجنديمة",N,,,Locality in al-Daqahliyya province; precise coordinates unknown.,1,0,0,https://geniza.princeton.edu/places/qujandim/
-Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,37,0,0,https://geniza.princeton.edu/places/qus/
+Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,38,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,"̋Ḥaṣor, חצור, رفح",N,"31° 17′ 57″ N, 34° 14′ 39″ E",,"On the identification of Ḥaṣor as Rafaḥ, see M. A. Friedman, Jewish Marriage in Palestine, vol. 2, p. 316.",3,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa (Sicily),רגוס,N,"36° 55′ 29″ N, 14° 43′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/ragusa/
 Raḥbeh,"רחבה, رحبة",N,"34° 30′ 13″ N, 36° 8′ 47″ E",,,2,0,0,https://geniza.princeton.edu/places/rahbeh/
@@ -353,7 +353,7 @@ Romania,רומנייה,Y,"46° 0′ 0″ N, 25° 0′ 0″ E",,,1,0,0,https://ge
 Rome,,N,"41° 53′ 48″ N, 12° 28′ 55″ E",,,3,0,0,https://geniza.princeton.edu/places/rome/
 Rosetta,Rashīd,N,"31° 23′ 58″ N, 30° 25′ 1″ E",,,116,0,0,https://geniza.princeton.edu/places/rosetta/
 Ṣā,"Sais, Ṣā al-Ḥajar",N,"30° 57′ 52″ N, 30° 45′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/sa/
-Safed,"צפת, صفد",N,"32° 57′ 52″ N, 35° 29′ 45″ E",,,37,0,0,https://geniza.princeton.edu/places/safed/
+Safed,"צפת, صفد",N,"32° 57′ 52″ N, 35° 29′ 45″ E",,,36,0,0,https://geniza.princeton.edu/places/safed/
 Ṣaffūriyya,Sepphoris,N,"32° 44′ 44″ N, 35° 16′ 42″ E",,,1,0,0,https://geniza.princeton.edu/places/saffuriyya/
 Ṣahrajt,,N,"30° 38′ 18″ N, 31° 17′ 1″ E",,,26,0,0,https://geniza.princeton.edu/places/sahrajt/
 Sakhā,,N,"31° 5′ 21″ N, 30° 56′ 39″ E",,,1,0,0,https://geniza.princeton.edu/places/sakha/
