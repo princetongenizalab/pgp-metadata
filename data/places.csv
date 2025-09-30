@@ -84,7 +84,7 @@ Baalbek,"בעלת, بعلبك",N,"34° 0′ 16″ N, 36° 12′ 39″ E",,,5,0,0
 Bāb al-Mandab,,N,"12° 34′ 59″ N, 43° 19′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/bab-al-mandab/
 Bāḍiʿ,,N,"18° 9′ 36″ N, 38° 25′ 47″ E",,,4,0,0,https://geniza.princeton.edu/places/badi/
 Badsā,"Bidsa, بدسا, بدسة",N,"29° 40′ 36″ N, 31° 15′ 18″ E",,,1,0,0,https://geniza.princeton.edu/places/badsa/
-Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,39,2,0,https://geniza.princeton.edu/places/baghdad/
+Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,40,2,0,https://geniza.princeton.edu/places/baghdad/
 Baḥṭīṭ,بحطيط,N,"30° 29′ 19″ N, 31° 38′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/bahtit/
 Balaqṭar,"בלקטר, بلقطر",N,"31° 4′ 20″ N, 30° 12′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/balaqtar/
 Balāṭa,,N,"32° 12′ 28″ N, 35° 17′ 11″ E",,,1,0,0,https://geniza.princeton.edu/places/balata/
@@ -149,7 +149,7 @@ Dahshūr,دهشور,N,"29° 45′ 1″ N, 31° 14′ 22″ E",,,3,0,0,https://ge
 Dājūn,"Bayt Dagan, Bayt Dajan",N,"32° 0′ 12″ N, 34° 49′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/dajun/
 Dallāta,Dalton,N,"33° 1′ 19″ N, 35° 29′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/dallata/
 Damanhūr,دمنهور,N,"31° 2′ 26″ N, 30° 28′ 11″ E",,,4,0,0,https://geniza.princeton.edu/places/damanhur/
-Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,188,1,0,https://geniza.princeton.edu/places/damascus/
+Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,189,1,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط",N,"31° 25′ 3″ N, 31° 48′ 51″ E",,,110,0,0,https://geniza.princeton.edu/places/damietta/
 Damīra,,N,"31° 6′ 28″ N, 31° 21′ 40″ E",,,35,0,0,https://geniza.princeton.edu/places/damira/
 Dammūh,"Dimwa, דמוה, דמוי, דמויה, دير طمويه, طموه, طمويه, Ṭammūh, Ṭamwa, Ṭamwayh",N,"29° 56′ 22″ N, 31° 16′ 2″ E",,"For the location as identical with Ṭammūh/Ṭamwa, see Golb, ""Topography,"" part 1.",34,0,0,https://geniza.princeton.edu/places/dammuh/
@@ -188,7 +188,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,17,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),"Farānsa, צרפת",Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,4,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1835,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1836,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,28,0,0,https://geniza.princeton.edu/places/gaza/
@@ -352,7 +352,7 @@ Rhodes,רודס,N,"36° 26′ 8″ N, 28° 13′ 19″ E",,,7,0,0,https://geniza
 Rodez,,N,"44° 21′ 2″ N, 2° 34′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/rodez/
 Romania,רומנייה,Y,"46° 0′ 0″ N, 25° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/romania/
 Rome,,N,"41° 53′ 48″ N, 12° 28′ 55″ E",,,3,0,0,https://geniza.princeton.edu/places/rome/
-Rosetta,Rashīd,N,"31° 23′ 58″ N, 30° 25′ 1″ E",,,120,0,0,https://geniza.princeton.edu/places/rosetta/
+Rosetta,Rashīd,N,"31° 23′ 58″ N, 30° 25′ 1″ E",,,121,0,0,https://geniza.princeton.edu/places/rosetta/
 Ṣā,"Sais, Ṣā al-Ḥajar",N,"30° 57′ 52″ N, 30° 45′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/sa/
 Safed,"צפת, صفد",N,"32° 57′ 52″ N, 35° 29′ 45″ E",,,36,0,0,https://geniza.princeton.edu/places/safed/
 Ṣaffūriyya,Sepphoris,N,"32° 44′ 44″ N, 35° 16′ 42″ E",,,1,0,0,https://geniza.princeton.edu/places/saffuriyya/
