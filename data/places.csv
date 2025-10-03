@@ -47,7 +47,7 @@ Al-Nastarāwiyya (region),,Y,"31° 31′ 31″ N, 30° 49′ 36″ E",,The strip
 al-Nuʿmāniyya,,N,"32° 32′ 40″ N, 45° 24′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/al-nu-maniyya/
 Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch region in Gujarat.,5,0,0,https://geniza.princeton.edu/places/al-qass/
 al-Quṣayr,"קוצייר, القصير",N,"26° 6′ 6″ N, 34° 16′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-qusayr/
-al-Raḥba,"אלרחבה, الرحبة",N,"35° 0′ 18″ N, 40° 25′ 24″ E",,,2,0,0,https://geniza.princeton.edu/places/al-rahba/
+al-Raḥba,"אלרחבה, الرحبة",N,"35° 0′ 18″ N, 40° 25′ 24″ E",,,3,0,0,https://geniza.princeton.edu/places/al-rahba/
 al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,63,2,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sabah/
@@ -189,7 +189,7 @@ Fez,,N,"34° 3′ 36″ N, 4° 58′ 23″ W",,,17,1,0,https://geniza.princeton.
 Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/florence/
 France (region),"Farānsa, צרפת",Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,4,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1845,55,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,1846,55,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,12,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,28,0,0,https://geniza.princeton.edu/places/gaza/
@@ -277,7 +277,7 @@ Manūf,Minūf,N,"30° 27′ 56″ N, 30° 55′ 51″ E",,,3,0,0,https://geniza.
 Marāgha,"מראגה, مراغه",N,"37° 23′ 22″ N, 46° 14′ 17″ E",,,1,0,0,https://geniza.princeton.edu/places/maragha/
 Marīs (region),"Migi, Nobadia",Y,"22° 21′ 47″ N, 31° 52′ 24″ E",,One of three Nubian kingdoms that emerged in the aftermath of the collapse of the Kushite kingdom at Meroe. Marīs had its capital at Pachōras (Faras) north of Wādī Ḥalfa. Its region extended from Aswan to the third cataract.,2,0,0,https://geniza.princeton.edu/places/maris/
 Marmājanna,Barmānja,N,"35° 36′ 37″ N, 8° 42′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/marmajanna/
-Marrakesh,מראכש,N,"31° 37′ 20″ N, 7° 59′ 23″ W",,,2,0,0,https://geniza.princeton.edu/places/marrakesh/
+Marrakesh,"מראכש, مراكش",N,"31° 37′ 20″ N, 7° 59′ 23″ W",,,3,0,0,https://geniza.princeton.edu/places/marrakesh/
 Marseille,,N,"43° 18′ 9″ N, 5° 21′ 36″ E",,,8,0,0,https://geniza.princeton.edu/places/marseille/
 Maryūṭ,"Buḥayrat Maryūṭ, Lake Maryūṭ",N,"31° 9′ 19″ N, 29° 53′ 52″ E",,,1,0,0,https://geniza.princeton.edu/places/maryut/
 Masada,מצדה‎,N,"31° 18′ 55″ N, 35° 21′ 13″ E",,,1,0,0,https://geniza.princeton.edu/places/masada/
@@ -332,7 +332,7 @@ Qabīl,,N,"31° 4′ 59″ N, 30° 30′ 0″ E",,,1,0,0,https://geniza.princeto
 Qābis,"Gabès, قابس",N,"33° 52′ 48″ N, 10° 7′ 11″ E",,,7,3,0,https://geniza.princeton.edu/places/qabis/
 Qalhā,قلها,N,"29° 4′ 21″ N, 30° 53′ 25″ E",,,1,0,0,https://geniza.princeton.edu/places/qalha/
 Qallīn,"קלין, قلين, ⲕⲁⲗⲗⲓⲛ",N,"31° 2′ 46″ N, 30° 51′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/qallin/
-Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ",N,"30° 11′ 59″ N, 31° 12′ 36″ E",,,39,1,0,https://geniza.princeton.edu/places/qalyub/
+Qalyūb,"قليوب, ⲕⲁⲗⲓⲱⲡⲉ",N,"30° 11′ 59″ N, 31° 12′ 36″ E",,,40,1,0,https://geniza.princeton.edu/places/qalyub/
 Qanā,"קנא, قنا",N,"26° 9′ 18″ N, 32° 42′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/qana/
 Qarqanna,"קרקנה, قرقنة",N,"34° 42′ 0″ N, 11° 10′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/qarqanna/
 Qarqashanda,"קרקשנדה, قرقشندة",N,"30° 18′ 14″ N, 31° 10′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/qarqashanda/
@@ -346,7 +346,7 @@ Qujandīm,"קגנדים, قوجنديمة",N,,,Locality in al-Daqahliyya provinc
 Qūṣ,,N,"25° 55′ 47″ N, 32° 46′ 12″ E",,,38,0,0,https://geniza.princeton.edu/places/qus/
 Rafaḥ,"̋Ḥaṣor, חצור, رفح",N,"31° 17′ 57″ N, 34° 14′ 39″ E",,"On the identification of Ḥaṣor as Rafaḥ, see M. A. Friedman, Jewish Marriage in Palestine, vol. 2, p. 316.",3,0,0,https://geniza.princeton.edu/places/rafah/
 Ragusa (Sicily),רגוס,N,"36° 55′ 29″ N, 14° 43′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/ragusa/
-Raḥbeh,"רחבה, رحبة",N,"34° 30′ 13″ N, 36° 8′ 47″ E",,,2,0,0,https://geniza.princeton.edu/places/rahbeh/
+Raḥbeh,"רחבה, رحبة",N,"34° 30′ 13″ N, 36° 8′ 47″ E",,,3,0,0,https://geniza.princeton.edu/places/rahbeh/
 Raʾs al-Khalīj,,N,"31° 14′ 57″ N, 31° 38′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/ra-s-al-khalij/
 Raʾs Tīnī,,N,"32° 37′ 39″ N, 23° 6′ 58″ E",,"If identical with Raʿs al-Tīn, then it is a cape on the Libyan coast, west of Tobruk and located on the Gulf of Bomba. Observation posts were placed between here and Alexandria to spot ships' progress. Ships sailing west would stay close to the shore until this point and only thereafter cross blue water. (Information from Bramoullé, Les fatimides et la mer, 26)",7,0,0,https://geniza.princeton.edu/places/ra-s-tini/
 Rhodes,רודס,N,"36° 26′ 8″ N, 28° 13′ 19″ E",,,7,0,0,https://geniza.princeton.edu/places/rhodes/
@@ -453,7 +453,7 @@ Wardūnyā,,N,"33° 22′ 52″ N, 44° 20′ 34″ E",,"A NW suburb of Baghdad.
 Wārjalān,Ouargla,N,"31° 56′ 57″ N, 5° 19′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,N,"32° 11′ 16″ N, 46° 17′ 52″ E",,,2,0,0,https://geniza.princeton.edu/places/wasit/
 Yazd,,N,"31° 51′ 35″ N, 54° 19′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/yazd/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,26,3,1,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,27,3,1,https://geniza.princeton.edu/places/yemen/
 Zabīd,,N,"14° 11′ 59″ N, 43° 19′ 19″ E",,,4,0,0,https://geniza.princeton.edu/places/zabid/
 Zagreb,Agram,N,"45° 48′ 53″ N, 15° 58′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/zagreb/
 Zakynthos,Zante,N,"37° 46′ 48″ N, 20° 53′ 41″ E",,,1,0,0,https://geniza.princeton.edu/places/zakynthos/
