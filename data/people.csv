@@ -1,6 +1,6 @@
 ﻿name,name_variants,gender,social_roles,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,traveled_to,related_documents_count,url
-(I) b. Yosef ha-Kohen al-Sijilmāsī,,Female,,,,,IB,4,,,,0,
-(II) b. Yosef ha-Kohen al-Sijilmāsī,Sister of Abū Zikrī Kohen,Female,Jewish community member,,,,IB2,7,,,,0,
+(I) b. Yosef ha-Kohen al-Sijilmāsī,,Female,,,,,IB,4,,,,1,
+(II) b. Yosef ha-Kohen al-Sijilmāsī,Sister of Abū Zikrī Kohen,Female,Jewish community member,,,,"IB2, IB3",7,,,,1,
 ʿAbd al-ʿAzīz b. ʿAlī b. Muḥammad,عبد العزيز بن علی بن محمد,Male,Muslim judicial official,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Hārūn,عبد العزيز بن هرون,Male,Other,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,Other,,,Witness,,0,,,,1,
@@ -500,7 +500,7 @@ Bārra bt. Ḥalfon,,Female,,,,,,1,,,,2,https://geniza.princeton.edu/people/barr
 Barukh b. Sason,,Male,,,,,,1,,,,1,
 Barukh b. Yiṣḥaq,,Male,Jewish communal official,,,[Placeholder],,0,,,,2,https://geniza.princeton.edu/people/barukh-b-yishaq/
 Bazilī (Qaṣr Ibrīm),,Male,Other,,,"The reading of this name is unclear, but it is likely Bazilī, which is a variant of the Nubian name Basileios. Bazilī bore a slave woman and her son from the eparch to an unnamed merchant and, upon the death of both the woman and her son, he bore a letter back to the eparch from the merchant. The merchant asks the eparch to do with Bazilī what is appropriate for conducting his affairs. It is unclear what exactly that entails, but perhaps Bazilī will stay in Ibrīm while the eparch fulfills the merchant's request — namely, to make him whole after the death of the enslaved woman and her son, and the absconding of the eparch's other messenger.",Qasr Ibrim,0,,,Ibrīm,1,
-b. Bundār b. al-Ḥasan,,Female,Jewish community member,,,Daughter of Bundār (I) b. al-Ḥasan. Married to Yaʿaqov b. Yiṣḥaq. Mother-in-law of Abū Zikrī Kohen.,India,5,,,,0,
+b. Bundār b. al-Ḥasan,,Female,Jewish community member,,,Daughter of Bundār (I) b. al-Ḥasan. Married to Yaʿaqov b. Yiṣḥaq. Mother-in-law of Abū Zikrī Kohen.,"IB2, India",5,,,,1,
 Berakha bt. Peraḥya ben Yiju,,Female,Jewish community member,,,,,2,,,,3,https://geniza.princeton.edu/people/berakha-ben-yiju/
 Berakhot b. Aharon,,Male,,,,,,0,,,,1,
 Berakhot b. Shela ha-Kohen,,Male,Jewish community member,,,,,0,,,,4,https://geniza.princeton.edu/people/berakhot-b-shela-ha-kohen/
@@ -538,7 +538,7 @@ Bundār b. Maḍmūn b. Ḥasan,,Male,"Jewish community member, Merchant",,,,"IB
 Bū Saʿd b. Sālim,,Male,,,,,,0,,,,1,
 Bushr bt. Abī al-Badr Manṣūr b. ʿAlūn b. Mīnā b. Andūna,,Female,Other,,,,,1,,,,1,
 Buṭrus b. Jirjis al-Ḥāmī,بطرس بن جرجس الحامي,Male,Other,,,Christian,,0,,,,1,
-b. Yaʿaqov b. Yiṣḥaq,,Female,Jewish community member,,,,,5,,,,0,
+b. Yaʿaqov b. Yiṣḥaq,,Female,Jewish community member,,,,IB2,5,,,,1,
 b. Yosef b. Avraham b. Bundār b. al-Ḥasan,,Male,Jewish community member,,1152,,"IB2, IB3",2,,,,2,
 Community of Aleppo,,Unknown,,,,,,0,,,,1,
 Community of Ashmūn,,Unknown,,,,,,0,,,,1,
