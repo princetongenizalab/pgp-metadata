@@ -1,5 +1,5 @@
 ﻿name,name_variants,gender,social_roles,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,traveled_to,related_documents_count,url
-(I) bt. Yosef ha-Kohen al-Sijilmāsī,,Female,,,,,IB,7,,,,1,
+(I) bt. Yosef ha-Kohen al-Sijilmāsī,,Female,,,,,IB,9,,,,1,
 (II) bt. Yosef ha-Kohen al-Sijilmāsī,Sister of Abū Zikrī Kohen,Female,Jewish community member,,,,"IB2, IB3",7,,,,1,
 ʿAbd al-ʿAzīz b. ʿAlī b. Muḥammad,عبد العزيز بن علی بن محمد,Male,Muslim judicial official,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Hārūn,عبد العزيز بن هرون,Male,Other,,,,,0,,,,1,
@@ -134,7 +134,7 @@ Abū l-Ḥasan b. Ḥātim,ʿEli b. Ḥotam ha-Levi,Male,,,,,,0,,,,2,https://gen
 Abū l-Ḥasan b. Ibrāhīm,,Male,,,,,,1,,,,0,https://geniza.princeton.edu/people/abu-l-hasan-b-ibrahim/
 Abū l-Ḥasan b. Khulayf,,Male,Jewish community member,,,,,0,,,,2,
 Abū l-Ḥasan b. Maʿālī al-Dimashqī,,Male,,,,,,0,,,,1,
-Abū ʾl-Ḥasan b. Maḥrūz,,Male,Jewish community member,,,,IB2,2,,,,2,
+Abū ʾl-Ḥasan b. Maḥrūz,,Male,Jewish community member,,,,IB2,6,,,,2,
 Abu l-Ḥasan b. Masʿūd al-Nīlī,,Male,Jewish community member,,,,,0,,,,5,https://geniza.princeton.edu/people/abu-l-hasan-b-mas-ud/
 Abū l-Ḥasan b. Salāma,,Male,,,,,,0,,,,1,
 Abū l-Ḥasan b. Salāma (12th c),,Male,,,,,,1,,,,1,
@@ -267,7 +267,7 @@ Abū Zikrī al-Ṣāʾigh,,Male,,,,,,0,,,,1,
 Abū Zikrī b. ʿAṭiyya,,Male,,,,,,0,,,,4,https://geniza.princeton.edu/people/abu-zikri-b-atiyya/
 Abū Zikrī b. Eliyyahu,Zekharya b. Eliyyahu,Male,Jewish community member,,,Physician in the service of the Ayyubid sultans. Son of the judge Eliyyahu.,,2,,,,11,https://geniza.princeton.edu/people/abu-zikri-b-eliyyahu/
 Abū Zikrī b. Yūsuf al-Hārūnī al-Tājir,ابو زكرى بن يوسف الهاروني,Male,Jewish community member,,,Merchant,,1,,,,1,
-Abū Zikrī Kohen,(Abū Zikrī) Yehuda b. Yosef ha-Kohen al-Sijilmāsī,Male,Jewish community member,,,Representative of the merchants (wakīl al-tujjār) in Fustat in the 1120s and 1130s and an Indian Ocean trader. Originally from Sijilmāsa.,"IB2, IB5",12,Sijilmāsa,Fustat,,82,https://geniza.princeton.edu/people/abu-zikri-kohen/
+Abū Zikrī Kohen,(Abū Zikrī) Yehuda b. Yosef ha-Kohen al-Sijilmāsī,Male,Jewish community member,,,Representative of the merchants (wakīl al-tujjār) in Fustat in the 1120s and 1130s and an Indian Ocean trader. Originally from Sijilmāsa.,"IB2, IB5",14,Sijilmāsa,Fustat,,82,https://geniza.princeton.edu/people/abu-zikri-kohen/
 Abū Zikrī Yaḥyā b. Yosef ha-Levi Ibn al-Ḥijāziyya,,Male,,,,,,0,,,,1,
 (Abū Zikrī) Yehuda b. Yosef Ibn Janūnī,,Male,Jewish community member,,,,,0,,,,1,https://geniza.princeton.edu/people/abu-zikri-yehuda-b-yosef-ibn-januni/
 ʿAdiyya b. Peraḥya,,Male,,,,,,0,,,,1,
@@ -502,7 +502,6 @@ Bārra bt. Ḥalfon,,Female,,,,,,1,,,,2,https://geniza.princeton.edu/people/barr
 Barukh b. Sason,,Male,,,,,,1,,,,1,
 Barukh b. Yiṣḥaq,,Male,Jewish communal official,,,[Placeholder],,0,,,,2,https://geniza.princeton.edu/people/barukh-b-yishaq/
 Bazilī (Qaṣr Ibrīm),,Male,Other,,,"The reading of this name is unclear, but it is likely Bazilī, which is a variant of the Nubian name Basileios. Bazilī bore a slave woman and her son from the eparch to an unnamed merchant and, upon the death of both the woman and her son, he bore a letter back to the eparch from the merchant. The merchant asks the eparch to do with Bazilī what is appropriate for conducting his affairs. It is unclear what exactly that entails, but perhaps Bazilī will stay in Ibrīm while the eparch fulfills the merchant's request — namely, to make him whole after the death of the enslaved woman and her son, and the absconding of the eparch's other messenger.",Qasr Ibrim,0,,,Ibrīm,1,
-bt. Bundār b. al-Ḥasan,,Female,Jewish community member,,,Daughter of Bundār (I) b. al-Ḥasan. Married to Yaʿaqov b. Yiṣḥaq. Mother-in-law of Abū Zikrī Kohen.,"IB2, India",10,,,,1,
 Berakha bt. Peraḥya ben Yiju,,Female,Jewish community member,,,,,2,,,,3,https://geniza.princeton.edu/people/berakha-ben-yiju/
 Berakhot b. Aharon,,Male,,,,,,0,,,,1,
 Berakhot b. Shela ha-Kohen,,Male,Jewish community member,,,,,0,,,,4,https://geniza.princeton.edu/people/berakhot-b-shela-ha-kohen/
@@ -526,6 +525,7 @@ b. Khalaf b. Bundār,,Male,Jewish community member,,,,IB3,3,,,,2,
 b. Khalaf b. Yiṣḥaq,,Male,Jewish community member,,1136/1147,,IB2,3,,,,0,
 Bū l-Makārim al-Ṣāʾigh,Yosef b. Shemuel,Male,Jewish community member,,,,,0,,,,2,
 B-M-[.] ([.]במ),,Male,Enslaved person,,,"Rūmī enslaved man mentioned in a damaged court record in which he was sold by a mother to a son, their names are also lost. (Information from PGP and Craig Perry, Slavery and the Jews of Medieval Egypt, Appendix 1, no. 14)",,0,,,,1,https://geniza.princeton.edu/people/b-m-bm/
+bt. Bundār b. al-Ḥasan,,Female,Jewish community member,,,Daughter of Bundār (I) b. al-Ḥasan. Married to Yaʿaqov b. Yiṣḥaq. Mother-in-law of Abū Zikrī Kohen.,"IB2, India",20,,,,1,
 bt. Yaʿaqov b. Yiṣḥaq,,Female,Jewish community member,,,,IB2,9,,,,1,
 Bū al-Ḥasan ʿAlī b. Aḥmad b. Muḥammad b. ʿUbaydallāh al-Qāʾifī,بو الحسن علي بن احمد بن محمد بن عبيد الله القائفي,Male,State official,,,Certified witness (shāhid) and the supervisor of the office of prosperous Friday and neighborhood mosques in Fusṭāṭ,,0,,,,1,https://geniza.princeton.edu/people/bu-al-hasan-ali-b-ahmad-b-muhammad-b-ubaydallah-al-qaifi/
 Bū Faraj,بو فرج,Male,Jewish community member,,,,,1,,,,1,
@@ -537,7 +537,7 @@ Bū Naṣr,بو نصر,Male,Other,,,,,0,,,,1,
 Bundār b. al-Ḥasan,,Male,Jewish community member,,,"In a letter of thanks to Bundār’s son Abraham, the early-twelfth century Fustat scribe Halfon ha-Levi b. Manasseh refers to Bundār as ha-sar ha-adīr ha-meyuqqār, ‘the great, esteemed notable (or, prince, leader)’ (II, 11a, line 18), which possibly indicates that he held some com-
 munity or government post. (Goitein and Friedman, India Book)",IB2,9,,,,2,
 Bundār b. Ḥasan b. Bundār,"Bundār b. Yefet b. Bundār, Bundār b. al-Ḥasan b. Bundār",Male,Jewish community member,,1100/1135,,IB2,16,,,,4,
-Bundār b. Maḍmūn b. Ḥasan,,Male,"Jewish community member, Merchant",,,,"IB2, IB3",13,,,,3,
+Bundār b. Maḍmūn b. Ḥasan,,Male,"Jewish community member, Merchant",,,,"IB2, IB3",15,,,,3,
 Bū Saʿd b. Sālim,,Male,,,,,,0,,,,1,
 Bushr bt. Abī al-Badr Manṣūr b. ʿAlūn b. Mīnā b. Andūna,,Female,Other,,,,,1,,,,1,
 Buṭrus b. Jirjis al-Ḥāmī,بطرس بن جرجس الحامي,Male,Other,,,Christian,,0,,,,1,
@@ -564,7 +564,7 @@ Daughter of Ḥalfon b. Menashshe ha-Levi,,Female,Jewish community member,,,,,3,
 Daughter of Hilāl Shaykh al-Yahūd,,Female,Jewish community member,,,,,0,,,,1,
 David b. Aharon ha-Levi,,Male,Jewish community member,,,,,0,,,,1,
 David b. Daniʾel (Nasi),David b. Daniʾel b. ʿAzarya,Male,Jewish communal official,,1082/1094,"Head of the Jews ca. 1082–94, between the two terms of Mevorakh b. Saʿadya. Son of Daniʾel b. ʿAzarya. Vilified in Megillat Evyatar, composed by Evyatar b. Eliyyahu ha-Kohen shortly after David's downfall in 1094 CE.",,1,,,,4,https://geniza.princeton.edu/people/david-b-daniel-nasi/
-David b. Ḥalfon b. Maḍmūn,"David b. Khalaf b. Maḍmūn, David b. Ḥalfon Nagid b. Maḍmūn Nagid",Male,Jewish community member,,,Son of nagid Ḥalfon b. Maḍmūn and father of nagid Maḍmūn (Shemaryā) b. David. Potentially himself a nagid.,IB2,4,,,,0,
+David b. Ḥalfon b. Maḍmūn,"David b. Khalaf b. Maḍmūn, David b. Ḥalfon Nagid b. Maḍmūn Nagid",Male,Jewish community member,,,Son of nagid Ḥalfon b. Maḍmūn and father of nagid Maḍmūn (Shemaryā) b. David. Potentially himself a nagid.,IB2,5,,,,0,
 David b. Ḥizqiyya (Nasi),David b. Yeḥizqiyyahu,Male,Jewish communal official,,,,,0,,,,1,https://geniza.princeton.edu/people/david-b-hizqiyya-nasi/
 David b. Ṣemaḥ,,Male,Jewish communal official,,,Qaraite Nasi,,0,,,,1,https://geniza.princeton.edu/people/david-b-semah/
 David b. Shelomo Ibn al-Lebdī,Abū Sulaymān Dāʾūd Ibn al-Lebdī,Male,Jewish community member,,,,,2,,,,3,https://geniza.princeton.edu/people/david-b-shelomo-ibn-al-lebdi/
@@ -695,7 +695,7 @@ Ghazāl,,Female,Enslaved person,,,"Enslaved woman mentioned in a letter, possibl
 Ḥalfon b. Avraham,,Male,,,,,,1,,,,1,
 Ḥalfon b. Efrayim,,Male,,,,,,0,,,,1,
 Ḥalfon b. Ghālib ha-Ḥazzan,,Male,,,,,,0,,,,2,https://geniza.princeton.edu/people/halfon-b-ghalib-ha-hazzan/
-Ḥalfon b. Maḍmūn,"Khalaf b. Maḍmūn b. Ḥasan, Ḥalfon Nagid b. Maḍmūn",Male,"Jewish communal official, Merchant",,,Nagid; shipowner; son of Maḍmūn b. Ḥasan,"IB2, India",14,,Aden,,4,https://geniza.princeton.edu/people/halfon-b-madmun/
+Ḥalfon b. Maḍmūn,"Khalaf b. Maḍmūn b. Ḥasan, Ḥalfon Nagid b. Maḍmūn",Male,"Jewish communal official, Merchant",,,Nagid; shipowner; son of Maḍmūn b. Ḥasan,"IB2, India",16,,Aden,,4,https://geniza.princeton.edu/people/halfon-b-madmun/
 Ḥalfon b. Menashshe ha-Levi,"Abū Saʿīd, Ibn al-Qaṭāʾif",Male,Jewish communal official,,1100/1138,,,6,,Fustat,,510,https://geniza.princeton.edu/people/halfon-b-menashshe/
 Ḥalfon b. Mevorakh,,Male,,,,,,0,,,,0,
 Ḥalfon b. Mevorakh,,Male,,,,,,0,,,,1,
@@ -717,7 +717,7 @@ Hārūn b. Khulayf b. Hārūn,هرون بن خليف بن هرون,Male,Jewish c
 Hārūn Ibn Shamārī,הרון בן שמארי,Male,,,,,,0,,,,2,https://geniza.princeton.edu/people/harun-ibn-shamari/
 Ḥasan b. Aḥmad b. Muḥammad Abū ʿUbaydallāh,حسن بن احمد بن محمد ابي عبيد الله,Male,Other,,,Witness,,0,,,,1,
 Ḥasan b. ʿAlī al-Baqqāl,حسن بن علي البقال,Male,Other,,,,,0,,,,1,
-Ḥasan b. Bundār,"Yefet b. Bundār, al-Ḥasan b. Bundār",Male,Jewish community member,,,,"IB2, IB1",14,,,,8,https://geniza.princeton.edu/people/hasan-b-bundar/
+Ḥasan b. Bundār,"Yefet b. Bundār, al-Ḥasan b. Bundār",Male,Jewish community member,,,,"IB2, IB1",15,,,,8,https://geniza.princeton.edu/people/hasan-b-bundar/
 al-Ḥasan b. Ibrāhīm b. Rizq,الحسن بن ابراهيم بن رزق,Male,Muslim judicial official,,,,,0,,,,4,https://geniza.princeton.edu/people/hasan-b-ibrahim-b-rizq/
 Ḥasan b. Kulayb al-ʿAsqalānī,,Male,,,,,,0,,,,1,
 Ḥasan ibn Isḥāq al-Ramlī al-Mayāzirī,حسن بن اسحق الميازري الرملي,Male,Jewish community member,,,,,0,,,,1,
@@ -874,7 +874,7 @@ Maʿālī b. Khalaf,,Male,,,,,,1,,,,2,https://geniza.princeton.edu/people/maali-
 Maʿānī b. Khalaf Ibn al-Dajājjī,Abū l-Maʿānī ha-Levi Ibn al-Dajājjī,Male,"Jewish community member, Merchant",,,,,2,,,,3,
 Macarius,al-Maqār,Male,Other,,1169,"Macarius was the bishop of Sinai, active during the last years of Fatimid rule.",,0,,Mount Sinai,,1,https://geniza.princeton.edu/people/macarius/
 Maḍmūn b. David,"Maḍmūn II, Shemaryā b. David, Shemaryāha b. David",Male,Jewish communal official,,,"Maḍmūn b. David is a descendant of the first Maḍmūn — possibly his great-grandson through his eldest son Ḥalfon b. Maḍmūn. Maḍmūn b. David is addressed as Nagīd (IB II, 69), and as a leader of the Jewish community in two documents. At some point, he was also representative of the merchants in Aden. In IB II, 67, he describes the Jewish community returning to the religion after what might have been a period of temporary apostasy under the previous ruler of Yemen.","IB2, India",2,,,,7,https://geniza.princeton.edu/people/madmun-b-david/
-Maḍmūn b. Ḥasan b. Bundār,"Maḍmūn b. Yefet, Maḍmūn b. al-Ḥasan, Maḍmūn b. Ḥasan",Male,"Jewish communal official, Jewish community member, Merchant",,,"Representative of the merchants in Aden. Appointed Nagid ca. 1140 (IB II,40). Died 1151","IB2, India, IB5, IB3",18,,Aden,,18,https://geniza.princeton.edu/people/madmun-b-hasan/
+Maḍmūn b. Ḥasan b. Bundār,"Maḍmūn b. Yefet, Maḍmūn b. al-Ḥasan, Maḍmūn b. Ḥasan",Male,"Jewish communal official, Jewish community member, Merchant",,,"Representative of the merchants in Aden. Appointed Nagid ca. 1140 (IB II,40). Died 1151","IB2, India, IB5, IB3",19,,Aden,,18,https://geniza.princeton.edu/people/madmun-b-hasan/
 Maḍmūn b. Khalaf,Maḍmūn b. Ḥalfon,Male,Jewish community member,,1131/1159,,IB2,6,,,,0,
 Maḍmūn b. Yaʿaqov,,Male,Jewish community member,,,,"IB2, India",0,,Aden,,1,
 Maḥbūb b. Nissim ha-Ḥazzan,,Male,,,,,,0,,,,1,
@@ -965,7 +965,7 @@ Mīkhāʾīl b. ʿAbd al-Masīḥ,,Male,State official,,1012/1015,"Jahbaz, cashi
 Milḥ,,Female,Enslaved person,,,"Nubian enslaved woman mentioned in a bill of sale from 30 June 1084 CE. (Information from PGP and Craig Perry, Slavery and the Jews of Medieval Egypt, Appendix 1, no. 50)",,1,,,,1,https://geniza.princeton.edu/people/milh/
 Milḥ,,Female,Enslaved person,,,"Nubian enslaved woman who was sold by Abū Yaʿqūb Yūsuf b. Netanel to Abū Yaʿqūb Yūsuf. b. Efrayim on 10 November 1100 CE. (Information from PGP and Craig Perry, Slavery and the Jews of Medieval Egypt, Appendix 1, no. 51)",,1,,,,1,https://geniza.princeton.edu/people/milh-2/
 Miriam,,Female,"Enslaved person, Manumitted person",,,"Manumitted woman who is mentioned in a legal document from 1100 CE detailing the maintenance payments that her ex-husband, Ṣadaqa b. ʿEli, will begin paying her in Tishrei 1412 Seleucid = September/October 1100 CE. (Information from PGP and Craig Perry, Slavery and the Jews of Medieval Egypt, Appendix 2, no. 14)",,0,,,,1,https://geniza.princeton.edu/people/miriam/
-Miriam bt. Avraham b. Bundār,,Female,Jewish community member,,1163/1164,,IB2,6,,,,0,
+Miriam bt. Avraham b. Bundār,,Female,Jewish community member,,1163/1164,,IB2,7,,,,0,
 Miryam bt. Maymūn,,Female,Jewish community member,,,,,1,,,,1,https://geniza.princeton.edu/people/miryam-bt-maymun/
 Miryam ha-Meshuḥreret,,Female,,,,,,1,,,,1,
 Mishaʾel b. Yeshaʿyahu ha-Levi,al-Shaykh al-Thiqa,Male,Jewish community member,,,[placeholder],,1,,,,1,https://geniza.princeton.edu/people/mishael-b-yeshayahu-ha-levi/
@@ -1435,7 +1435,7 @@ Sulaymān,,Male,"Enslaved person, Jewish community member, Manumitted person",,,
 (Abū l-Rabīʿ) Sulaymān b. ʿImrān,,Male,Jewish community member,,,,,0,,,,1,
 Sulaymān b. Ismāʿīl,,Male,,,,,,0,,,,1,
 Sulaymān b. Shaʾul,,Male,Jewish community member,,,,,1,,,,1,
-(Abū l-Rabīʿ) Sulaymān b. Yehuda ha-Kohen,"(Abū l-Rabiʿ) Sulaymān b. Abū Zikrī Kohen, Shelomo b. Yehuda ha-Kohen",Male,Jewish community member,,,,IB2,5,,,,17,https://geniza.princeton.edu/people/sulayman-b-yehuda-ha-kohen/
+(Abū l-Rabīʿ) Sulaymān b. Yehuda ha-Kohen,"(Abū l-Rabiʿ) Sulaymān b. Abū Zikrī Kohen, Shelomo b. Yehuda ha-Kohen",Male,Jewish community member,,,,IB2,7,,,,17,https://geniza.princeton.edu/people/sulayman-b-yehuda-ha-kohen/
 Sumr bt. Moshe,,Female,,,,,,0,,,,1,
 Sumr bt. Yosef,,Female,,,,,,1,,,,1,
 Surrī ha-Melammed b. Ḥayyim,Surrī b. Ḥayyim,Male,,,,,,0,,,,1,
@@ -1633,7 +1633,7 @@ Yefet b. Avraham al-Tustarī,Abū ʿAlī Ḥasan b. Abū Saʿd Ibrāhīm al-Tust
 Yefet b. David (12th c),,Male,,,,,,0,,,,1,
 Yefet b. David b. Shekhanya ha-Ḥazzan,,Male,Jewish communal official,,,[placeholder],,0,,,,6,https://geniza.princeton.edu/people/yefet-b-david-b-shekhanya-ha-hazzan/
 Yefet b. Kalev al-Dimashqī,,Male,Jewish community member,,,,,0,,,,1,
-Yefet b. Maḍmūn b. Ḥasan,,Male,Jewish community member,,,"Son of Maḍmūn b. Ḥasan. Likely born around 1140 CE and died young, before approximately 1150 CE.",IB3,7,,,,1,
+Yefet b. Maḍmūn b. Ḥasan,,Male,Jewish community member,,,"Son of Maḍmūn b. Ḥasan. Likely born around 1140 CE and died young, before approximately 1150 CE.",IB3,15,,,,1,
 Yefet b. Menashshe ha-Levi,Ibn al-Qaṭāʾif,Male,Jewish community member,,,,,2,,,,111,https://geniza.princeton.edu/people/yefet-b-menashshe-ha-levi/
 Yefet b. Mevorakh ha-Levi,,Male,,,,,,0,,,,1,
 Yefet b. Moshe,,Male,,,,,,0,,,,1,
@@ -1740,7 +1740,7 @@ Yiṣḥaq b. Simḥa ha-Levi al-Nīsābūrī,,Male,,,,,,0,,,,6,https://geniza.p
 Yiṣḥaq b. Yaʿaqov,,Male,Jewish community member,,,,,1,,,al-Mahdiyya,1,
 Yiṣḥaq b. Yaʿaqov ha-Kohen,,Male,,,,,,1,,,,1,
 Yiṣḥaq b. Yehuda,,Male,,,,,,0,,,,1,
-Yiṣḥaq b. Yehuda ha-Kohen,"Yiṣḥaq b. Abū Zikrī Kohen, Yiṣḥaq b. Yehuda Abū Zikrī Kohen",Male,Jewish community member,,,,,4,,,,0,
+Yiṣḥaq b. Yehuda ha-Kohen,"Yiṣḥaq b. Abū Zikrī Kohen, Yiṣḥaq b. Yehuda Abū Zikrī Kohen",Male,Jewish community member,,,,,6,,,,0,
 Yiṣḥaq b. Yosef,,Male,Jewish community member,,,,,1,,,,1,
 Yiṣḥaq b. Yosef Yerushalmi,,Male,,,,,,0,,,,4,https://geniza.princeton.edu/people/yishaq-b-yosef-yerushalmi/
 Yiṣḥaq Castro,,Male,,,,The son of the better-known R. Yaʿaqov Castro. Conforte wrote about him in Qore ha-Dorot.,,0,,,,3,
@@ -1759,7 +1759,7 @@ Yosef b. Abiṭur Ibn al-Shaṭnāsh,,Male,,,,"Spanish poet and scholar, active 
 
 See Yehoshua Granat, Psalms Recalled: Scriptural Psalms in the Liturgical Poetry of Yoseph Ibn Abitur (Hebrew: אזכרה מזמור: מזמורי תהילים בפיוטי יוסף אבן אביתור), Jerusalem: Yad Ben-Zvi, 2021.",,0,,,,1,https://geniza.princeton.edu/people/yosef-b-abitur-ibn-al-shatnash/
 Yosef b. Avraham,,Male,Jewish community member,,,,,0,,,,1,
-Yosef b. Avraham b. Bundār,Yūsuf b. Ibrāhīm b. Bundār,Male,"Jewish community member, Merchant",,,Indian Ocean trader active in Aden c. 1140–55. Cousin of Maḍmūn b. Ḥasan b. Bundār; trading partner of Avraham Ben Yijū.,,9,,,,13,https://geniza.princeton.edu/people/yosef-b-avraham-b-bundar/
+Yosef b. Avraham b. Bundār,Yūsuf b. Ibrāhīm b. Bundār,Male,"Jewish community member, Merchant",,,Indian Ocean trader active in Aden c. 1140–55. Cousin of Maḍmūn b. Ḥasan b. Bundār; trading partner of Avraham Ben Yijū.,,10,,,,13,https://geniza.princeton.edu/people/yosef-b-avraham-b-bundar/
 Yosef b. Avraham ʿIrāqī,,Male,,,,,,0,,,,1,
 Yosef b. David b. Yeshuʿa,,Male,Jewish community member,,,,,0,,,,1,
 Yosef b. Elʿazar Ibn al-Shofeṭ,,Male,,,,,,0,,,,1,https://geniza.princeton.edu/people/yosef-b-elazar-ibn-al-shofet/
@@ -1773,7 +1773,7 @@ Yosef b. ʿIwāḍ,,Male,Jewish community member,,,"His father might be the Indi
 Yosef b. Khalaf Ibn al-Bannāʾ,,Male,,,,,,0,,,,1,
 Yosef b. Khalfa,,Male,Jewish community member,,,,,0,,,,1,
 Yosef b. Labraṭ al-Fāsī,,Male,Jewish community member,,,,,0,,Qayrawān,,1,
-Yosef b. Maḥrūz,,Male,Jewish community member,,,,IB2,2,,,,2,
+Yosef b. Maḥrūz,,Male,Jewish community member,,,,IB2,6,,,,2,
 Yosef b. Nadiv,,Male,Jewish community member,,,,,0,,,,1,
 Yosef b. ʿOvadya,,Male,,,,,,0,,,,1,
 Yosef b. Saʿadya,,Male,,,,,,0,,,,1,
@@ -1796,7 +1796,7 @@ Yosef b. Yefet,,Male,,,,,,0,,,,1,
 Yosef b. Yeshuʿa,,Male,Jewish community member,,,,,1,,,Tripoli (Lebanon),1,
 Yosef b. Yeshuʿa ha-Kohen ha-Dayyan,,Male,Jewish communal official,,,"Leader of the community of Alexandria from before 1025 until at least 1042. He was succeeded by his son Yosef during his lifetime. He died by 1055. See Frenkel, The Compassionate and Benevolent, pp. 50–52.",,1,,Alexandria,,3,https://geniza.princeton.edu/people/yosef-b-yeshu-a-ha-dayyan/
 Yosef b. Yiṣḥaq,,Male,,,,,,0,,,,4,https://geniza.princeton.edu/people/yosef-b-yishaq/
-Yosef ha-Kohen al-Sijilmāsī,,Male,Jewish community member,,,,IB2,6,,,,0,
+Yosef ha-Kohen al-Sijilmāsī,,Male,Jewish community member,,,,IB2,7,,,,0,
 Yosef ha-Kohen b. Shelomo Gaʾon,Yosef b. Shelomo ha-Kohen,Male,,,,[placeholder],,0,,,,2,https://geniza.princeton.edu/people/yosef-ha-kohen-b-shelomo-gaon/
 Yosef ha-Shofeṭ b. Avraham,,Male,,,,,,0,,,,1,
 Yosef ha-Talmid b. Yeshuʿa he-Ḥasid,Yosef b. Yeshuʿa,Male,,,,,,0,,,,1,
