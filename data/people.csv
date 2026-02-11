@@ -1,6 +1,6 @@
 ﻿name,name_variants,gender,social_roles,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,traveled_to,related_documents_count,url
 (I) bt. Yosef ha-Kohen al-Sijilmāsī,,Female,Jewish community member,,,,IB2,15,,,,1,
-(II) bt. Yosef ha-Kohen al-Sijilmāsī,Sister of Abū Zikrī Kohen,Female,Jewish community member,,,,"IB2, IB3",15,,,,1,
+(II) bt. Yosef ha-Kohen al-Sijilmāsī,Sister of Abū Zikrī Kohen,Female,Jewish community member,,,,"IB2, IB3",16,,,,1,
 ʿAbd al-ʿAzīz b. ʿAlī b. Muḥammad,عبد العزيز بن علی بن محمد,Male,Muslim judicial official,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Hārūn,عبد العزيز بن هرون,Male,Other,,,,,0,,,,1,
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,Other,,,Witness,,0,,,,1,
@@ -564,7 +564,7 @@ Daughter of Ḥalfon b. Menashshe ha-Levi,,Female,Jewish community member,,,,,3,
 Daughter of Hilāl Shaykh al-Yahūd,,Female,Jewish community member,,,,,0,,,,1,
 David b. Aharon ha-Levi,,Male,Jewish community member,,,,,0,,,,1,
 David b. Daniʾel (Nasi),David b. Daniʾel b. ʿAzarya,Male,Jewish communal official,,1082/1094,"Head of the Jews ca. 1082–94, between the two terms of Mevorakh b. Saʿadya. Son of Daniʾel b. ʿAzarya. Vilified in Megillat Evyatar, composed by Evyatar b. Eliyyahu ha-Kohen shortly after David's downfall in 1094 CE.",,1,,,,4,https://geniza.princeton.edu/people/david-b-daniel-nasi/
-David b. Ḥalfon b. Maḍmūn,"David b. Khalaf b. Maḍmūn, David b. Ḥalfon Nagid b. Maḍmūn Nagid",Male,Jewish community member,,,Son of nagid Ḥalfon b. Maḍmūn and father of nagid Maḍmūn (Shemaryā) b. David. Potentially himself a nagid.,IB2,5,,,,0,
+David b. Ḥalfon b. Maḍmūn,"David b. Khalaf b. Maḍmūn, David b. Ḥalfon Nagid b. Maḍmūn Nagid",Male,Jewish community member,,,Son of nagid Ḥalfon b. Maḍmūn and father of nagid Maḍmūn (Shemaryā) b. David. Potentially himself a nagid.,IB2,6,,,,0,
 David b. Ḥizqiyya (Nasi),David b. Yeḥizqiyyahu,Male,Jewish communal official,,,,,0,,,,1,https://geniza.princeton.edu/people/david-b-hizqiyya-nasi/
 David b. Ṣemaḥ,,Male,Jewish communal official,,,Qaraite Nasi,,0,,,,1,https://geniza.princeton.edu/people/david-b-semah/
 David b. Shelomo Ibn al-Lebdī,Abū Sulaymān Dāʾūd Ibn al-Lebdī,Male,Jewish community member,,,,,2,,,,3,https://geniza.princeton.edu/people/david-b-shelomo-ibn-al-lebdi/
@@ -696,7 +696,7 @@ Ghazāl,,Female,Enslaved person,,,"Enslaved woman mentioned in a letter, possibl
 Ḥalfon b. Efrayim,,Male,,,,,,0,,,,1,
 Ḥalfon b. Ghālib ha-Ḥazzan,,Male,,,,,,0,,,,2,https://geniza.princeton.edu/people/halfon-b-ghalib-ha-hazzan/
 Ḥalfon b. Maḍmūn,"Khalaf b. Maḍmūn b. Ḥasan, Ḥalfon Nagid b. Maḍmūn",Male,"Jewish communal official, Merchant",,,Nagid; shipowner; son of Maḍmūn b. Ḥasan,"IB2, India",16,,Aden,,4,https://geniza.princeton.edu/people/halfon-b-madmun/
-Ḥalfon b. Menashshe ha-Levi,"Abū Saʿīd, Ibn al-Qaṭāʾif",Male,Jewish communal official,,1100/1138,,,6,,Fustat,,604,https://geniza.princeton.edu/people/halfon-b-menashshe/
+Ḥalfon b. Menashshe ha-Levi,"Abū Saʿīd, Ibn al-Qaṭāʾif",Male,Jewish communal official,,1100/1138,,,6,,Fustat,,607,https://geniza.princeton.edu/people/halfon-b-menashshe/
 Ḥalfon b. Mevorakh,,Male,,,,,,0,,,,0,
 Ḥalfon b. Mevorakh,,Male,,,,,,0,,,,1,
 Ḥalfon b. Netanʾel ha-Levi,"Abū Saʿīd b. Hibatallāh al-Dimyāṭī, Ḥalfon ha-Levi b. Netanʾel",Male,Jewish community member,,,Notable India trader; the subject of India Book vol. IV. [placeholder],,6,,,,41,https://geniza.princeton.edu/people/halfon-b-netanel-ha-levi/
