@@ -2,7 +2,7 @@
 
 This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2026-02 by Mohamed Abdellatif. Reviewed by Rebecca Koeser.
 
-GENERAL INFORMATION
+## General information
 
 1. Title of Dataset: Princeton Geniza Project Datasets
 
@@ -40,7 +40,7 @@ Office of the Provost, Princeton University (2015– )
 Program in Judaic Studies, Princeton University (2024)
 
 
-SHARING/ACCESS INFORMATION
+## Sharing / access information
 
 1. Licenses/restrictions placed on the data: 
 
@@ -76,7 +76,7 @@ Data organizes and curates content from other sources including:
 	Transcriptions and translations in footnotes dataset are drawn from scholarly sources documented in the sources dataset
 
 
-DATA & FILE OVERVIEW
+## Data and files overview
 
 1. File List: 
 
@@ -114,7 +114,7 @@ DATA & FILE OVERVIEW
 	This is the first published version of PGP data.
 	
 
-METHODOLOGICAL INFORMATION
+## Methodological information
 
 1. Description of methods used for collection/generation of data: 
 
@@ -144,7 +144,7 @@ Specialized formats or other abbreviations used:
 	CDH = Princeton Center for Digital Humanities, which helped us build the relational database and website
 	The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
 
-DATA-SPECIFIC INFORMATION FOR: [documents]
+## Data-specific information for: [documents]
 
 1. Number of variables: 30
 
@@ -216,7 +216,7 @@ DATA-SPECIFIC INFORMATION FOR: [documents]
        The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
 
 
-DATA-SPECIFIC INFORMATION FOR: [fragments]
+## Data-specific information for: [fragments]
 
 1. Number of variables: 16
 
@@ -257,7 +257,7 @@ DATA-SPECIFIC INFORMATION FOR: [fragments]
 	Material_support: the physical material from which the fragment is believed to be manufactured / made
 
 
-DATA-SPECIFIC INFORMATION FOR: [sources]
+## Data-specific information for: [sources]
 
 1. Number of variables: 18
    
@@ -303,7 +303,7 @@ DATA-SPECIFIC INFORMATION FOR: [sources]
 	Num_footnotes: the number of times this source is cited in document and person page footnotes.
 
 
-DATA-SPECIFIC INFORMATION FOR: [footnotes]
+## Data-specific information for: [footnotes]
 
 1. Number of variables: 10
 
@@ -337,7 +337,7 @@ DATA-SPECIFIC INFORMATION FOR: [footnotes]
 	Digital edition = a published or unpublished edition of the document’s text that has been input online. May reflect changes since original publication.
 
 
-DATA-SPECIFIC INFORMATION FOR: [people]
+## Data-specific information for: [people]
 
 1. Number of variables: 14
 
@@ -374,7 +374,7 @@ DATA-SPECIFIC INFORMATION FOR: [people]
 	Url: link to this person’s page on the PGP public site
 
 
-DATA-SPECIFIC INFORMATION FOR: [places]
+## Data-specific information for: [places]
 
 1. Number of variables: 10
 
