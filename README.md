@@ -350,7 +350,7 @@ DATA-SPECIFIC INFORMATION FOR: [people]
 	
 	Home_base: location where person lived
 	
-	Occasional_trips_to: known locations of travel for trade or pilgrimage
+	traveled_to: known locations of travel for trade or pilgrimage
 	
 	Related_documents_count: number of documents associated with this person	
 	
