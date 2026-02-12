@@ -292,7 +292,7 @@ DATA-SPECIFIC INFORMATION FOR: [sources]
 
 DATA-SPECIFIC INFORMATION FOR: [footnotes]
 
-1. Number of variables: 8
+1. Number of variables: 10
 
 2. Number of cases/rows: 24,400
 
@@ -304,10 +304,14 @@ DATA-SPECIFIC INFORMATION FOR: [footnotes]
 	
 	Source: the published or unpublished author and source of the footnoted content
 	
+	Source_slug: Re-expressing the name with continuous letters that may be used as part of a URL 
+
 	Location: where in a published source this footnote derives from.
 	
 	Doc_relation: how is the footnote related to the document (discussion/translation/transcription)
 	
+	Emendation: Revisions or corrections
+
 	Notes: an open-text field, sometimes features additional information about the source or footnote. Often used to annotate digital editions, for example “with minor emendations by Alan Elbaum” means that Alan reviewed the digital edition and fixed a few spelling errors or populated words that would not have been visible to the original scholar working off of a photocopied image.
 	
 	URL: link to the footnote’s source, if relevant. Mostly used for Goitein’s unpublished index cards and their discussions of documents.
