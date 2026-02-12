@@ -49,7 +49,8 @@ https://creativecommons.org/licenses/by-nc/4.0/deed.en
 
 2. Links to publications that cite or use the data: 
 
-	Mohamed Abdellatif, Joel U. Bretheim, and Marina Rustow. “Machine transliteration of long text with error detection and correction.” Journal of Data Mining & Digital Humanities, vol. NLP4DH, I. Historical and linguistic approaches, Mar. 2025. https://doi.org/10.46298/jdmdh.15020
+	Abdellatif, Mohamed, Joel U. Bretheim, and Marina Rustow. “Machine transliteration of long text with error detection and correction.” Journal of Data Mining & Digital Humanities, vol. NLP4DH, I. Historical and linguistic approaches, Mar. 2025. https://doi.org/10.46298/jdmdh.15020
+	Koeser, Rebecca Sutton, Julia Damerow, Robert Casties, and Cole Crawford. “Undate: Humanistic Dates for Computation.” Computational Humanities Research 1 (2025): e5. https://doi.org/10.1017/chr.2025.10006
 
 3. Links to other publicly accessible locations of the data: 
 	https://github.com/princetongenizalab/pgp-metadata 
