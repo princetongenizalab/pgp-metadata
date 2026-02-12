@@ -1,6 +1,6 @@
 # PGP Metadata
 
-This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2025-05 by Rebecca Koeser. Reviewed by Sarah Reiff Connell. Final version updated by Rachel Richman 2025-07-03.
+This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2026-02 by Mohamed Abdellatif. Reviewed by Rebecca Koeser.
 
 GENERAL INFORMATION
 
@@ -21,7 +21,7 @@ GENERAL INFORMATION
 	C. Alternate Contact Information
 		Email: geniza@princeton.edu
 
-3. Dates of data collection: 1986-01-01/2025-07-03
+3. Dates of data collection: 1986-01-01/2026-02-12
  
 4. Information about funding sources that supported the collection of the data: 
 
