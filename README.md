@@ -359,7 +359,7 @@ DATA-SPECIFIC INFORMATION FOR: [people]
 
 DATA-SPECIFIC INFORMATION FOR: [places]
 
-1. Number of variables: 8
+1. Number of variables: 10
 
 2. Number of cases/rows: 485
 
@@ -369,8 +369,12 @@ DATA-SPECIFIC INFORMATION FOR: [places]
 	
 	Name_variants: additional names and spellings in different languages	
 	
+	Is_region: if the place is a region that might span multiple population clusters 
+
 	Coordinates: latitude and longitude
 	
+	Geographic area: labeling the containing geographic territory
+
 	Notes: notes, especially for places of unknown precise coordinates	
 	
 	Related_documents_count: number of documents associated with this place	
