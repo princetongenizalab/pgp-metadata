@@ -13,7 +13,12 @@
 
 ### Structural changes
 
-- 
+- Renaming the attribute "occasional_trips_to" to "traveled_to" in people
+- Renaming the attribute "old_shelfmark" to "shelfmark_historic" in fragment
+- Adding a string attribute "source_slug" to footnotes_source
+- Adding "provenance", "provenance_display", and "material_support" attributes to fragment
+- Adding "is_region" and "geographic_area" attributes to places
+- Adding "citation" and "slug" attributes to sources
 
 ## Version 1.0, July 2025
 

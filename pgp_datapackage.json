@@ -18,12 +18,19 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 30,
+      "rows": 35850,
       "schema": {
         "fields": [
           {
             "name": "pgpid",
             "type": "integer",
-            "format": "default"
+            "constraints": {
+              "required": true
+            },
+            "description": "PGP identifier",
+            "format": "default",
+            "title": "PGPID"
           },
           {
             "name": "url",
@@ -263,6 +270,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 10,
+      "rows": 24400,
       "schema": {
         "fields": [
           {
@@ -341,6 +350,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 16,
+      "rows": 36171,
       "schema": {
         "fields": [
           {
@@ -444,6 +455,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 14,
+      "rows": 1771,
       "schema": {
         "fields": [
           {
@@ -533,6 +546,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 10,
+      "rows": 485,
       "schema": {
         "fields": [
           {
@@ -597,6 +612,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
+      "fields": 18,
+      "rows": 712,
       "schema": {
         "fields": [
           {
