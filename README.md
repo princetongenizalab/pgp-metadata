@@ -145,7 +145,7 @@ DATA-SPECIFIC INFORMATION FOR: [documents]
 
 1. Number of variables: 30
 
-2. Number of cases/rows: 35,194
+2. Number of cases/rows: 36,452
 
 3. Variable List: 
 
@@ -217,7 +217,7 @@ DATA-SPECIFIC INFORMATION FOR: [fragments]
 
 1. Number of variables: 13
 
-2. Number of cases/rows: 35,608
+2. Number of cases/rows: 36,928
 
 3. Variable List: 
 
@@ -252,7 +252,7 @@ DATA-SPECIFIC INFORMATION FOR: [sources]
 
 1. Number of variables: 15
    
-2. Number of cases/rows: 679
+2. Number of cases/rows: 712
    
 3. Variable List: 
 	(The information for sources are all intended to help populate a bibliographic entry)
@@ -294,7 +294,7 @@ DATA-SPECIFIC INFORMATION FOR: [footnotes]
 
 1. Number of variables: 8
 
-2. Number of cases/rows: 23,562
+2. Number of cases/rows: 24,400
 
 3. Variable List: 
 
@@ -324,7 +324,7 @@ DATA-SPECIFIC INFORMATION FOR: [people]
 
 1. Number of variables: 14
 
-2. Number of cases/rows: 1,333
+2. Number of cases/rows: 1,771
 
 3. Variable List: 
 
@@ -361,7 +361,7 @@ DATA-SPECIFIC INFORMATION FOR: [places]
 
 1. Number of variables: 8
 
-2. Number of cases/rows: 409
+2. Number of cases/rows: 485
 
 3. Variable List: 
 
