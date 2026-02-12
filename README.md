@@ -209,8 +209,8 @@ DATA-SPECIFIC INFORMATION FOR: [documents]
 	
 	Has_translation: yes/no is there a digital translation on the PGP
 
-5. Specialized formats or other abbreviations used: 
-	The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
+   Specialized formats or other abbreviations used: 
+       The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
 
 
 DATA-SPECIFIC INFORMATION FOR: [fragments]
