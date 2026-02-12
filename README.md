@@ -49,7 +49,7 @@ https://creativecommons.org/licenses/by-nc/4.0/deed.en
 
 2. Links to publications that cite or use the data: 
 
-	Abdellatif, Mohamed, Joel U. Bretheim, and Marina Rustow. “Machine transliteration of long text with error detection and correction.” Journal of Data Mining & Digital Humanities, vol. NLP4DH, I. Historical and linguistic approaches, Mar. 2025. https://doi.org/10.46298/jdmdh.15020
+	Mohamed Abdellatif, Joel U. Bretheim, and Marina Rustow. “Machine transliteration of long text with error detection and correction.” Journal of Data Mining & Digital Humanities, vol. NLP4DH, I. Historical and linguistic approaches, Mar. 2025. https://doi.org/10.46298/jdmdh.15020
 
 3. Links to other publicly accessible locations of the data: 
 	https://github.com/princetongenizalab/pgp-metadata 
