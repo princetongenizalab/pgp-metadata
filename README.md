@@ -215,7 +215,7 @@ DATA-SPECIFIC INFORMATION FOR: [documents]
 
 DATA-SPECIFIC INFORMATION FOR: [fragments]
 
-1. Number of variables: 13
+1. Number of variables: 16
 
 2. Number of cases/rows: 36,928
 
@@ -225,7 +225,7 @@ DATA-SPECIFIC INFORMATION FOR: [fragments]
 
 	Pgpids: the unique identifier(s) for the documents on this fragment
 	
-	Old_shelfmarks: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).		
+	Shelfmarks_historic: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).		
 	
 	Collection: abbreviated version of collection and library information as seen in the shelfmark
 	
@@ -246,6 +246,12 @@ DATA-SPECIFIC INFORMATION FOR: [fragments]
 	Created: date of addition to current database	
 	
 	Last_modified: date of last modification
+
+	Provenance_display: source of the fragment (e.g. Geniza, non-Geniza ..etc)
+
+	Provenance: earliest known / publication history
+
+	Material_support: the physical material from which the fragment is believed to be manufactured / made
 
 
 DATA-SPECIFIC INFORMATION FOR: [sources]
