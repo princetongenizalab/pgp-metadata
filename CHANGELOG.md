@@ -15,10 +15,10 @@
 
 - Renaming the attribute *occasional_trips_to* to *traveled_to* in people
 - Renaming the attribute *old_shelfmark* to *shelfmark_historic* in fragment
-- Adding a string attribute *source_slug* to footnotes_source
-- Adding *provenance*, *provenance_display*, and *material_support* attributes to fragment
-- Adding *is_region* and *geographic_area* attributes to places
-- Adding *citation* and *slug* attributes to sources
+- Adding a new attribute to footnotes_source: *source_slug*
+- Adding 3 new attributes to fragment: *provenance*, *provenance_display*, and *material_support*
+- Adding 2 new attributes to places: *is_region* and *geographic_area*
+- Adding 2 new attributes to sources: *citation* and *slug*
 
 ## Version 1.0, July 2025
 
