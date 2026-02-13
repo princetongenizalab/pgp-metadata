@@ -1,0 +1,718 @@
+{
+  "title": "Princetion Geniza Project datasets",
+  "homepage": "https://geniza.princeton.edu/",
+  "licenses": [
+    {
+      "name": "CC-BY-NC-4.0",
+      "title": "Creative Commons Attribution-NonCommercial 4.0",
+      "path": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "version": "1.1",
+  "resources": [
+    {
+      "name": "documents",
+      "type": "table",
+      "path": "data/documents.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 30,
+      "rows": 35850,
+      "schema": {
+        "fields": [
+          {
+            "name": "pgpid",
+            "type": "integer",
+            "constraints": {
+              "required": true
+            },
+            "description": "PGP identifier",
+            "format": "default",
+            "title": "PGPID"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "uri",
+            "description": "permalink; public view of this document on PGP website",
+            "title": "URL"
+          },
+          {
+            "name": "iiif_urls",
+            "type": "string",
+            "description": "URLs for one or more IIIF manifests, if available for associated fragments",
+            "format": "default",
+            "title": "IIIF URLs"
+          },
+          {
+            "name": "fragment_urls",
+            "type": "string",
+            "description": "URLs to access associated fragments at owning library or museum site, if available",
+            "format": "default",
+            "title": "Fragment URLs"
+          },
+          {
+            "name": "shelfmark",
+            "type": "string",
+            "constraints": {
+              "required": true
+            },
+            "description": "shelfmark or combined shelfmarks for the fragments this document appears on",
+            "format": "default",
+            "title": "Shelfmark"
+          },
+          {
+            "name": "multifragment",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "side",
+            "type": "string",
+            "description": "sides of associated fragments where this document appears",
+            "format": "default",
+            "title": "Side"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "label for region of fragment that document text occupies, for each associated fragment",
+            "format": "default",
+            "title": "Region"
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "type of document",
+            "format": "default",
+            "title": "Document Type"
+          },
+          {
+            "name": "tags",
+            "type": "string",
+            "description": "delimited list of tags describing the document",
+            "format": "default",
+            "title": "Tags"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "description": "English-language text description summarizing the document",
+            "format": "default",
+            "title": "Description"
+          },
+          {
+            "name": "scholarship_records",
+            "type": "string",
+            "description": "short citations for known scholarship about this document",
+            "format": "default",
+            "title": "Scholarship Records"
+          },
+          {
+            "name": "shelfmarks_historic",
+            "type": "string",
+            "format": "default",
+            "title": "Historic Shelfmarks",
+            "description": "old and alternate ways of referring to this document"
+          },
+          {
+            "name": "languages_primary",
+            "type": "string",
+            "description": "primary languages used in the text of this document",
+            "format": "default",
+            "title": "Primary Languages"
+          },
+          {
+            "name": "languages_secondary",
+            "type": "string",
+            "description": "additional languages used in the text of this document",
+            "format": "default",
+            "title": "Secondary Languages"
+          },
+          {
+            "name": "language_note",
+            "type": "string",
+            "description": "additional information about the languages or scripts used in this document",
+            "format": "default",
+            "title": "Language Notes"
+          },
+          {
+            "name": "doc_date_original",
+            "type": "string",
+            "description": "the document's date in its original form",
+            "format": "default",
+            "title": "Date on Document"
+          },
+          {
+            "name": "doc_date_calendar",
+            "type": "string",
+            "description": "calendar used in original document date",
+            "format": "default",
+            "title": "Calendar of Date on Document"
+          },
+          {
+            "name": "doc_date_standard",
+            "type": "string",
+            "description": "date on document, standardized - CE date (Julian before 1582, Gregorian after 1582)",
+            "format": "default",
+            "title": "Standardized Document Date"
+          },
+          {
+            "name": "inferred_date_display",
+            "type": "string",
+            "format": "default",
+            "description": "scholar's inference of when document was composed",
+            "title": "Inferred Dating of Document"
+          },
+          {
+            "name": "inferred_date_standard",
+            "type": "string",
+            "format": "default",
+            "title": "Inferred Dating of document, Standardized",
+            "description": "scholar's dating inference, standardized to the CE"
+          },
+          {
+            "name": "inferred_date_rationale",
+            "type": "string",
+            "format": "default",
+            "title": "Inferred Date Rationale",
+            "description": "why scholar makes the inferred date: paleography, person mentioned, etc."
+          },
+          {
+            "name": "inferred_date_notes",
+            "type": "string",
+            "format": "default",
+            "title": "Inferred Date Notes",
+            "description": "further comments on scholar's choice for dating the document."
+          },
+          {
+            "name": "initial_entry",
+            "type": "datetime",
+            "description": "date document was added to PGP",
+            "format": "default",
+            "title": "Initial Entry into PGP"
+          },
+          {
+            "name": "last_modified",
+            "type": "datetime",
+            "description": "date document was last modified in PGP",
+            "format": "default",
+            "title": "Entry Last Modified"
+          },
+          {
+            "name": "input_by",
+            "type": "string",
+            "description": "researchers who contributed to the metadata for this document",
+            "format": "default",
+            "title": "Input By"
+          },
+          {
+            "name": "library",
+            "type": "string",
+            "description": "library location/ownership for associated fragments",
+            "format": "default",
+            "title": "Library"
+          },
+          {
+            "name": "collection",
+            "type": "string",
+            "description": "library collection for associated fragments",
+            "format": "default",
+            "title": "Library Collection"
+          },
+          {
+            "type": "boolean",
+            "name": "has_transcription",
+            "description": "boolean indicator if document has transcription available",
+            "trueValues": [
+              "Y"
+            ],
+            "falseValues": [
+              "N"
+            ],
+            "constraints": {
+              "required": true
+            },
+            "format": "default",
+            "title": "Has Transcription"
+          },
+          {
+            "type": "boolean",
+            "name": "has_translation",
+            "description": "boolean indicator if document has translation available",
+            "trueValues": [
+              "Y"
+            ],
+            "falseValues": [
+              "N"
+            ],
+            "constraints": {
+              "required": true
+            },
+            "format": "default",
+            "title": "Has Translation"
+          }
+        ],
+        "primaryKey": "pgpid",
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "footnotes",
+      "type": "table",
+      "path": "data/footnotes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 10,
+      "rows": 24400,
+      "schema": {
+        "fields": [
+          {
+            "name": "document",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "document_id",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "source_slug",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "doc_relation",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "emendations",
+            "type": "string",
+            "format": "default",
+            "description": "additional scholar who has edited the transcription"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "url",
+            "format": "uri",
+            "type": "string"
+          },
+          {
+            "name": "content",
+            "type": "string",
+            "format": "default",
+            "description": "the transcription or translation of the document (in any language)"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "foreignKeys": [
+        {
+          "fields": "document_id",
+          "reference": {
+            "resource": "documents",
+            "fields": "pgpid"
+          }
+        }
+      ],
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "fragments",
+      "type": "table",
+      "path": "data/fragments.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 16,
+      "rows": 36171,
+      "schema": {
+        "fields": [
+          {
+            "name": "shelfmark",
+            "type": "string",
+            "constraints": {
+              "required": true
+            },
+            "format": "default"
+          },
+          {
+            "name": "pgpids",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "shelfmarks_historic",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "collection",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "library",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "library_abbrev",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "collection_name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "collection_abbrev",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "iiif_url",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "is_multifragment",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "created",
+            "type": "datetime",
+            "description": "date added to PGP",
+            "format": "default"
+          },
+          {
+            "name": "last_modified",
+            "type": "datetime",
+            "description": "date last modified in PGP",
+            "format": "default"
+          },
+          {
+            "name": "provenance_display",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "provenance",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "material_support",
+            "type": "any",
+            "format": "default"
+          }
+        ],
+        "primaryKey": "shelfmark",
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "people",
+      "type": "table",
+      "path": "data/people.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 14,
+      "rows": 1771,
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "name_variants",
+            "type": "string",
+            "format": "default",
+            "description": "variant spellings of person's name in different languages and transliteration styles"
+          },
+          {
+            "name": "gender",
+            "type": "string",
+            "format": "default",
+            "description": "male, female, or unknown"
+          },
+          {
+            "name": "social_roles",
+            "type": "string",
+            "format": "default",
+            "description": "select from list: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official\t"
+          },
+          {
+            "name": "auto_date_range",
+            "type": "string",
+            "format": "default",
+            "description": "date range of person's life generated by their related dated documents"
+          },
+          {
+            "name": "manual_date_range",
+            "type": "string",
+            "format": "default",
+            "description": "if scholars know a person's lifetime beyond dated documents, they can edit the date field here"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "tags",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "related_people_count",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "family_traces_roots_to",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "home_base",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "traveled_to",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "related_documents_count",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      },
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "places",
+      "type": "table",
+      "path": "data/places.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 10,
+      "rows": 485,
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "name_variants",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "is_region",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "coordinates",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "geographic_area",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "related_documents_count",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "related_people_count",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "related_events_count",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      },
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "sources",
+      "type": "table",
+      "path": "data/sources.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 18,
+      "rows": 712,
+      "schema": {
+        "fields": [
+          {
+            "name": "source_type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "authors",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "journal_book",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "volume",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "issue",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "place_published",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "publisher",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "edition",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "other_info",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "page_range",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "languages",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "citation",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "num_footnotes",
+            "type": "integer",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource"
+    }
+  ],
+  "name": "pgp_datapackage.json"
+}
