@@ -1,4 +1,4 @@
-# Change log for Geniza Dataset
+# Change log for Geniza dataset
 
 ## Version 1.1, February 2026
 

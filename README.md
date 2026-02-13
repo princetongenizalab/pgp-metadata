@@ -1,6 +1,6 @@
 # PGP Metadata
 
-This readme.txt file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2026-02 by Mohamed Abdellatif. Reviewed by Rebecca Koeser.
+This readme file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2026-02 by Mohamed Abdellatif. Reviewed by Rebecca Koeser.
 
 ## General information
 
