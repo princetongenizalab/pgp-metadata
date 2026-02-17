@@ -369,84 +369,100 @@
             "constraints": {
               "required": true
             },
-            "format": "default"
+            "format": "default",
+            "description": "the library’s name for the document and the name cited in scholarship"
           },
           {
             "name": "pgpids",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "the unique identifier(s) for the documents on this fragment"
           },
           {
             "name": "shelfmarks_historic",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks)."
           },
           {
             "name": "collection",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "abbreviated version of collection and library information as seen in the shelfmark"
           },
           {
             "name": "library",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "holding library of the fragment"
           },
           {
             "name": "library_abbrev",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "abbreviation for the library name seen in shelfmarks and on the PGP"
           },
           {
             "name": "collection_name",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "collection within the library where fragment is held"
           },
           {
             "name": "collection_abbrev",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "abbreviation for the library name seen in shelfmarks and on the PGP"
           },
           {
             "name": "url",
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "holding library’s page for this fragment, if available"
           },
           {
             "name": "iiif_url",
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "link to the fragment image IIIF manifest, if available"
           },
           {
             "name": "is_multifragment",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "yes/no if there are multiple fragments under the same shelfmark"
           },
           {
             "name": "created",
             "type": "datetime",
             "description": "date added to PGP",
-            "format": "default"
+            "format": "default",
+            "description": "date of addition to current database"
           },
           {
             "name": "last_modified",
             "type": "datetime",
             "description": "date last modified in PGP",
-            "format": "default"
+            "format": "default",
+            "description": "date of last modification"
           },
           {
             "name": "provenance_display",
             "type": "any",
-            "format": "default"
+            "format": "default",
+            "description": "source of the fragment (e.g. Geniza, non-Geniza ..etc)"
           },
           {
             "name": "provenance",
             "type": "any",
-            "format": "default"
+            "format": "default",
+            "description": "earliest known / publication history"
           },
           {
             "name": "material_support",
             "type": "any",
-            "format": "default"
+            "format": "default",
+            "description": "the physical material from which the fragment is believed to be manufactured / made"
           }
         ],
         "primaryKey": "shelfmark",
