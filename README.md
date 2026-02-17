@@ -53,6 +53,7 @@ https://creativecommons.org/licenses/by-nc/4.0/deed.en
 
 	Koeser, Rebecca Sutton, Julia Damerow, Robert Casties, and Cole Crawford. “Undate: Humanistic Dates for Computation.” Computational Humanities Research 1 (2025): e5. https://doi.org/10.1017/chr.2025.10006
 
+	Koeser, Rebecca Sutton and Marina Rustow. "Princeton Geniza Project datasets." Journal of Cultural Analytics (forthcoming, 2026)
 
 3. Links to other publicly accessible locations of the data: 
 	https://github.com/princetongenizalab/pgp-metadata 
