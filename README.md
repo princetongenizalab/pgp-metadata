@@ -352,7 +352,7 @@ Specialized formats or other abbreviations used:
 	
 	gender	: male, female, or unknown
 	
-	social_role: select from list: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official	
+	social_role: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official
 	
 	auto_date_range: date range of person’s life populated from dated documents the person is connected to.	
 	
