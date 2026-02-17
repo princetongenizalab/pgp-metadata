@@ -4,12 +4,12 @@
 
 ### Data changes
 
-- Increased documents to 36452 cases
-- Increased fragments to 36928 cases
-- Increased sources to 712 cases
-- Increased footnotes to 24400 cases
-- Increased people to 1771 cases
-- Increased places to 485 cases
+- Total 41230 documents (+6036)
+- Total 36171 fragments (+563)
+- Total 729 sources (+50)
+- Total 24403 footnotes (+841)
+- Total 1772 people (+439)
+- Total 486 places (+77)
 
 ### Structural changes
 
@@ -22,9 +22,9 @@
 
 ## Version 1.0, July 2025
 
-- Added 35194 documents 
-- Added 35608 fragments 
-- Added 679 sources 
-- Added 23562 footnotes 
-- Added 1333 people 
-- Added 409 places 
+- Total 35194 documents 
+- Total 35608 fragments 
+- Total 679 sources 
+- Total 23562 footnotes 
+- Total 1333 people 
+- Total 409 places 
