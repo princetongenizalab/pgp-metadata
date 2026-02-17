@@ -153,65 +153,65 @@ Specialized formats or other abbreviations used:
 
 3. Variable List: 
 
-	Pgpid: unique identifier for the document
+	pgpid: unique identifier for the document
 	
-	Url: permalink; public view of this document on PGP  website	
+	url: permalink; public view of this document on PGP  website	
 	
-	Iiif_urls: link to the document/fragment images if hosted in IIIF format
+	iiif_urls: link to the document/fragment images if hosted in IIIF format
 	
-	Fragment_urls: link to the document/fragment images if hosted in format that is not IIIF
+	fragment_urls: link to the document/fragment images if hosted in format that is not IIIF
 	
-	Shelfmark: the library’s name for the document and the name cited in scholarship	
+	shelfmark: the library’s name for the document and the name cited in scholarship	
 	
-	Multifragment: boolean yes/no for whether this shelfmark contains multiple small fragments of text
+	multifragment: boolean yes/no for whether this shelfmark contains multiple small fragments of text
 	
-	Side: recto or verso, indicates which side of the fragment this document is composed on.
+	side: recto or verso, indicates which side of the fragment this document is composed on.
 	
-	Region: when multiple documents are composed on the same fragment, this field can be used to indicate which part of the fragment is associated with this PGPID. Many scholars use lower case letters (a, b, c) to indicate the correct region in reading order.
+	region: when multiple documents are composed on the same fragment, this field can be used to indicate which part of the fragment is associated with this PGPID. Many scholars use lower case letters (a, b, c) to indicate the correct region in reading order.
 	
-	Type: the PGP divides its material into 9 document types (credit/financial instrument, inscription, legal, legal query or responsa, letter, list or table, literary, paraliterary, and state). These types correspond to the form and content of the document. 
+	type: the PGP divides its material into 9 document types (credit/financial instrument, inscription, legal, legal query or responsa, letter, list or table, literary, paraliterary, and state). These types correspond to the form and content of the document. 
 	
-	Tags: tags added by research assistants interested in particular topics (such as medicine).
+	tags: tags added by research assistants interested in particular topics (such as medicine).
 	
-	Description: an English-language description of the document	
+	description: an English-language description of the document	
 	
-	Scholarship_records: list of associated secondary sources and editions of the document	
+	scholarship_records: list of associated secondary sources and editions of the document	
 	
-	Shelfmarks_historic: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).	
+	shelfmarks_historic: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).	
 	
-	Languages_primary: primary language(s) necessary to read the document
+	languages_primary: primary language(s) necessary to read the document
 	
-	Languages_secondary: noting additional languages the document occasionally uses
+	languages_secondary: noting additional languages the document occasionally uses
 	
-	Language_note: free text field to note strange use of diacritics, spellings, etc.	
+	language_note: free text field to note strange use of diacritics, spellings, etc.	
 	
-	Doc_date_original: the month and day listed on the document in its original form. Months are often from the Hebrew calendar and sometimes the Muslim calendar.
+	doc_date_original: the month and day listed on the document in its original form. Months are often from the Hebrew calendar and sometimes the Muslim calendar.
 	
-	Doc_date_calendar:  calendars from this period include the Jewish calendar (Anno Mundi), Seleucid calendar, Muslim calendar (Hijri), and the tax calendar (kharaji)
+	doc_date_calendar:  calendars from this period include the Jewish calendar (Anno Mundi), Seleucid calendar, Muslim calendar (Hijri), and the tax calendar (kharaji)
 	
-	Doc_date_standard: the date listed on the document converted to its equivalent in the Common Era. 	A slash is used to represent a range of dates.
+	doc_date_standard: the date listed on the document converted to its equivalent in the Common Era. 	A slash is used to represent a range of dates.
 	
-	Inferred_date_display: human legible version of scholar’s inferred dating of the document
+	inferred_date_display: human legible version of scholar’s inferred dating of the document
 	
-	Inferred_date_standard: computer legible version of scholar’s inferred dating of the document
+	inferred_date_standard: computer legible version of scholar’s inferred dating of the document
 	
-	Inferred_date_rationale: choice of options for why this dating is assumed: the coinage mentioned, person mentioned, paleographic features, event mentioned, or other.
+	inferred_date_rationale: choice of options for why this dating is assumed: the coinage mentioned, person mentioned, paleographic features, event mentioned, or other.
 	
-	Inferred_date_notes: additional explanation of why we should assume the document was written on this date/in this date range
+	inferred_date_notes: additional explanation of why we should assume the document was written on this date/in this date range
 	
-	Initial_entry: when this document was first added to the PGP
+	initial_entry: when this document was first added to the PGP
 	
-	Last_modified: most recent edit of the document in the database
+	last_modified: most recent edit of the document in the database
 	
-	Input_by: all users who have edited this database entry
+	input_by: all users who have edited this database entry
 	
-	Library: holding library of the fragment(s) this document is on
+	library: holding library of the fragment(s) this document is on
 	
-	Collection: collection within the library where fragment(s) are held	
+	collection: collection within the library where fragment(s) are held	
 	
-	Has_transcription: yes/no is there a digital edition on the PGP	
+	has_transcription: yes/no is there a digital edition on the PGP	
 	
-	Has_translation: yes/no is there a digital translation on the PGP
+	has_translation: yes/no is there a digital translation on the PGP
 
    Specialized formats or other abbreviations used: 
        The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
@@ -225,37 +225,37 @@ Specialized formats or other abbreviations used:
 
 3. Variable List: 
 
-	Shelfmark: the library’s name for the document and the name cited in scholarship	
+	shelfmark: the library’s name for the document and the name cited in scholarship	
 
-	Pgpids: the unique identifier(s) for the documents on this fragment
+	pgpids: the unique identifier(s) for the documents on this fragment
 	
-	Shelfmarks_historic: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).		
+	shelfmarks_historic: old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks).		
 	
-	Collection: abbreviated version of collection and library information as seen in the shelfmark
+	collection: abbreviated version of collection and library information as seen in the shelfmark
 	
-	Library: holding library of the fragment
+	library: holding library of the fragment
 	
-	Library_abbrev: abbreviation for the library name seen in shelfmarks and on the PGP
+	library_abbrev: abbreviation for the library name seen in shelfmarks and on the PGP
 	
-	Collection_name: collection within the library where fragment is held	
+	collection_name: collection within the library where fragment is held	
 	
-	Collection_abbrev: abbreviation for the library name seen in shelfmarks and on the PGP
+	collection_abbrev: abbreviation for the library name seen in shelfmarks and on the PGP
 	
-	Url: holding library’s page for this fragment, if available
+	url: holding library’s page for this fragment, if available
 	
-	Iiif_url: link to the fragment image IIIF manifest, if available
+	iiif_url: link to the fragment image IIIF manifest, if available
 	
-	Is_multifragment: yes/no if there are multiple fragments under the same shelfmark
+	is_multifragment: yes/no if there are multiple fragments under the same shelfmark
 	
-	Created: date of addition to current database	
+	created: date of addition to current database	
 	
-	Last_modified: date of last modification
+	last_modified: date of last modification
 
-	Provenance_display: source of the fragment (e.g. Geniza, non-Geniza ..etc)
+	provenance_display: source of the fragment (e.g. Geniza, non-Geniza ..etc)
 
-	Provenance: earliest known / publication history
+	provenance: earliest known / publication history
 
-	Material_support: the physical material from which the fragment is believed to be manufactured / made
+	material_support: the physical material from which the fragment is believed to be manufactured / made
 
 
 ## Data-specific information for: [sources]
@@ -267,41 +267,41 @@ Specialized formats or other abbreviations used:
 3. Variable List: 
 	(The information for sources are all intended to help populate a bibliographic entry)
 
-	Source_type: researchers select one type to describe the source: article, book, book section, dissertation, unpublished, or blog 
+	source_type: researchers select one type to describe the source: article, book, book section, dissertation, unpublished, or blog 
 	
-	Authors: name of the source author(s)	
+	authors: name of the source author(s)	
 	
-	Title: source’s title	
+	title: source’s title	
 	
-	Journal_book: name of the journal or book for articles and book sections	
+	journal_book: name of the journal or book for articles and book sections	
 	
-	Volume: volume number for journal articles
+	volume: volume number for journal articles
 	
-	Issue:  issue number for journal articles
+	issue:  issue number for journal articles
 	
-	Year: year of publication
+	year: year of publication
 	
-	Place_published: place of publication	
+	place_published: place of publication	
 	
-	Publisher: publisher of the source	
+	publisher: publisher of the source	
 	
-	Edition: publication edition, if applicable
+	edition: publication edition, if applicable
 	
-	Other_info: additional notes to help the researcher, such as the title of the work in Hebrew script
+	other_info: additional notes to help the researcher, such as the title of the work in Hebrew script
 	
-	Page_range: article and book chapter page numbers	
+	page_range: article and book chapter page numbers	
 	
-	Languages: language of the source (only for secondary scholarship and translations, not editions)
+	languages: language of the source (only for secondary scholarship and translations, not editions)
 	
-	Url: link to the source, if online
+	url: link to the source, if online
 	
-	Notes: additional notes on the source. Created from PGPID 1684 means that our database autogenerated the source from its appearance in a footnote on that document.
+	notes: additional notes on the source. Created from PGPID 1684 means that our database autogenerated the source from its appearance in a footnote on that document.
 	
-	Citation: the citation in full text
+	citation: the citation in full text
 
-	Slug: full text citation re-expressed in a URL-friendly format
+	slug: full text citation re-expressed in a URL-friendly format
 
-	Num_footnotes: the number of times this source is cited in document and person page footnotes.
+	num_footnotes: the number of times this source is cited in document and person page footnotes.
 
 
 ## Data-specific information for: [footnotes]
@@ -312,25 +312,25 @@ Specialized formats or other abbreviations used:
 
 3. Variable List: 
 
-	Document:  the name of the document or person page the footnote is featured on.
+	document:  the name of the document or person page the footnote is featured on.
 	
-	Document ID: the PGPID (for documents) or person identifier number (for database use only)
+	document_id: the PGPID (for documents) or person identifier number (for database use only)
 	
-	Source: the published or unpublished author and source of the footnoted content
+	source: the published or unpublished author and source of the footnoted content
 	
-	Source_slug: Re-expressing the name with continuous letters that may be used as part of a URL 
+	source_slug: Re-expressing the name with continuous letters that may be used as part of a URL 
 
-	Location: where in a published source this footnote derives from.
+	location: where in a published source this footnote derives from.
 	
-	Doc_relation: how is the footnote related to the document (discussion/translation/transcription)
+	doc_relation: how is the footnote related to the document (discussion/translation/transcription)
 	
-	Emendation: Revisions or corrections
+	emendation: Revisions or corrections
 
-	Notes: an open-text field, sometimes features additional information about the source or footnote. Often used to annotate digital editions, for example “with minor emendations by Alan Elbaum” means that Alan reviewed the digital edition and fixed a few spelling errors or populated words that would not have been visible to the original scholar working off of a photocopied image.
+	notes: an open-text field, sometimes features additional information about the source or footnote. Often used to annotate digital editions, for example “with minor emendations by Alan Elbaum” means that Alan reviewed the digital edition and fixed a few spelling errors or populated words that would not have been visible to the original scholar working off of a photocopied image.
 	
-	URL: link to the footnote’s source, if relevant. Mostly used for Goitein’s unpublished index cards and their discussions of documents.
+	url: link to the footnote’s source, if relevant. Mostly used for Goitein’s unpublished index cards and their discussions of documents.
 	
-	Content: the content of digital  transcriptions and translations for the document. 
+	content: the content of digital  transcriptions and translations for the document. 
 
 5. Specialized formats or other abbreviations used: 
 	Edition = published edition
@@ -346,33 +346,33 @@ Specialized formats or other abbreviations used:
 
 3. Variable List: 
 
-	Name: the main display name for the person
+	name: the main display name for the person
 	
-	Name_variants: additional names and spellings in different languages
+	name_variants: additional names and spellings in different languages
 	
 	gender	: male, female, or unknown
 	
-	Social_role: select from list: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official	
+	social_role: select from list: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official	
 	
-	Auto_date_range: date range of person’s life populated from dated documents the person is connected to.	
+	auto_date_range: date range of person’s life populated from dated documents the person is connected to.	
 	
-	Manual_date_range: scholar input date range of person’s life from non-Geniza sources
+	manual_date_range: scholar input date range of person’s life from non-Geniza sources
 	
-	Description: brief description of the person’s life or role in the documents
+	description: brief description of the person’s life or role in the documents
 	
-	Tags:  tags added by research assistants interested in particular topics (such as being an individual related to the Indian Ocean trade [IB])	
+	tags:  tags added by research assistants interested in particular topics (such as being an individual related to the Indian Ocean trade [IB])	
 	
-	Related_people_count: number of individuals this person is connected to.
+	related_people_count: number of individuals this person is connected to.
 	
-	Family_traces_roots_to: the place the person comes from, often known through their kunya (eg. Abū Naṣr al-Baṣrī	may not have been born in Basra, Iraq, but his name indicates his family was from there).
+	family_traces_roots_to: the place the person comes from, often known through their kunya (eg. Abū Naṣr al-Baṣrī	may not have been born in Basra, Iraq, but his name indicates his family was from there).
 	
-	Home_base: location where person lived
+	home_base: location where person lived
 	
 	traveled_to: known locations of travel for trade or pilgrimage
 	
-	Related_documents_count: number of documents associated with this person	
+	related_documents_count: number of documents associated with this person	
 	
-	Url: link to this person’s page on the PGP public site
+	url: link to this person’s page on the PGP public site
 
 
 ## Data-specific information for: [places]
@@ -383,25 +383,25 @@ Specialized formats or other abbreviations used:
 
 3. Variable List: 
 
-	Name: place name	
+	name: place name	
 	
-	Name_variants: additional names and spellings in different languages	
+	name_variants: additional names and spellings in different languages	
 	
-	Is_region: if the place is a region that might span multiple population clusters 
+	is_region: if the place is a region that might span multiple population clusters 
 
-	Coordinates: latitude and longitude
+	coordinates: latitude and longitude
 	
-	Geographic area: labeling the containing geographic territory
+	geographic area: labeling the containing geographic territory
 
-	Notes: notes, especially for places of unknown precise coordinates	
+	notes: notes, especially for places of unknown precise coordinates	
 	
-	Related_documents_count: number of documents associated with this place	
+	related_documents_count: number of documents associated with this place	
 	
-	Related_people_count: number of people associated with this place	
+	related_people_count: number of people associated with this place	
 	
-	Related_events_count: number of events associated with this place
+	related_events_count: number of events associated with this place
 	
-	Url: link to this place page on the PGP public site
+	url: link to this place page on the PGP public site
 
 ## About
 
