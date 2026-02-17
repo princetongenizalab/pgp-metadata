@@ -28,7 +28,7 @@
             "constraints": {
               "required": true
             },
-            "description": "PGP identifier",
+            "description": "unique identifier for the document",
             "format": "default",
             "title": "PGPID"
           },
@@ -36,20 +36,20 @@
             "name": "url",
             "type": "string",
             "format": "uri",
-            "description": "permalink; public view of this document on PGP website",
+            "description": "public view of this document on PGP  website",
             "title": "URL"
           },
           {
             "name": "iiif_urls",
             "type": "string",
-            "description": "URLs for one or more IIIF manifests, if available for associated fragments",
+            "description": "link to the document/fragment images if hosted in IIIF format",
             "format": "default",
             "title": "IIIF URLs"
           },
           {
             "name": "fragment_urls",
             "type": "string",
-            "description": "URLs to access associated fragments at owning library or museum site, if available",
+            "description": "link to the document/fragment images if hosted in format that is not IIIF",
             "format": "default",
             "title": "Fragment URLs"
           },
@@ -59,54 +59,55 @@
             "constraints": {
               "required": true
             },
-            "description": "shelfmark or combined shelfmarks for the fragments this document appears on",
+            "description": "the library’s name for the document and the name cited in scholarship",
             "format": "default",
             "title": "Shelfmark"
           },
           {
             "name": "multifragment",
             "type": "any",
-            "format": "default"
+            "format": "default",
+            "description": "yes/no for whether this shelfmark contains multiple small fragments of text"
           },
           {
             "name": "side",
             "type": "string",
-            "description": "sides of associated fragments where this document appears",
+            "description": "recto or verso, indicates which side of the fragment this document is composed on",
             "format": "default",
             "title": "Side"
           },
           {
             "name": "region",
             "type": "string",
-            "description": "label for region of fragment that document text occupies, for each associated fragment",
+            "description": "when multiple documents are composed on the same fragment, this field can be used to indicate which part of the fragment is associated with this PGPID. Many scholars use lower case letters (a, b, c) to indicate the correct region in reading order",
             "format": "default",
             "title": "Region"
           },
           {
             "name": "type",
             "type": "string",
-            "description": "type of document",
+            "description": "the PGP divides its material into 9 document types (credit/financial instrument, inscription, legal, legal query or responsa, letter, list or table, literary, paraliterary, and state). These types correspond to the form and content of the document",
             "format": "default",
             "title": "Document Type"
           },
           {
             "name": "tags",
             "type": "string",
-            "description": "delimited list of tags describing the document",
+            "description": "tags added by research assistants interested in particular topics (such as medicine)",
             "format": "default",
             "title": "Tags"
           },
           {
             "name": "description",
             "type": "string",
-            "description": "English-language text description summarizing the document",
+            "description": "an English-language description of the document",
             "format": "default",
             "title": "Description"
           },
           {
             "name": "scholarship_records",
             "type": "string",
-            "description": "short citations for known scholarship about this document",
+            "description": "list of associated secondary sources and editions of the document",
             "format": "default",
             "title": "Scholarship Records"
           },
@@ -115,47 +116,47 @@
             "type": "string",
             "format": "default",
             "title": "Historic Shelfmarks",
-            "description": "old and alternate ways of referring to this document"
+            "description": "old and alternate ways of referring to this document (to aid readers of older scholarly texts find the current shelfmarks)"
           },
           {
             "name": "languages_primary",
             "type": "string",
-            "description": "primary languages used in the text of this document",
+            "description": "primary language(s) necessary to read the document",
             "format": "default",
             "title": "Primary Languages"
           },
           {
             "name": "languages_secondary",
             "type": "string",
-            "description": "additional languages used in the text of this document",
+            "description": "noting additional languages the document occasionally uses",
             "format": "default",
             "title": "Secondary Languages"
           },
           {
             "name": "language_note",
             "type": "string",
-            "description": "additional information about the languages or scripts used in this document",
+            "description": "free text field to note strange use of diacritics, spellings, etc.",
             "format": "default",
             "title": "Language Notes"
           },
           {
             "name": "doc_date_original",
             "type": "string",
-            "description": "the document's date in its original form",
+            "description": "the month and day listed on the document in its original form. Months are often from the Hebrew calendar and sometimes the Muslim calendar",
             "format": "default",
             "title": "Date on Document"
           },
           {
             "name": "doc_date_calendar",
             "type": "string",
-            "description": "calendar used in original document date",
+            "description": "calendars from this period include the Jewish calendar (Anno Mundi), Seleucid calendar, Muslim calendar (Hijri), and the tax calendar (kharaji)",
             "format": "default",
             "title": "Calendar of Date on Document"
           },
           {
             "name": "doc_date_standard",
             "type": "string",
-            "description": "date on document, standardized - CE date (Julian before 1582, Gregorian after 1582)",
+            "description": "the date listed on the document converted to its equivalent in the Common Era. \tA slash is used to represent a range of dates.",
             "format": "default",
             "title": "Standardized Document Date"
           },
@@ -163,7 +164,7 @@
             "name": "inferred_date_display",
             "type": "string",
             "format": "default",
-            "description": "scholar's inference of when document was composed",
+            "description": "computer legible version of scholar’s inferred dating of the document",
             "title": "Inferred Dating of Document"
           },
           {
@@ -171,61 +172,61 @@
             "type": "string",
             "format": "default",
             "title": "Inferred Dating of document, Standardized",
-            "description": "scholar's dating inference, standardized to the CE"
+            "description": "computer legible version of scholar’s inferred dating of the document"
           },
           {
             "name": "inferred_date_rationale",
             "type": "string",
             "format": "default",
             "title": "Inferred Date Rationale",
-            "description": "why scholar makes the inferred date: paleography, person mentioned, etc."
+            "description": "choice of options for why this dating is assumed: the coinage mentioned, person mentioned, paleographic features, event mentioned, or other."
           },
           {
             "name": "inferred_date_notes",
             "type": "string",
             "format": "default",
             "title": "Inferred Date Notes",
-            "description": "further comments on scholar's choice for dating the document."
+            "description": "additional explanation of why we should assume the document was written on this date/in this date range"
           },
           {
             "name": "initial_entry",
             "type": "datetime",
-            "description": "date document was added to PGP",
+            "description": "when this document was first added to the PGP",
             "format": "default",
             "title": "Initial Entry into PGP"
           },
           {
             "name": "last_modified",
             "type": "datetime",
-            "description": "date document was last modified in PGP",
+            "description": "most recent edit of the document in the database",
             "format": "default",
             "title": "Entry Last Modified"
           },
           {
             "name": "input_by",
             "type": "string",
-            "description": "researchers who contributed to the metadata for this document",
+            "description": "all users who have edited this database entry",
             "format": "default",
             "title": "Input By"
           },
           {
             "name": "library",
             "type": "string",
-            "description": "library location/ownership for associated fragments",
+            "description": "holding library of the fragment(s) this document is on",
             "format": "default",
             "title": "Library"
           },
           {
             "name": "collection",
             "type": "string",
-            "description": "library collection for associated fragments",
+            "description": "collection within the library where fragment(s) are held",
             "format": "default",
             "title": "Library Collection"
           },
           {
             "type": "boolean",
             "name": "has_transcription",
-            "description": "boolean indicator if document has transcription available",
+            "description": "yes/no is there a digital edition on the PGP",
             "trueValues": [
               "Y"
             ],
@@ -241,7 +242,7 @@
           {
             "type": "boolean",
             "name": "has_translation",
-            "description": "boolean indicator if document has translation available",
+            "description": "yes/no is there a digital translation on the PGP",
             "trueValues": [
               "Y"
             ],

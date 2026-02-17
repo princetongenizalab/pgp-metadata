@@ -155,7 +155,7 @@ Specialized formats or other abbreviations used:
 
 	pgpid: unique identifier for the document
 	
-	url: permalink; public view of this document on PGP  website	
+	url: public view of this document on PGP  website	
 	
 	iiif_urls: link to the document/fragment images if hosted in IIIF format
 	
@@ -163,7 +163,7 @@ Specialized formats or other abbreviations used:
 	
 	shelfmark: the library’s name for the document and the name cited in scholarship	
 	
-	multifragment: boolean yes/no for whether this shelfmark contains multiple small fragments of text
+	multifragment: yes/no for whether this shelfmark contains multiple small fragments of text
 	
 	side: recto or verso, indicates which side of the fragment this document is composed on.
 	
