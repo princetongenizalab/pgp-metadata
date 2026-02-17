@@ -587,52 +587,62 @@
           {
             "name": "name",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "place name"
           },
           {
             "name": "name_variants",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "additional names and spellings in different languages"
           },
           {
             "name": "is_region",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "if the place is a region that might span multiple population clusters"
           },
           {
             "name": "coordinates",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "latitude and longitude"
           },
           {
             "name": "geographic_area",
             "type": "any",
-            "format": "default"
+            "format": "default",
+            "description": "labeling the containing geographic territory"
           },
           {
             "name": "notes",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "notes, especially for places of unknown precise coordinates"
           },
           {
             "name": "related_documents_count",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "number of documents associated with this place"
           },
           {
             "name": "related_people_count",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "number of people associated with this place"
           },
           {
             "name": "related_events_count",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "number of events associated with this place"
           },
           {
             "name": "url",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "link to this place page on the PGP public site"
           }
         ]
       },
@@ -653,92 +663,110 @@
           {
             "name": "source_type",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "researchers select one type to describe the source: article, book, book section, dissertation, unpublished, or blog"
           },
           {
             "name": "authors",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "name of the source author(s)"
           },
           {
             "name": "title",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "source’s title"
           },
           {
             "name": "journal_book",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "name of the journal or book for articles and book sections"
           },
           {
             "name": "volume",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "volume number for journal articles"
           },
           {
             "name": "issue",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "issue number for journal articles"
           },
           {
             "name": "year",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "year of publication"
           },
           {
             "name": "place_published",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "place of publication"
           },
           {
             "name": "publisher",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "publisher of the source"
           },
           {
             "name": "edition",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "publication edition, if applicable"
           },
           {
             "name": "other_info",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "additional notes to help the researcher, such as the title of the work in Hebrew script"
           },
           {
             "name": "page_range",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "article and book chapter page numbers"
           },
           {
             "name": "languages",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "language of the source (only for secondary scholarship and translations, not editions)"
           },
           {
             "name": "url",
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "link to the source, if online"
           },
           {
             "name": "notes",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "additional notes on the source. Created from PGPID 1684 means that our database autogenerated the source from its appearance in a footnote on that document."
           },
           {
             "name": "citation",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "the citation in full text"
           },
           {
             "name": "slug",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "full text citation re-expressed in a URL-friendly format"
           },
           {
             "name": "num_footnotes",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "the number of times this source is cited in document and person page footnotes."
           }
         ],
         "missingValues": [
