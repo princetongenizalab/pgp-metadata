@@ -480,7 +480,7 @@
             "name": "social_roles",
             "type": "string",
             "format": "default",
-            "description": "select from list: Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official\t"
+            "description": "Enslaved person, Jewish communal official, Jewish community member, Muslim judicial official, Other, State official"
           },
           {
             "name": "auto_date_range",
