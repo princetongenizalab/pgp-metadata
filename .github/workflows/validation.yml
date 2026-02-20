@@ -19,7 +19,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Install frictionless python package
+        run: uv pip install frictionless
       - name: Validate data
-        uses: frictionlessdata/frictionless-ci@v2
-        with:
-          packages: "pgp_datapackage.json"
+        run: uv run frictionless validate pgp_datapackage.json
