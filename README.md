@@ -1,4 +1,6 @@
-# PGP Metadata
+# Princeton Geniza Project Datasets
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1583905.svg)](https://doi.org/10.5281/zenodo.15839055)
 
 This readme file was drafted 2025-04 by Rachel Richman and reviewed by Mohamed Abdellatif. Revised and updated 2026-02 by Mohamed Abdellatif. Reviewed by Rebecca Koeser.
 
