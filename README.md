@@ -151,7 +151,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 30
 
-2. Number of cases/rows: 41,230
+2. Number of cases/rows: 35,855
 
 3. Variable List: 
 
@@ -223,7 +223,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 16
 
-2. Number of cases/rows: 36,171
+2. Number of cases/rows: 36,172
 
 3. Variable List: 
 
@@ -264,7 +264,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 18
    
-2. Number of cases/rows: 729
+2. Number of cases/rows: 712
    
 3. Variable List: 
 	(The information for sources are all intended to help populate a bibliographic entry)
@@ -310,7 +310,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 10
 
-2. Number of cases/rows: 24,403
+2. Number of cases/rows: 24,412
 
 3. Variable List: 
 
@@ -334,7 +334,7 @@ Specialized formats or other abbreviations used:
 	
 	content: the content of digital  transcriptions and translations for the document. 
 
-5. Specialized formats or other abbreviations used: 
+    Specialized formats or other abbreviations used: 
 	Edition = published edition
 
 	Digital edition = a published or unpublished edition of the document’s text that has been input online. May reflect changes since original publication.
@@ -344,7 +344,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 14
 
-2. Number of cases/rows: 1,772
+2. Number of cases/rows: 1,802
 
 3. Variable List: 
 
