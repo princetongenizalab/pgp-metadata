@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Princetion Geniza Project datasets
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Marina
+    family-names: Rustow
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0003-4510-2388'
+  - given-names: Rebecca Sutton
+    family-names: Koeser
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0002-8762-8057'
+  - given-names: Rachel
+    family-names: Richman
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0001-7211-7185'
+  - given-names: Ksenia
+    family-names: Ryzhova
+    orcid: 'https://orcid.org/0000-0002-9349-6097'
+    affiliation: Princeton University
+  - given-names: Amel
+    family-names: Bensalim
+    orcid: 'https://orcid.org/0009-0006-7468-8540'
+    affiliation: Princeton University
+  - orcid: 'https://orcid.org/0009-0007-7726-0766'
+    given-names: Mohamed
+    family-names: Abdellatif
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0009-0007-7726-0766'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15839055
+repository-code: 'https://github.com/princetongenizalab/pgp-metadata/'
+url: 'https://geniza.princeton.edu/'
+license: CC-BY-NC-4.0
+version: '1.1'
+date-released: '2026-02-20'

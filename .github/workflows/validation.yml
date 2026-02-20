@@ -1,0 +1,23 @@
+name: validation
+
+on:
+  # run on all pull requests
+  pull_request:
+  # scheduled validation won't work if datapackage includes number of rows
+  # is running it regularly useful to alert to changes in structure?
+  # schedule:
+  #  schedule: # run automatically on main branch each Tuesday at 11am
+  #   - cron: "0 16 * * 2"
+
+jobs:
+
+  # Validate
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Validate data
+        run: uv tool run frictionless validate pgp_datapackage.json
