@@ -19,7 +19,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 30,
-      "rows": 35850,
+      "rows": 35852,
       "schema": {
         "fields": [
           {
@@ -272,7 +272,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 10,
-      "rows": 24400,
+      "rows": 24403,
       "schema": {
         "fields": [
           {
@@ -347,6 +347,13 @@
             "resource": "documents",
             "fields": "pgpid"
           }
+        },
+        {
+          "fields": "source_slug",
+          "reference": {
+            "resource": "sources",
+            "fields": "slug"
+          }
         }
       ],
       "profile": "tabular-data-resource"
@@ -366,9 +373,6 @@
           {
             "name": "shelfmark",
             "type": "string",
-            "constraints": {
-              "required": true
-            },
             "format": "default",
             "description": "the library’s name for the document and the name cited in scholarship"
           },
@@ -481,7 +485,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 14,
-      "rows": 1771,
+      "rows": 1772,
       "schema": {
         "fields": [
           {
@@ -581,7 +585,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 10,
-      "rows": 485,
+      "rows": 486,
       "schema": {
         "fields": [
           {
@@ -769,6 +773,7 @@
             "description": "the number of times this source is cited in document and person page footnotes."
           }
         ],
+        "primaryKey": "slug",
         "missingValues": [
           ""
         ]
