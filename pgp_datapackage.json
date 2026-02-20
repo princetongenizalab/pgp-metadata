@@ -262,101 +262,7 @@
       },
       "profile": "tabular-data-resource"
     },
-    {
-      "name": "footnotes",
-      "type": "table",
-      "path": "data/footnotes.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8-sig",
-      "fields": 10,
-      "schema": {
-        "fields": [
-          {
-            "name": "document",
-            "type": "string",
-            "format": "default",
-            "description": "the name of the document or person page the footnote is featured on"
-          },
-          {
-            "name": "document_id",
-            "type": "integer",
-            "format": "default",
-            "description": "the PGPID (for documents) or person identifier number (for database use only)"
-          },
-          {
-            "name": "source",
-            "type": "string",
-            "format": "default",
-            "description": "the published or unpublished author and source of the footnoted content"
-          },
-          {
-            "name": "source_slug",
-            "type": "string",
-            "format": "default",
-            "description": "Re-expressing the name with continuous letters that may be used as part of a URL"
-          },
-          {
-            "name": "location",
-            "type": "string",
-            "format": "default",
-            "description": "where in a published source this footnote derives from."
-          },
-          {
-            "name": "doc_relation",
-            "type": "string",
-            "format": "default",
-            "description": "how is the footnote related to the document (discussion/translation/transcription)"
-          },
-          {
-            "name": "emendations",
-            "type": "string",
-            "format": "default",
-            "description": "Revisions or corrections"
-          },
-          {
-            "name": "notes",
-            "type": "string",
-            "format": "default",
-            "description": "an open-text field, sometimes features additional information about the source or footnote. Often used to annotate digital editions, for example “with minor emendations by Alan Elbaum” means that Alan reviewed the digital edition and fixed a few spelling errors or populated words that would not have been visible to the original scholar working off of a photocopied image."
-          },
-          {
-            "name": "url",
-            "format": "uri",
-            "type": "string",
-            "description": "link to the footnote’s source, if relevant. Mostly used for Goitein’s unpublished index cards and their discussions of documents"
-          },
-          {
-            "name": "content",
-            "type": "string",
-            "format": "default",
-            "description": "the content of digital  transcriptions and translations for the document."
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
-      },
-      "foreignKeys": [
-        {
-          "fields": "document_id",
-          "reference": {
-            "resource": "documents",
-            "fields": "pgpid"
-          }
-        },
-        {
-          "fields": "source_slug",
-          "reference": {
-            "resource": "sources",
-            "fields": "slug"
-          }
-        }
-      ],
-      "profile": "tabular-data-resource"
-    },
-    {
+       {
       "name": "fragments",
       "type": "table",
       "path": "data/fragments.csv",
@@ -471,6 +377,227 @@
           ""
         ]
       },
+      "profile": "tabular-data-resource"
+    },
+        {
+      "name": "sources",
+      "type": "table",
+      "path": "data/sources.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 18,
+      "schema": {
+        "fields": [
+          {
+            "name": "source_type",
+            "type": "string",
+            "format": "default",
+            "description": "researchers select one type to describe the source: article, book, book section, dissertation, unpublished, or blog"
+          },
+          {
+            "name": "authors",
+            "type": "string",
+            "format": "default",
+            "description": "name of the source author(s)"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "format": "default",
+            "description": "source’s title"
+          },
+          {
+            "name": "journal_book",
+            "type": "string",
+            "format": "default",
+            "description": "name of the journal or book for articles and book sections"
+          },
+          {
+            "name": "volume",
+            "type": "string",
+            "format": "default",
+            "description": "volume number for journal articles"
+          },
+          {
+            "name": "issue",
+            "type": "integer",
+            "format": "default",
+            "description": "issue number for journal articles"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default",
+            "description": "year of publication"
+          },
+          {
+            "name": "place_published",
+            "type": "string",
+            "format": "default",
+            "description": "place of publication"
+          },
+          {
+            "name": "publisher",
+            "type": "string",
+            "format": "default",
+            "description": "publisher of the source"
+          },
+          {
+            "name": "edition",
+            "type": "integer",
+            "format": "default",
+            "description": "publication edition, if applicable"
+          },
+          {
+            "name": "other_info",
+            "type": "string",
+            "format": "default",
+            "description": "additional notes to help the researcher, such as the title of the work in Hebrew script"
+          },
+          {
+            "name": "page_range",
+            "type": "string",
+            "format": "default",
+            "description": "article and book chapter page numbers"
+          },
+          {
+            "name": "languages",
+            "type": "string",
+            "format": "default",
+            "description": "language of the source (only for secondary scholarship and translations, not editions)"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "uri",
+            "description": "link to the source, if online"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "format": "default",
+            "description": "additional notes on the source. Created from PGPID 1684 means that our database autogenerated the source from its appearance in a footnote on that document."
+          },
+          {
+            "name": "citation",
+            "type": "string",
+            "format": "default",
+            "description": "the citation in full text"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "format": "default",
+            "description": "full text citation re-expressed in a URL-friendly format"
+          },
+          {
+            "name": "num_footnotes",
+            "type": "integer",
+            "format": "default",
+            "description": "the number of times this source is cited in document and person page footnotes."
+          }
+        ],
+        "primaryKey": "slug",
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "footnotes",
+      "type": "table",
+      "path": "data/footnotes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "fields": 10,
+      "schema": {
+        "fields": [
+          {
+            "name": "document",
+            "type": "string",
+            "format": "default",
+            "description": "the name of the document or person page the footnote is featured on"
+          },
+          {
+            "name": "document_id",
+            "type": "integer",
+            "format": "default",
+            "description": "the PGPID (for documents) or person identifier number (for database use only)"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default",
+            "description": "the published or unpublished author and source of the footnoted content"
+          },
+          {
+            "name": "source_slug",
+            "type": "string",
+            "format": "default",
+            "description": "Re-expressing the name with continuous letters that may be used as part of a URL"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "format": "default",
+            "description": "where in a published source this footnote derives from."
+          },
+          {
+            "name": "doc_relation",
+            "type": "string",
+            "format": "default",
+            "description": "how is the footnote related to the document (discussion/translation/transcription)"
+          },
+          {
+            "name": "emendations",
+            "type": "string",
+            "format": "default",
+            "description": "Revisions or corrections"
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "format": "default",
+            "description": "an open-text field, sometimes features additional information about the source or footnote. Often used to annotate digital editions, for example “with minor emendations by Alan Elbaum” means that Alan reviewed the digital edition and fixed a few spelling errors or populated words that would not have been visible to the original scholar working off of a photocopied image."
+          },
+          {
+            "name": "url",
+            "format": "uri",
+            "type": "string",
+            "description": "link to the footnote’s source, if relevant. Mostly used for Goitein’s unpublished index cards and their discussions of documents"
+          },
+          {
+            "name": "content",
+            "type": "string",
+            "format": "default",
+            "description": "the content of digital  transcriptions and translations for the document."
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "foreignKeys": [
+        {
+          "fields": "document_id",
+          "reference": {
+            "resource": "documents",
+            "fields": "pgpid"
+          }
+        },
+        {
+          "fields": "source_slug",
+          "reference": {
+            "resource": "sources",
+            "fields": "slug"
+          }
+        }
+      ],
       "profile": "tabular-data-resource"
     },
     {
@@ -643,133 +770,6 @@
             "format": "default",
             "description": "link to this place page on the PGP public site"
           }
-        ]
-      },
-      "profile": "tabular-data-resource"
-    },
-    {
-      "name": "sources",
-      "type": "table",
-      "path": "data/sources.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8-sig",
-      "fields": 18,
-      "schema": {
-        "fields": [
-          {
-            "name": "source_type",
-            "type": "string",
-            "format": "default",
-            "description": "researchers select one type to describe the source: article, book, book section, dissertation, unpublished, or blog"
-          },
-          {
-            "name": "authors",
-            "type": "string",
-            "format": "default",
-            "description": "name of the source author(s)"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "format": "default",
-            "description": "source’s title"
-          },
-          {
-            "name": "journal_book",
-            "type": "string",
-            "format": "default",
-            "description": "name of the journal or book for articles and book sections"
-          },
-          {
-            "name": "volume",
-            "type": "string",
-            "format": "default",
-            "description": "volume number for journal articles"
-          },
-          {
-            "name": "issue",
-            "type": "integer",
-            "format": "default",
-            "description": "issue number for journal articles"
-          },
-          {
-            "name": "year",
-            "type": "integer",
-            "format": "default",
-            "description": "year of publication"
-          },
-          {
-            "name": "place_published",
-            "type": "string",
-            "format": "default",
-            "description": "place of publication"
-          },
-          {
-            "name": "publisher",
-            "type": "string",
-            "format": "default",
-            "description": "publisher of the source"
-          },
-          {
-            "name": "edition",
-            "type": "integer",
-            "format": "default",
-            "description": "publication edition, if applicable"
-          },
-          {
-            "name": "other_info",
-            "type": "string",
-            "format": "default",
-            "description": "additional notes to help the researcher, such as the title of the work in Hebrew script"
-          },
-          {
-            "name": "page_range",
-            "type": "string",
-            "format": "default",
-            "description": "article and book chapter page numbers"
-          },
-          {
-            "name": "languages",
-            "type": "string",
-            "format": "default",
-            "description": "language of the source (only for secondary scholarship and translations, not editions)"
-          },
-          {
-            "name": "url",
-            "type": "string",
-            "format": "uri",
-            "description": "link to the source, if online"
-          },
-          {
-            "name": "notes",
-            "type": "string",
-            "format": "default",
-            "description": "additional notes on the source. Created from PGPID 1684 means that our database autogenerated the source from its appearance in a footnote on that document."
-          },
-          {
-            "name": "citation",
-            "type": "string",
-            "format": "default",
-            "description": "the citation in full text"
-          },
-          {
-            "name": "slug",
-            "type": "string",
-            "format": "default",
-            "description": "full text citation re-expressed in a URL-friendly format"
-          },
-          {
-            "name": "num_footnotes",
-            "type": "integer",
-            "format": "default",
-            "description": "the number of times this source is cited in document and person page footnotes."
-          }
-        ],
-        "primaryKey": "slug",
-        "missingValues": [
-          ""
         ]
       },
       "profile": "tabular-data-resource"
