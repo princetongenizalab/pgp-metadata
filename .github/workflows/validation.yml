@@ -1,15 +1,13 @@
 name: validation
 
 on:
+  # run on all pull requests
   pull_request:
-    branches:
-      - main
   # scheduled validation won't work if datapackage includes number of rows
   # is running it regularly useful to alert to changes in structure?
   # schedule:
   #  schedule: # run automatically on main branch each Tuesday at 11am
   #   - cron: "0 16 * * 2"
-
 
 jobs:
 
