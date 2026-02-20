@@ -32,6 +32,7 @@ authors:
     given-names: Mohamed
     family-names: Abdellatif
     affiliation: Princeton University
+    orcid: 'https://orcid.org/0009-0007-7726-0766'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15839055
