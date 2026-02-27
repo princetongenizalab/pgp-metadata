@@ -19,7 +19,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 30,
-      "rows": 35855,
       "schema": {
         "fields": [
           {
@@ -272,7 +271,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 16,
-      "rows": 36172,
       "schema": {
         "fields": [
           {
@@ -390,7 +388,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 18,
-      "rows": 712,
       "schema": {
         "fields": [
           {
@@ -518,7 +515,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 10,
-      "rows": 24412,
       "schema": {
         "fields": [
           {
@@ -613,7 +609,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 14,
-      "rows": 1802,
       "schema": {
         "fields": [
           {
@@ -713,7 +708,6 @@
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
       "fields": 10,
-      "rows": 486,
       "schema": {
         "fields": [
           {
