@@ -7,14 +7,14 @@ Abwān (near al-Ushmūnayn),,N,"28° 24′ 1″ N, 30° 43′ 32″ E",,,1,0,0,h
 Abyār,Ibyār,N,"30° 50′ 7″ N, 30° 52′ 2″ E",,,13,0,0,https://geniza.princeton.edu/places/abyar/
 Abyssinia (region),"al-Ḥabash (region), אלחבש (region)",Y,"12° 1′ 54″ N, 39° 2′ 27″ E",,Abyssinia is a region more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela until the PGP is able to handle regions.,1,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا",N,"32° 55′ 40″ N, 35° 4′ 54″ E",,,52,1,0,https://geniza.princeton.edu/places/acre/
-Aden,"ʿAdan, עדן, عدن",N,"12° 47′ 28″ N, 44° 59′ 7″ E",,,98,18,1,https://geniza.princeton.edu/places/aden/
+Aden,"ʿAdan, עדן, عدن",N,"12° 47′ 28″ N, 44° 59′ 7″ E",,,99,18,1,https://geniza.princeton.edu/places/aden/
 Adminna,"Adiminne, Adiminnen, Adminne, Arminna, Arminne, Armínney",N,"22° 27′ 32″ N, 31° 50′ 12″ E",,A town located just south of Ibrīm. It is now underwater as a result of the building of the Aswan High Dam.,1,0,0,https://geniza.princeton.edu/places/adminne/
 Ahwāz,Hormshir,N,"31° 19′ 5″ N, 48° 40′ 14″ E",,,4,0,0,https://geniza.princeton.edu/places/ahwaz/
 Akhmīm,Ikhmīm,N,"26° 33′ 46″ N, 31° 44′ 39″ E",,,9,0,0,https://geniza.princeton.edu/places/akhmim/
 Akhziv,Ajzib,N,"33° 2′ 54″ N, 35° 6′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/akhziv/
 al-ʿAlāqma,العلاقمة,N,"30° 37′ 33″ N, 31° 38′ 8″ E",,,2,0,0,https://geniza.princeton.edu/places/al-alaqma/
 Al-ʿAlawiyya,אלעלויה,N,,,Unidentified locality near Gush Ḥalav (Jīsh).,1,0,0,https://geniza.princeton.edu/places/al-alawiyya/
-al-Andalus,"Sefarad, Spain, אלאנדלוס, الأندلس",N,,,Region,48,1,0,https://geniza.princeton.edu/places/al-andalus/
+al-Andalus,"Sefarad, Spain, אלאנדלוס, الأندلس",N,,,Region,48,2,0,https://geniza.princeton.edu/places/al-andalus/
 al-ʿArīsh,,N,"31° 7′ 55″ N, 33° 48′ 7″ E",,,3,0,0,https://geniza.princeton.edu/places/al-arish/
 al-ʿAṣāfira,,N,"31° 10′ 12″ N, 32° 0′ 42″ E",,,1,0,0,https://geniza.princeton.edu/places/al-asafira/
 al-Bahnasā,"Oxyrhynchus, אלבהנסא, البهنسا, Ὀξυρρυγχος, ⲡⲉⲙϫⲉ",N,"28° 31′ 51″ N, 30° 38′ 49″ E",,,8,0,0,https://geniza.princeton.edu/places/al-bahnasa/
@@ -186,7 +186,7 @@ Dubrovnik,"Ragusa (Adriatic Coast), רגוסה",N,"42° 38′ 27″ N, 18° 6′
 Edessa,al-Ruhāʾ,N,"37° 9′ 29″ N, 38° 47′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/edessa/
 Edfu,"Idfū, اتفو, ادفو",N,"24° 58′ 45″ N, 32° 52′ 33″ E",,,1,0,0,https://geniza.princeton.edu/places/edfu/
 Edirne,Adrianople,N,"41° 40′ 36″ N, 26° 33′ 19″ E",,,1,0,0,https://geniza.princeton.edu/places/edirne/
-Egypt (region),,Y,,,,58,0,0,https://geniza.princeton.edu/places/egypt-region/
+Egypt (region),,Y,,,,59,0,0,https://geniza.princeton.edu/places/egypt-region/
 England (region),"İngiltere, انكلتره",Y,"51° 37′ 11″ N, 0° 36′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/england-region/
 Ereṣ Yisraʾel,ארץ ישראל,Y,"31° 42′ 35″ N, 34° 49′ 28″ E",,,12,0,0,https://geniza.princeton.edu/places/eretz-yisra-el/
 Erkinun,"Argeen, Arqin",N,"21° 59′ 47″ N, 31° 17′ 22″ E",,A town in the frontier zone between Egypt and Nubia. It is located just north of Wādī Ḥalfa on the western bank of the Nile.,1,2,0,https://geniza.princeton.edu/places/erkinun/
@@ -230,7 +230,7 @@ Hebron,"חברון, الخليل",N,"31° 31′ 45″ N, 35° 5′ 37″ E",,,21
 Homs,"حمص, Ḥimṣ",N,"34° 43′ 57″ N, 36° 42′ 48″ E",,,6,0,0,https://geniza.princeton.edu/places/homs/
 Ibrīm,"Qalʿat Ibrīm, Qaṣr Ibrīm",N,"22° 38′ 58″ N, 31° 59′ 34″ E",,,12,4,0,https://geniza.princeton.edu/places/ibrim/
 Imbāba,,N,"30° 5′ 33″ N, 31° 12′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/imbaba/
-India,"אלהנד, الهند",N,,,Region,34,1,0,https://geniza.princeton.edu/places/india/
+India,"אלהנד, الهند",N,,,Region,35,1,0,https://geniza.princeton.edu/places/india/
 Iraq,,Y,"32° 47′ 59″ N, 44° 17′ 59″ E",,,6,0,0,https://geniza.princeton.edu/places/iraq/
 Iṣfahān,اصفهان,N,"32° 40′ 4″ N, 51° 40′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/isfahan/
 Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,9,0,0,https://geniza.princeton.edu/places/izmir/
@@ -486,7 +486,7 @@ Wardūnyā,,N,"33° 22′ 52″ N, 44° 20′ 34″ E",,"A NW suburb of Baghdad.
 Wārjalān,Ouargla,N,"31° 56′ 57″ N, 5° 19′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,N,"32° 11′ 16″ N, 46° 17′ 52″ E",,,2,0,0,https://geniza.princeton.edu/places/wasit/
 Yazd,,N,"31° 51′ 35″ N, 54° 19′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/yazd/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,42,3,1,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,42,4,1,https://geniza.princeton.edu/places/yemen/
 Zabīd,,N,"14° 11′ 59″ N, 43° 19′ 19″ E",,,4,0,0,https://geniza.princeton.edu/places/zabid/
 Zagreb,Agram,N,"45° 48′ 53″ N, 15° 58′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/zagreb/
 Zakynthos,Zante,N,"37° 46′ 48″ N, 20° 53′ 41″ E",,,1,0,0,https://geniza.princeton.edu/places/zakynthos/
