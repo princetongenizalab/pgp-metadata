@@ -24,7 +24,7 @@ al-Bashmūr,"אלבשמור, البشمور",Y,"31° 18′ 36″ N, 31° 3′ 48
 Al-Dāmūr,,N,"33° 43′ 52″ N, 35° 27′ 22″ E",,,1,0,0,https://geniza.princeton.edu/places/al-damur/
 Al-Daqahliyya (region),,Y,"31° 15′ 57″ N, 31° 37′ 37″ E",,,1,0,0,https://geniza.princeton.edu/places/al-daqahliyya-region/
 Aleppo,"חלב, צובה, حلب",N,"36° 13′ 0″ N, 37° 10′ 0″ E",,,64,3,0,https://geniza.princeton.edu/places/aleppo/
-Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,812,45,1,https://geniza.princeton.edu/places/alexandria/
+Alexandria,"אלאסכנדריה, נא אמון, الإسكندرية",N,"31° 12′ 16″ N, 29° 52′ 48″ E",,,813,45,1,https://geniza.princeton.edu/places/alexandria/
 al-Farmā,الفرما,N,"31° 3′ 0″ N, 32° 36′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/al-farma/
 al-Fashn,"الفشن, ⲡⲃⲏϣⲛ",N,"28° 49′ 21″ N, 30° 53′ 57″ E",,,1,0,0,https://geniza.princeton.edu/places/al-fashn/
 al-Fayyūm,"אלפיום, אלפייום",Y,"29° 18′ 8″ N, 30° 53′ 31″ E",,,37,1,0,https://geniza.princeton.edu/places/al-fayyum/
@@ -428,7 +428,8 @@ Sindiyūn (near Fuwwa),سنديون,N,"31° 13′ 46″ N, 30° 30′ 43″ E",,
 Sindiyūn (near Qalyūb),"סנדיון, سنديون",N,"30° 14′ 56″ N, 31° 12′ 20″ E",,,2,0,0,https://geniza.princeton.edu/places/sindiyun-near-qalyub/
 Sindsīs,"סנדסיס, سندسيس",N,"31° 0′ 50″ N, 31° 8′ 1″ E",,,1,0,0,https://geniza.princeton.edu/places/sindsis/
 Sinnūris,"Sannūris, Sanūris",N,"29° 24′ 49″ N, 30° 52′ 5″ E",al-Fayyūm,"For details on this village, see the references in Rapoport and Shahar, Villages of the Fayyūm, 159n207.",5,0,0,https://geniza.princeton.edu/places/sinnuris/
-Sirsinā,سرسنا,N,"29° 23′ 56″ N, 30° 57′ 53″ E",al-Fayyūm,,2,0,0,https://geniza.princeton.edu/places/sirsina/
+Sirsinā (Fayyūm),سرسنا,N,"29° 23′ 56″ N, 30° 57′ 53″ E",al-Fayyūm,,0,0,0,https://geniza.princeton.edu/places/sirsina/
+Sirsinā (delta),,N,"30° 36′ 0″ N, 30° 54′ 28″ E",,,2,0,0,https://geniza.princeton.edu/places/sirsina-delta/
 Sirte,"Surt, Syrte, סרת, سرت",N,"31° 12′ 17″ N, 16° 35′ 18″ E",,,1,0,0,https://geniza.princeton.edu/places/sirte/
 Siṭṭāt,سطات,N,"33° 0′ 9″ N, 7° 37′ 10″ W",,,2,0,0,https://geniza.princeton.edu/places/sittat/
 Sīwa,"Santariyya, סנתריה, سنترية, سيوة",N,"29° 12′ 18″ N, 25° 31′ 9″ E",,,2,0,0,https://geniza.princeton.edu/places/siwa/
