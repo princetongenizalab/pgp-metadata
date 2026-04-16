@@ -14,7 +14,7 @@ Akhmīm,Ikhmīm,N,"26° 33′ 46″ N, 31° 44′ 39″ E",,,9,0,0,https://geniz
 Akhziv,Ajzib,N,"33° 2′ 54″ N, 35° 6′ 7″ E",,,1,0,0,https://geniza.princeton.edu/places/akhziv/
 al-ʿAlāqma,العلاقمة,N,"30° 37′ 33″ N, 31° 38′ 8″ E",,,2,0,0,https://geniza.princeton.edu/places/al-alaqma/
 Al-ʿAlawiyya,אלעלויה,N,,,Unidentified locality near Gush Ḥalav (Jīsh).,1,0,0,https://geniza.princeton.edu/places/al-alawiyya/
-al-Andalus,"Sefarad, Spain, אלאנדלוס, الأندلس",N,,,Region,48,2,0,https://geniza.princeton.edu/places/al-andalus/
+al-Andalus,"Sefarad, Spain, אלאנדלוס, الأندلس",Y,,,,48,2,0,https://geniza.princeton.edu/places/al-andalus/
 al-ʿArīsh,,N,"31° 7′ 55″ N, 33° 48′ 7″ E",,,3,0,0,https://geniza.princeton.edu/places/al-arish/
 al-ʿAṣāfira,,N,"31° 10′ 12″ N, 32° 0′ 42″ E",,,1,0,0,https://geniza.princeton.edu/places/al-asafira/
 al-Bahnasā,"Oxyrhynchus, אלבהנסא, البهنسا, Ὀξυρρυγχος, ⲡⲉⲙϫⲉ",N,"28° 31′ 51″ N, 30° 38′ 49″ E",,,8,0,0,https://geniza.princeton.edu/places/al-bahnasa/
@@ -36,7 +36,7 @@ al-Karak,الكرك,N,"31° 10′ 59″ N, 35° 42′ 0″ E",,,1,0,0,https://ge
 al-Kharqāniyya,"אלכ'רקאנייה, الخرقانية",N,"30° 10′ 31″ N, 31° 10′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-kharqaniyya/
 al-Lajjūn,اللجون,N,"32° 34′ 28″ N, 35° 10′ 39″ E",,,1,0,0,https://geniza.princeton.edu/places/al-lajjun/
 ʿAlmā,,N,"33° 3′ 6″ N, 35° 29′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/alma/
-al-Maghrib,al-Gharb,N,,,Region,23,0,0,https://geniza.princeton.edu/places/al-maghrib/
+al-Maghrib,al-Gharb,Y,,,,23,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,133,3,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
 al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,217,10,0,https://geniza.princeton.edu/places/al-mahdiyya/
@@ -60,7 +60,7 @@ al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,h
 al-Ṣaʿīd,Upper Egypt,Y,"26° 30′ 0″ N, 31° 30′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/al-said/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,2,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
-al-Shām,"Levant, Syria",N,,,Region,78,1,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,"Levant, Syria",Y,,,,78,1,0,https://geniza.princeton.edu/places/al-sham/
 al-Shūbak,,N,"30° 17′ 30″ N, 31° 19′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Ṣīn,"China, אלצין, الصين",Y,"33° 5′ 58″ N, 105° 46′ 8″ E",,,5,0,0,https://geniza.princeton.edu/places/al-sin/
 al-Suwaydiyya,"Samandağ, אלסוידייה, السويدية",N,"36° 5′ 6″ N, 35° 58′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/al-suwaydiyya/
@@ -235,7 +235,7 @@ Hebron,"חברון, الخليل",N,"31° 31′ 45″ N, 35° 5′ 37″ E",,,21
 Homs,"حمص, Ḥimṣ",N,"34° 43′ 57″ N, 36° 42′ 48″ E",,,6,0,0,https://geniza.princeton.edu/places/homs/
 Ibrīm,"Qalʿat Ibrīm, Qaṣr Ibrīm",N,"22° 38′ 58″ N, 31° 59′ 34″ E",,,12,4,0,https://geniza.princeton.edu/places/ibrim/
 Imbāba,,N,"30° 5′ 33″ N, 31° 12′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/imbaba/
-India,"אלהנד, الهند",N,,,Region,38,1,0,https://geniza.princeton.edu/places/india/
+India,"אלהנד, الهند",Y,,,,38,1,0,https://geniza.princeton.edu/places/india/
 Iraq,,Y,"32° 47′ 59″ N, 44° 17′ 59″ E",,,6,0,0,https://geniza.princeton.edu/places/iraq/
 Iṣfahān,اصفهان,N,"32° 40′ 4″ N, 51° 40′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/isfahan/
 Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,9,0,0,https://geniza.princeton.edu/places/izmir/
@@ -496,7 +496,7 @@ Wardūnyā,,N,"33° 22′ 52″ N, 44° 20′ 34″ E",,"A NW suburb of Baghdad.
 Wārjalān,Ouargla,N,"31° 56′ 57″ N, 5° 19′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/warjalan/
 Wāsiț,,N,"32° 11′ 16″ N, 46° 17′ 52″ E",,,2,0,0,https://geniza.princeton.edu/places/wasit/
 Yazd,,N,"31° 51′ 35″ N, 54° 19′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/yazd/
-Yemen,"al-Yaman, אלימן, תימן, اليمن",N,,,Region,44,4,1,https://geniza.princeton.edu/places/yemen/
+Yemen,"al-Yaman, אלימן, תימן, اليمن",Y,,,,44,4,1,https://geniza.princeton.edu/places/yemen/
 Zabīd,,N,"14° 11′ 59″ N, 43° 19′ 19″ E",,,4,0,0,https://geniza.princeton.edu/places/zabid/
 Zagreb,Agram,N,"45° 48′ 53″ N, 15° 58′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/zagreb/
 Zakynthos,Zante,N,"37° 46′ 48″ N, 20° 53′ 41″ E",,,1,0,0,https://geniza.princeton.edu/places/zakynthos/
