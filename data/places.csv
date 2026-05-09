@@ -36,6 +36,7 @@ Algiers,"Argel, الجزائر",N,"36° 46′ 15″ N, 3° 3′ 21″ E",,,3,0,0
 al-Karak,الكرك,N,"31° 10′ 59″ N, 35° 42′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/al-karak/
 al-Khaḍra,الخضرة,N,"31° 10′ 40″ N, 30° 6′ 0″ E",,,2,0,0,https://geniza.princeton.edu/places/al-khadra/
 al-Kharqāniyya,"אלכ'רקאנייה, الخرقانية",N,"30° 10′ 31″ N, 31° 10′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-kharqaniyya/
+al-Kūfa,,N,"32° 1′ 58″ N, 44° 24′ 1″ E",,,1,0,0,https://geniza.princeton.edu/places/al-kufa/
 al-Lajjūn,اللجون,N,"32° 34′ 28″ N, 35° 10′ 39″ E",,,1,0,0,https://geniza.princeton.edu/places/al-lajjun/
 ʿAlmā,,N,"33° 3′ 6″ N, 35° 29′ 56″ E",,,1,0,0,https://geniza.princeton.edu/places/alma/
 al-Maghrib,al-Gharb,Y,,,,23,0,0,https://geniza.princeton.edu/places/al-maghrib/
@@ -54,7 +55,7 @@ Kutch,"Kachchh, al-Qaṣṣ",Y,"23° 14′ 36″ N, 69° 40′ 5″ E",,Kutch re
 al-Qulzum,"אלקלזם, القلزم",N,"30° 21′ 52″ N, 31° 18′ 46″ E",,,1,0,0,https://geniza.princeton.edu/places/al-qulzum/
 al-Quṣayr,"קוצייר, القصير",N,"26° 6′ 6″ N, 34° 16′ 48″ E",,,1,0,0,https://geniza.princeton.edu/places/al-qusayr/
 al-Raḥba,"אלרחבה, الرحبة",N,"35° 0′ 18″ N, 40° 25′ 24″ E",,"Distinct from the village in northern Lebanon (رحبة), al-Raḥba was a medieval fortress town on the west bank of the Euphrates (in modern-day Syria). The fortress was abandoned during the Ottoman period and is today an archaeological site.",3,0,0,https://geniza.princeton.edu/places/al-rahba/
-al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,116,3,0,https://geniza.princeton.edu/places/al-ramla/
+al-Ramla,,N,"31° 55′ 38″ N, 34° 51′ 44″ E",,,134,3,0,https://geniza.princeton.edu/places/al-ramla/
 al-Raqqa,"Kalne, Raqqa, כלנה, الرقة",N,"35° 57′ 22″ N, 39° 0′ 43″ E",,,10,0,0,https://geniza.princeton.edu/places/al-raqqa/
 al-Ṣabāḥ,"אלצבאח, الصباح",N,"30° 13′ 48″ N, 31° 11′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sabah/
 al-Ṣaffayn,,N,"30° 35′ 21″ N, 31° 16′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/al-saffayn/
@@ -97,7 +98,7 @@ Baalbek,"בעלת, بعلبك",N,"34° 0′ 16″ N, 36° 12′ 39″ E",,,5,0,0
 Bāb al-Mandab,,N,"12° 34′ 59″ N, 43° 19′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/bab-al-mandab/
 Bāḍiʿ,,N,"18° 9′ 36″ N, 38° 25′ 47″ E",,,4,0,0,https://geniza.princeton.edu/places/badi/
 Badsā,"Bidsa, بدسا, بدسة",N,"29° 40′ 36″ N, 31° 15′ 18″ E",,,1,0,0,https://geniza.princeton.edu/places/badsa/
-Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,51,2,0,https://geniza.princeton.edu/places/baghdad/
+Baghdād,,N,"33° 21′ 0″ N, 44° 20′ 24″ E",,,52,2,0,https://geniza.princeton.edu/places/baghdad/
 Baḥṭīṭ,بحطيط,N,"30° 29′ 19″ N, 31° 38′ 14″ E",,,1,0,0,https://geniza.princeton.edu/places/bahtit/
 Balaqṭar,"בלקטר, بلقطر",N,"31° 4′ 20″ N, 30° 12′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/balaqtar/
 Balāṭa,,N,"32° 12′ 28″ N, 35° 17′ 11″ E",,,1,0,0,https://geniza.princeton.edu/places/balata/
@@ -167,7 +168,7 @@ Dahshūr,دهشور,N,"29° 45′ 1″ N, 31° 14′ 22″ E",,,3,0,0,https://ge
 Dājūn,"Bayt Dagan, Bayt Dajan",N,"32° 0′ 12″ N, 34° 49′ 45″ E",,,1,0,0,https://geniza.princeton.edu/places/dajun/
 Dallāta,Dalton,N,"33° 1′ 19″ N, 35° 29′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/dallata/
 Damanhūr,دمنهور,N,"31° 2′ 26″ N, 30° 28′ 11″ E",,,4,0,0,https://geniza.princeton.edu/places/damanhur/
-Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,242,3,0,https://geniza.princeton.edu/places/damascus/
+Damascus,"Dimashq, דמשק, חדרך, دمشق",N,"33° 30′ 37″ N, 36° 16′ 41″ E",,,243,3,0,https://geniza.princeton.edu/places/damascus/
 Damietta,"Dimyāṭ, Dumyāṭ, אי כפתור, קפוטקיא, دمياط",N,"31° 25′ 3″ N, 31° 48′ 51″ E",,,147,0,0,https://geniza.princeton.edu/places/damietta/
 Damīra,,N,"31° 6′ 28″ N, 31° 21′ 40″ E",,,35,0,0,https://geniza.princeton.edu/places/damira/
 Dammūh,"Dimwa, דמוה, דמוי, דמויה, دير طمويه, طموه, طمويه, Ṭammūh, Ṭamwa, Ṭamwayh",N,"29° 56′ 22″ N, 31° 16′ 2″ E",,"For the location as identical with Ṭammūh/Ṭamwa, see Golb, ""Topography,"" part 1.",60,0,0,https://geniza.princeton.edu/places/dammuh/
@@ -211,7 +212,7 @@ Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https:/
 France (region),"Farānsa, צרפת",Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,7,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
 Fürth,,N,"49° 28′ 38″ N, 10° 59′ 24″ E",,,1,0,0,https://geniza.princeton.edu/places/furth/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2015,59,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2017,59,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,14,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,29,0,0,https://geniza.princeton.edu/places/gaza/
