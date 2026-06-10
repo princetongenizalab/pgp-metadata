@@ -7,7 +7,7 @@ Abwān (near al-Ushmūnayn),,N,"28° 24′ 1″ N, 30° 43′ 32″ E",,,1,0,0,h
 Abyār,Ibyār,N,"30° 50′ 7″ N, 30° 52′ 2″ E",,,13,0,0,https://geniza.princeton.edu/places/abyar/
 Abyssinia (region),"al-Ḥabash (region), אלחבש (region)",Y,"12° 1′ 54″ N, 39° 2′ 27″ E",,Abyssinia is a region more or less coterminous with modern Ethiopia. I've arbitrarily put the map at Lalibela until the PGP is able to handle regions.,1,0,0,https://geniza.princeton.edu/places/abyssinia/
 Acre,"עכו, عكا",N,"32° 55′ 40″ N, 35° 4′ 54″ E",,,52,1,0,https://geniza.princeton.edu/places/acre/
-Aden,"ʿAdan, עדן, عدن",N,"12° 47′ 28″ N, 44° 59′ 7″ E",,,120,25,1,https://geniza.princeton.edu/places/aden/
+Aden,"ʿAdan, עדן, عدن",N,"12° 47′ 28″ N, 44° 59′ 7″ E",,,120,27,1,https://geniza.princeton.edu/places/aden/
 Adminna,"Adiminne, Adiminnen, Adminne, Arminna, Arminne, Armínney",N,"22° 27′ 32″ N, 31° 50′ 12″ E",,A town located just south of Ibrīm. It is now underwater as a result of the building of the Aswan High Dam.,1,0,0,https://geniza.princeton.edu/places/adminne/
 Aḥwar,"אחור, أحور",N,"13° 31′ 0″ N, 46° 42′ 0″ E",,"""City in the lower ʿAwlaqī region, to the east of the former protectorate of Aden [...] As we learn from IB VII, 58 v, line 13, in this period Jews lived there."" (Goitein & Friedman, India Book, p 537 n41)",1,0,0,https://geniza.princeton.edu/places/ahwar/
 Ahwāz,Hormshir,N,"31° 19′ 5″ N, 48° 40′ 14″ E",,,4,0,0,https://geniza.princeton.edu/places/ahwaz/
@@ -43,7 +43,7 @@ al-Lajjūn,اللجون,N,"32° 34′ 28″ N, 35° 10′ 39″ E",,,1,0,0,https
 al-Maghrib,al-Gharb,Y,,,,23,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,134,4,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,218,14,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,218,15,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين",N,"31° 2′ 8″ N, 30° 47′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,N,"31° 9′ 36″ N, 31° 56′ 18″ E",,,3,0,0,https://geniza.princeton.edu/places/al-manzala/
 al-Marāgha,المراغة,N,"26° 42′ 22″ N, 31° 36′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/al-maragha/
@@ -218,7 +218,7 @@ Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https:/
 France (region),"Farānsa, צרפת",Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,7,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
 Fürth,,N,"49° 28′ 38″ N, 10° 59′ 24″ E",,,1,0,0,https://geniza.princeton.edu/places/furth/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2023,61,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2023,63,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,14,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,29,0,0,https://geniza.princeton.edu/places/gaza/
@@ -330,7 +330,7 @@ Masīla,,N,"35° 43′ 13″ N, 4° 31′ 12″ E",,,1,0,0,https://geniza.prince
 Mastaura,מסטורא,N,"37° 57′ 22″ N, 28° 20′ 29″ E",,,1,0,0,https://geniza.princeton.edu/places/mastura/
 Matbūl,"מתבול, متبول",N,"31° 5′ 28″ N, 31° 2′ 40″ E",,,1,0,0,https://geniza.princeton.edu/places/matbul/
 Maydūm,ميدوم,N,"29° 22′ 19″ N, 31° 10′ 19″ E",,,1,0,0,https://geniza.princeton.edu/places/maydum/
-Mazara,Mazara del Vallo,N,"37° 38′ 59″ N, 12° 34′ 48″ E",,,20,5,0,https://geniza.princeton.edu/places/mazara/
+Mazara,Mazara del Vallo,N,"37° 38′ 59″ N, 12° 34′ 48″ E",,,20,6,0,https://geniza.princeton.edu/places/mazara/
 Mecca,,N,"21° 25′ 26″ N, 39° 49′ 1″ E",,,5,0,0,https://geniza.princeton.edu/places/mecca/
 Merv,,N,"37° 39′ 45″ N, 62° 11′ 27″ E",,,1,0,0,https://geniza.princeton.edu/places/merv/
 Messina,מסיני,N,"38° 11′ 37″ N, 15° 33′ 15″ E",,,8,1,0,https://geniza.princeton.edu/places/messina/
@@ -445,7 +445,7 @@ Shiraz,,N,"29° 36′ 0″ N, 52° 32′ 23″ E",,,1,0,0,https://geniza.princet
 Shubra,,N,"30° 7′ 40″ N, 31° 13′ 51″ E",,,2,0,0,https://geniza.princeton.edu/places/shubra/
 Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,34,1,0,https://geniza.princeton.edu/places/shubra-damsis/
 Shūshtar,"שושתר, شوشتر",N,"32° 2′ 52″ N, 48° 51′ 7″ E",,,2,0,0,https://geniza.princeton.edu/places/shushtar/
-Sicily,,Y,"37° 38′ 42″ N, 13° 55′ 50″ E",Central Mediterranean,Region,71,0,0,https://geniza.princeton.edu/places/sicily/
+Sicily,,Y,"37° 38′ 42″ N, 13° 55′ 50″ E",Central Mediterranean,Region,71,1,0,https://geniza.princeton.edu/places/sicily/
 Siderokapisi,Sidrekapsi,N,,,"NB: Minna Rozen lists the location of Siderokapısı as ""some eight kilometers southeast of Thessaloniki,"" but this geographical association does not seem possible (Rozen, The Corvée of Operating the Mines in Siderokapısı, 37). The mining town in question was likely much further east in the Chalkidiki peninsula, where the Ottoman ""Siderokapısı"" or ""Sidrekapsi"" mint was also located (possibly Stratoniki, Stratoni, or Sidiriolakkos). A map of this mint's location in Şevket Pamuk's work supports the latter locations as possible candidates: Pamuk, A Monetary History of the Ottoman Empire, 91.",1,0,0,https://geniza.princeton.edu/places/siderokapisi/
 Sidon,صيدا,N,"33° 33′ 37″ N, 35° 22′ 32″ E",,,9,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,N,"43° 19′ 6″ N, 11° 19′ 50″ E",,,2,0,0,https://geniza.princeton.edu/places/siena/
