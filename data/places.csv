@@ -43,7 +43,7 @@ al-Lajjūn,اللجون,N,"32° 34′ 28″ N, 35° 10′ 39″ E",,,1,0,0,https
 al-Maghrib,al-Gharb,Y,,,,23,0,0,https://geniza.princeton.edu/places/al-maghrib/
 al-Maḥābisha,,N,"15° 56′ 57″ N, 43° 26′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-mahabisha/
 al-Maḥalla,"al-Maḥalla al-Kubrā, אלמחלה הגדולה, المحلة الكبرى",N,"30° 58′ 11″ N, 31° 9′ 36″ E",,,136,8,0,https://geniza.princeton.edu/places/al-mahalla-al-kubra/
-al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,218,22,0,https://geniza.princeton.edu/places/al-mahdiyya/
+al-Mahdiyya,"Mahdia, Mahdiya, المهدية",N,"35° 30′ 0″ N, 11° 4′ 12″ E",,,218,23,0,https://geniza.princeton.edu/places/al-mahdiyya/
 al-Manshilīn,"אלמנשלין, المنشلين",N,"31° 2′ 8″ N, 30° 47′ 47″ E",,,1,0,0,https://geniza.princeton.edu/places/al-manshilin/
 al-Manzala,,N,"31° 9′ 36″ N, 31° 56′ 18″ E",,,3,0,0,https://geniza.princeton.edu/places/al-manzala/
 al-Marāgha,المراغة,N,"26° 42′ 22″ N, 31° 36′ 16″ E",,,1,0,0,https://geniza.princeton.edu/places/al-maragha/
@@ -256,7 +256,7 @@ Hormuz,,N,"27° 4′ 12″ N, 56° 27′ 36″ E",,,1,0,0,https://geniza.princet
 Ibrīm,"Qalʿat Ibrīm, Qaṣr Ibrīm",N,"22° 38′ 58″ N, 31° 59′ 34″ E",,,12,4,0,https://geniza.princeton.edu/places/ibrim/
 Idrīja,ادريجة,N,"29° 16′ 51″ N, 31° 11′ 59″ E",al-Fayyūm,Attested on Google Maps and at https://egylandscape.huma-num.fr/map.html (see there for historical sources),1,0,0,https://geniza.princeton.edu/places/idrija/
 Imbāba,,N,"30° 5′ 33″ N, 31° 12′ 2″ E",,,1,0,0,https://geniza.princeton.edu/places/imbaba/
-India,"אלהנד, الهند",Y,,,,39,1,0,https://geniza.princeton.edu/places/india/
+India,"אלהנד, الهند",Y,,,,39,2,0,https://geniza.princeton.edu/places/india/
 Indian Ocean,بحر الهند,N,,,,1,0,0,https://geniza.princeton.edu/places/indian-ocean/
 Iraq,,Y,"32° 47′ 59″ N, 44° 17′ 59″ E",,,6,0,0,https://geniza.princeton.edu/places/iraq/
 Iṣfahān,اصفهان,N,"32° 40′ 4″ N, 51° 40′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/isfahan/
@@ -463,7 +463,7 @@ Shiraz,,N,"29° 36′ 0″ N, 52° 32′ 23″ E",,,1,0,0,https://geniza.princet
 Shubra,,N,"30° 7′ 40″ N, 31° 13′ 51″ E",,,2,0,0,https://geniza.princeton.edu/places/shubra/
 Shubrā Damsīs,Damsīs,N,"30° 49′ 12″ N, 31° 13′ 11″ E",,,34,1,0,https://geniza.princeton.edu/places/shubra-damsis/
 Shūshtar,"שושתר, شوشتر",N,"32° 2′ 52″ N, 48° 51′ 7″ E",,,2,0,0,https://geniza.princeton.edu/places/shushtar/
-Sicily,,Y,"37° 38′ 42″ N, 13° 55′ 50″ E",Central Mediterranean,Region,71,1,0,https://geniza.princeton.edu/places/sicily/
+Sicily,,Y,"37° 38′ 42″ N, 13° 55′ 50″ E",Central Mediterranean,Region,71,2,0,https://geniza.princeton.edu/places/sicily/
 Siderokapisi,Sidrekapsi,N,,,"NB: Minna Rozen lists the location of Siderokapısı as ""some eight kilometers southeast of Thessaloniki,"" but this geographical association does not seem possible (Rozen, The Corvée of Operating the Mines in Siderokapısı, 37). The mining town in question was likely much further east in the Chalkidiki peninsula, where the Ottoman ""Siderokapısı"" or ""Sidrekapsi"" mint was also located (possibly Stratoniki, Stratoni, or Sidiriolakkos). A map of this mint's location in Şevket Pamuk's work supports the latter locations as possible candidates: Pamuk, A Monetary History of the Ottoman Empire, 91.",1,0,0,https://geniza.princeton.edu/places/siderokapisi/
 Sidon,صيدا,N,"33° 33′ 37″ N, 35° 22′ 32″ E",,,9,0,0,https://geniza.princeton.edu/places/sidon/
 Siena,,N,"43° 19′ 6″ N, 11° 19′ 50″ E",,,2,0,0,https://geniza.princeton.edu/places/siena/
