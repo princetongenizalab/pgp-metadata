@@ -1,6 +1,8 @@
 ﻿name,name_variants,gender,social_roles,auto_date_range,manual_date_range,description,tags,related_people_count,family_traces_roots_to,home_base,traveled_to,related_documents_count,url
+ʿAbbās b. Ḥusayn b. ʿAbbās,عباس بن حسين بن عباس,Male,Other,,,,,0,,,,1,https://geniza.princeton.edu/people/abbas-b-husayn-b-abbas/
 ʿAbd al-ʿAzīz b. ʿAlī b. Muḥammad,عبد العزيز بن علی بن محمد,Male,Muslim judicial official,,,,,0,,,,1,https://geniza.princeton.edu/people/abd-al-aziz-b-ali-b-muhammad/
 ʿAbd al-ʿAzīz b. Hārūn,عبد العزيز بن هرون,Male,Other,,,,,0,,,,1,https://geniza.princeton.edu/people/abd-al-aziz-b-harun/
+ʿAbd al-ʿAzīz b. Salāma al-Yahūdī,عبد العزيز بن سلامة اليهودي,Male,Jewish community member,,,,,0,,,,1,https://geniza.princeton.edu/people/abd-al-aziz-b-salama-al-yahudi/
 ʿAbd al-ʿAzīz b. Ṭāhir b. Ismāʿīl,عبد العزيز بن طاهر بن اسماعيل,Male,Other,,,Witness,,0,,,,1,https://geniza.princeton.edu/people/abd-al-aziz-b-tahir-b-ismail/
 ʿAbd al-Bāqī b. Aḥmad al-Khaṭṭāb,عبد الباقي بن احمد الخطاب,Male,Other,,,,,0,,,,1,https://geniza.princeton.edu/people/abd-al-baqi-b-ahmad-al-khattab/
 ʿAbd al-Bāqī b. Ibrāhīm b. al-Salam,عبد الباقى بن ابرهيم بن السلم,Male,Other,,,Witness,,0,,,,1,https://geniza.princeton.edu/people/abd-al-baqi-b-ibrahim-b-al-salam/
@@ -806,6 +808,7 @@ Abu Saʿĩd b. Maḥfūẓ Ibn Jamāhir (12th c),"Ibn Jumayhir, Ḥalfon b. Shem
 Ḥalfon b. Yosef ha-Kohen,,Male,,,,,,0,,,,2,https://geniza.princeton.edu/people/halfon-b-yosef-ha-kohen/
 Ḥamīd al-Dawla,,Male,State official,,,"Fatimid state official, 11th/12th C.",,0,,,,1,https://geniza.princeton.edu/people/hamid-al-dawla/
 (Abū l-Thanāʾ) Ḥāmid al-Kanzī,,Male,State official,,,Member of the Banū Kanz and official of the Kanz al-Dawla in southern Nubia in the 1160s–70s.,,0,,,,2,https://geniza.princeton.edu/people/hamid-al-kanzi/
+Ḥāmid b. al-Ḥasan b. Dīnār,حامد بن الحسن بن دينار,Male,Muslim judicial official,,,,,0,,,,1,https://geniza.princeton.edu/people/hamid-b-al-hasan-b-dinar/
 Ḥammūd b. Hāshim al-Ṭaḥḥān,حمود بن هاشم الطحان,Male,Other,,,"""A young man, uniformly reddy-brown in complexion, with a smooth forehead, in which there are some  wrinkles, with connected eyebrows, on the top of the right eyebrow there is a scar, with dark brown eyes, a hooked nose with fleshy sides, a scarce beard, light hair on the cheeks and average in height."" (Khan, ALAD)",,0,,,,1,https://geniza.princeton.edu/people/hammud-b-hashim-al-tahhan/
 Ḥananʾel b. Shemuʾel Ibn al-Amshāṭī,Ḥananel b. Shemuʾel,Male,Jewish communal official,,,[placeholder],,7,,"Alexandria, Fustat",,8,https://geniza.princeton.edu/people/hanan-el-b-shemu-el/
 "Ḥananya b. Yosef ha-Kohen, Av Bet Din",Ḥananya Av Bet Din b. Yosef Ga'on,Male,Jewish communal official,,,Active first decades of the eleventh century (legal document from his court precisely dated to 1007),,0,,,,4,https://geniza.princeton.edu/people/hananya-b-yosef-ha-kohen-av-bet-din/
@@ -1218,6 +1221,7 @@ Mūsā b. Nissim b. Surrī,,Male,Jewish community member,,,,,0,,,,0,https://geni
 Mūsā b. ʿUbayd,موسى بن عبيد,Male,Muslim judicial official,,,,,0,,,,1,https://geniza.princeton.edu/people/musa-b-ubayd/
 Mūsā b. Yaḥyā al-Majjānī,Abū ʿImrān,Male,Jewish community member,,,Dates ca. 1000–1025,,0,,,,6,https://geniza.princeton.edu/people/musa-b-yahya-al-majjani/
 Mūsā b. Yaʿqūb al-Miṣrī,,Male,Merchant,,,Flax merchant in the delta.,,0,,,,2,https://geniza.princeton.edu/people/musa-b-yaqub-al-misri/
+Mūsā b. Yūsuf b. Mūsā al-Yahūdī,موسى بن يوسف بن موسى اليهودي,Male,Jewish community member,,,,,0,,,,1,https://geniza.princeton.edu/people/musa-b-yusuf-b-musa-al-yahudi/
 Musāfir b. ʿAlī,,Male,,,,,,0,,,,1,https://geniza.princeton.edu/people/musafir-b-ali/
 Musāfir b. Yūsuf,Musāfir b. Yūsuf Yahūdī Dīwānī,Male,Jewish community member,,,,,0,,,,8,https://geniza.princeton.edu/people/musafir-b-yusuf-yahudi-diwani/
 (Abū ʿImrān) Mūsā b. Ṣadaqa Ibn Nufayʿ,"Moshe b. Ṣedaqa, אבו עמראן בן נפיע",Male,"Jewish community member, Merchant",,,,"IB2, IB6, IB4",0,,,,6,https://geniza.princeton.edu/people/musa-ibn-nufay/
@@ -2120,6 +2124,7 @@ Zakariyyā b. Yaʿaqov al-Shāma,,Male,Jewish community member,,,,,1,,,,3,https:
 Zakkār b. ʿAmmār al-Madīnī,,Male,Jewish communal official,,,,,3,,Palermo,,3,https://geniza.princeton.edu/people/zakkar-b-ammar-al-madini/
 Zakkay b. Moshe,,Male,Jewish community member,,1127/1150,Witness and court clerk in al-Mahalla. Book collector. Possibly also served as judge.,,0,,,,15,https://geniza.princeton.edu/people/zakkay-b-moshe/
 Ẓarf,,Female,Enslaved person,,,"Enslaved woman mentioned together with her son Muwaffaq in a deed of sale. (Information from PGP and Craig Perry, Slavery and the Jews of Medieval Egypt, Appendix 1, no. 120)",,0,,,,1,https://geniza.princeton.edu/people/zarf/
+Zayd b Ḥāmid al-Sarūjī,زید ابن حامد السروجي,Male,Muslim judicial official,,,,,0,,,,1,https://geniza.princeton.edu/people/zayd-b-hamid-al-saruji/
 Zayn al-Dār bt. Ḥananʾel ha-Levi,,Female,,,,,,0,,,,1,https://geniza.princeton.edu/people/zayn-al-dar-bt-hananel-ha-levi/
 Zayn Ibn al-Ger,,Male,,,,,,0,,,,4,https://geniza.princeton.edu/people/zayn-ibn-al-ger/
 Zekharya b. Ḥayyim,,Male,Jewish community member,,,"Late 12th century (letter from 1172), traded in Palermo. Unconfirmed but might be a descendant of the 'Ammar family in 11th century Palermo.",,0,,Palermo,,1,https://geniza.princeton.edu/people/zekharya-b-hayyim/
