@@ -18,7 +18,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8-sig",
-      "fields": 30,
+      "fields": 36,
       "schema": {
         "fields": [
           {
@@ -253,6 +253,48 @@
             },
             "format": "default",
             "title": "Has Translation"
+          },
+          {
+            "name": "destination",
+            "type": "string",
+            "description": "The location to which the document is intended to be sent.",
+            "format": "default",
+            "title": "Destination"
+          },
+          {
+            "name": "formerly_believed_to_be_mentioned",
+            "type": "string",
+            "description": "Where it was formerly believed to be mentioned.",
+            "format": "default",
+            "title": "formerly_believed_to_be_mentioned"
+          },
+          {
+            "name": "location",
+            "type": "string",
+            "description": "Where it was found",
+            "format": "default",
+            "title": "Location"
+          },
+          {
+            "name": "mentioned",
+            "type": "string",
+            "description": "Where it was mentioned",
+            "format": "default",
+            "title": "mentioned"
+          },
+          {
+            "name": "origin",
+            "type": "string",
+            "description": "Where it was originating from",
+            "format": "default",
+            "title": "origin"
+          },
+          {
+            "name": "possibly_mentioned",
+            "type": "string",
+            "description": "Where it was possibly mentioned",
+            "format": "default",
+            "title": "possibly_mentioned"
           }
         ],
         "primaryKey": "pgpid",

@@ -411,13 +411,13 @@ Files in the data directory should _NOT_ be edited or modified directly.
 
 The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza
 
-## Access via Flat GitHub
+## Shortcuts
 
 Data files can be viewed, filtered, and downloaded with Flat GitHub's Flat Viewer. Please note that it may take a moment for large files to load.
 
-- [documents.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/documents.csv)
-- [fragments.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/fragments.csv)
-- [sources.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/sources.csv)
-- [footnotes.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/footnotes.csv)
-- [people.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/people.csv)
-- [places.csv](https://flatgithub.com/princetongenizalab/pgp-metadata?filename=data/places.csv)
+- [documents.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/documents.csv)
+- [fragments.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/fragments.csv)
+- [sources.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/sources.csv)
+- [footnotes.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/footnotes.csv)
+- [people.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/people.csv)
+- [places.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/places.csv)
