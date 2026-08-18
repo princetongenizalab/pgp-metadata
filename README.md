@@ -149,9 +149,9 @@ Specialized formats or other abbreviations used:
 
 ## Data-specific information for: [documents]
 
-1. Number of variables: 30
+1. Number of variables: 36
 
-2. Number of cases/rows: 35,855
+2. Number of cases/rows: 36,204
 
 3. Variable List: 
 
@@ -214,6 +214,18 @@ Specialized formats or other abbreviations used:
 	has_transcription: yes/no is there a digital edition on the PGP	
 	
 	has_translation: yes/no is there a digital translation on the PGP
+ 
+	destination: the destination of the document
+ 
+	formerly_believed_to_be_mentioned: where it was formerly believed to be mentioned
+ 
+	location: where it was found
+ 
+	mentioned: where it was mentioned
+ 
+	origin: where it was originated from
+ 
+	possibly_mentioned: where else it was possibly mentioned
 
    Specialized formats or other abbreviations used: 
        The library abbreviations in shelfmarks are too extensive to be listed here. If you have a question about a particular shelfmark, go to the document’s public webpage and scroll down to the bottom for a full citation.
@@ -223,7 +235,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 16
 
-2. Number of cases/rows: 36,172
+2. Number of cases/rows: 36,683
 
 3. Variable List: 
 
@@ -264,7 +276,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 18
    
-2. Number of cases/rows: 712
+2. Number of cases/rows: 756
    
 3. Variable List: 
 	(The information for sources are all intended to help populate a bibliographic entry)
@@ -310,7 +322,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 10
 
-2. Number of cases/rows: 24,412
+2. Number of cases/rows: 25,188
 
 3. Variable List: 
 
@@ -344,7 +356,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 14
 
-2. Number of cases/rows: 1,802
+2. Number of cases/rows: 2,064
 
 3. Variable List: 
 
@@ -381,7 +393,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 10
 
-2. Number of cases/rows: 486
+2. Number of cases/rows: 562
 
 3. Variable List: 
 
@@ -412,8 +424,6 @@ Files in the data directory should _NOT_ be edited or modified directly.
 The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza
 
 ## Shortcuts
-
-Data files can be viewed, filtered, and downloaded with Flat GitHub's Flat Viewer. Please note that it may take a moment for large files to load.
 
 - [documents.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/documents.csv)
 - [fragments.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/fragments.csv)
