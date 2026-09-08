@@ -23,3 +23,12 @@
 - Total 24,412 footnotes
 - Total 1,802 people
 - Total 486 places
+
+## Version 1.0, July 2025
+
+- Total 35,194 documents
+- Total 35,608 fragments
+- Total 679 sources
+- Total 23,562 footnotes
+- Total 1,333 people
+- Total 409 places
