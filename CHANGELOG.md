@@ -1,15 +1,15 @@
 # Change log for Geniza dataset
 
-## Version 1.2, August 2026
+## Version 1.2, September 2026
 
 ### Data changes
 
-- Total 36,204 documents (+349)
-- Total 36,683 fragments (+511)
+- Total 36,204 documents (+427)
+- Total 36,778 fragments (+606)
 - Total 756 sources (+44)
-- Total 25,188 footnotes (+776)
-- Total 2,064 people (+262)
-- Total 562 places (+76)
+- Total 25,280 footnotes (+868)
+- Total 2,067 people (+265)
+- Total 565 places (+79)
 
 ### Structural changes
 

@@ -151,7 +151,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 36
 
-2. Number of cases/rows: 36,204
+2. Number of cases/rows: 36,282
 
 3. Variable List: 
 
@@ -235,7 +235,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 16
 
-2. Number of cases/rows: 36,683
+2. Number of cases/rows: 36,778
 
 3. Variable List: 
 
@@ -322,7 +322,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 10
 
-2. Number of cases/rows: 25,188
+2. Number of cases/rows: 25,280
 
 3. Variable List: 
 
@@ -356,7 +356,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 14
 
-2. Number of cases/rows: 2,064
+2. Number of cases/rows: 2,067
 
 3. Variable List: 
 
@@ -393,7 +393,7 @@ Specialized formats or other abbreviations used:
 
 1. Number of variables: 10
 
-2. Number of cases/rows: 562
+2. Number of cases/rows: 565
 
 3. Variable List: 
 
