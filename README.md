@@ -423,7 +423,7 @@ Files in the data directory should _NOT_ be edited or modified directly.
 
 The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza
 
-## Shortcuts
+## Shortcuts (raw data)
 
 - [documents.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/documents.csv)
 - [fragments.csv](https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/refs/heads/main/data/fragments.csv)
