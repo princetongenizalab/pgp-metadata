@@ -69,7 +69,7 @@ al-Ṣāfiyya,الصافية,N,"31° 3′ 57″ N, 30° 43′ 46″ E",,,2,0,0,h
 al-Ṣaʿīd,Upper Egypt,Y,"26° 30′ 0″ N, 31° 30′ 0″ E",,,5,0,0,https://geniza.princeton.edu/places/al-said/
 al-Salṭ,السلط,N,"32° 1′ 59″ N, 35° 43′ 59″ E",,,2,0,0,https://geniza.princeton.edu/places/al-salt/
 Dhū l-Kifl,"Tomb of Ezekiel, al-Sayyid Yeḥezqel",N,"32° 13′ 26″ N, 44° 22′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sayyid-yehezqel/
-al-Shām,"Levant, Syria",Y,,,,79,1,0,https://geniza.princeton.edu/places/al-sham/
+al-Shām,"Levant, Syria",Y,,,,80,1,0,https://geniza.princeton.edu/places/al-sham/
 Al-Shiḥr,"Ashḥār, Sheḥērāt, אלאשחאר, אלשחר",N,"14° 45′ 38″ N, 49° 36′ 24″ E",,"""A city and region on the southern coast of Arabia, about eight days journey east of Aden [...] In antiquity this was frankincense country, from which frankincense was exported via Ḥadramawt, Yemen, and from there to the Mediterranean."" (Goitein & Friedman, India Book p 534 n24)",1,0,0,https://geniza.princeton.edu/places/al-shihr/
 al-Shūbak,,N,"30° 17′ 30″ N, 31° 19′ 15″ E",,,1,0,0,https://geniza.princeton.edu/places/al-shubak/
 al-Sīf,אלסיף,N,"15° 18′ 47″ N, 48° 19′ 50″ E",,,1,0,0,https://geniza.princeton.edu/places/al-sif/
@@ -216,7 +216,7 @@ Diyār al-Yemen wa-l-Hind,,Y,"15° 24′ 43″ N, 62° 27′ 28″ E",,Lands of 
 Djerba,"Jarba, Jerba",N,"33° 48′ 27″ N, 10° 50′ 42″ E",,,7,0,0,https://geniza.princeton.edu/places/djerba/
 Dongola,,N,"19° 8′ 52″ N, 30° 28′ 15″ E",,,2,2,0,https://geniza.princeton.edu/places/dongola/
 Dubrovnik,"Ragusa (Adriatic Coast), רגוסה",N,"42° 38′ 27″ N, 18° 6′ 32″ E",,,2,0,0,https://geniza.princeton.edu/places/dubrovnik/
-Edessa,al-Ruhāʾ,N,"37° 9′ 29″ N, 38° 47′ 30″ E",,,1,0,0,https://geniza.princeton.edu/places/edessa/
+Edessa,al-Ruhāʾ,N,"37° 9′ 29″ N, 38° 47′ 30″ E",,,2,0,0,https://geniza.princeton.edu/places/edessa/
 Edfu,"Idfū, اتفو, ادفو",N,"24° 58′ 45″ N, 32° 52′ 33″ E",,,1,0,0,https://geniza.princeton.edu/places/edfu/
 Edirne,Adrianople,N,"41° 40′ 36″ N, 26° 33′ 19″ E",,,2,0,0,https://geniza.princeton.edu/places/edirne/
 Egypt (region),,Y,,,,70,1,0,https://geniza.princeton.edu/places/egypt-region/
@@ -235,7 +235,7 @@ Florence,פירנצה,N,"43° 46′ 16″ N, 11° 15′ 14″ E",,,1,0,0,https:/
 France (region),"Farānsa, צרפת",Y,"46° 27′ 20″ N, 2° 10′ 44″ E",,,9,0,0,https://geniza.princeton.edu/places/france-region/
 Friuli,פריולי,Y,"45° 53′ 59″ N, 13° 0′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/friuli/
 Fürth,,N,"49° 28′ 38″ N, 10° 59′ 24″ E",,,1,0,0,https://geniza.princeton.edu/places/furth/
-Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2064,72,2,https://geniza.princeton.edu/places/fustat/
+Fustat,"Fusṭāṭ, Miṣr al-Qadīma, פסטאט, فسطاط",N,"30° 0′ 17″ N, 31° 14′ 15″ E",,,2065,72,2,https://geniza.princeton.edu/places/fustat/
 Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,16,0,0,https://geniza.princeton.edu/places/fuwwa/
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,35,0,0,https://geniza.princeton.edu/places/gaza/
@@ -270,7 +270,7 @@ Imbāba,,N,"30° 5′ 33″ N, 31° 12′ 2″ E",,,1,0,0,https://geniza.princet
 India,"אלהנד, الهند",Y,,,,40,2,0,https://geniza.princeton.edu/places/india/
 Indian Ocean,بحر الهند,N,,,,1,0,0,https://geniza.princeton.edu/places/indian-ocean/
 Iraq,,Y,"32° 47′ 59″ N, 44° 17′ 59″ E",,,7,0,0,https://geniza.princeton.edu/places/iraq/
-Iṣfahān,اصفهان,N,"32° 40′ 4″ N, 51° 40′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/isfahan/
+Iṣfahān,اصفهان,N,"32° 40′ 4″ N, 51° 40′ 12″ E",,,2,0,0,https://geniza.princeton.edu/places/isfahan/
 Italy,"איטליה, إيطاليا",Y,"43° 2′ 37″ N, 12° 28′ 54″ E",,,1,0,0,https://geniza.princeton.edu/places/italy/
 Izmir,Smyrna,N,"38° 24′ 45″ N, 27° 8′ 18″ E",,,10,0,0,https://geniza.princeton.edu/places/izmir/
 Jabala,,N,"35° 21′ 56″ N, 35° 55′ 32″ E",,,1,0,0,https://geniza.princeton.edu/places/jabala/
@@ -315,7 +315,7 @@ Kūm al-Ḍabʿ,"كوم الضب, كوم الضبع",N,"30° 28′ 8″ N, 31° 
 Lakhaba,,N,"12° 55′ 42″ N, 44° 54′ 1″ E",,"Coordinates are approximate. See Margariti, Aden, 60–63.",1,0,0,https://geniza.princeton.edu/places/lakhaba/
 Lamṭa,"למטה, لمطة",N,"35° 40′ 31″ N, 10° 52′ 50″ E",,,1,0,0,https://geniza.princeton.edu/places/lamta/
 Land of the Zanj (region),בלאד אלזנג (region),Y,"4° 3′ 14″ S, 39° 40′ 0″ E",,"Bilād al-Zanj refers to the Swahili coast. Until PGP can handle regions, I've arbitrarily set the point at Mombasa.",2,0,0,https://geniza.princeton.edu/places/land-of-the-zanj-region/
-Latakia,al-Lādhiqiyya,N,"35° 32′ 30″ N, 35° 47′ 55″ E",,,21,0,0,https://geniza.princeton.edu/places/latakia/
+Latakia,al-Lādhiqiyya,N,"35° 32′ 30″ N, 35° 47′ 55″ E",,,22,0,0,https://geniza.princeton.edu/places/latakia/
 Livorno,Leghorn,N,"43° 32′ 54″ N, 10° 18′ 38″ E",,,16,0,0,https://geniza.princeton.edu/places/livorno/
 London,,N,"51° 30′ 35″ N, 0° 7′ 5″ E",,,3,0,0,https://geniza.princeton.edu/places/london/
 Lucena,,N,"37° 24′ 35″ N, 4° 28′ 59″ W",,,8,1,0,https://geniza.princeton.edu/places/lucena/
