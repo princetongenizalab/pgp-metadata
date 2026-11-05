@@ -85,8 +85,8 @@ Amalfi,מלף,N,"40° 38′ 1″ N, 14° 36′ 10″ E",,,2,0,0,https://geniza.p
 Amsterdam,,N,"52° 21′ 58″ N, 4° 53′ 26″ E",,,1,0,0,https://geniza.princeton.edu/places/amsterdam/
 Ancona,,N,"43° 36′ 25″ N, 13° 30′ 36″ E",,,6,0,0,https://geniza.princeton.edu/places/ancona/
 Ankara,אנגורה,N,"39° 55′ 19″ N, 32° 51′ 36″ E",,,1,0,0,https://geniza.princeton.edu/places/ankara/
-Antalya,,N,"36° 53′ 48″ N, 30° 42′ 47″ E",,,7,0,0,https://geniza.princeton.edu/places/antalya/
-Antioch,Antakya,N,"36° 12′ 23″ N, 36° 9′ 25″ E",,,7,1,0,https://geniza.princeton.edu/places/antioch/
+Antalya,,N,"36° 53′ 48″ N, 30° 42′ 47″ E",,,8,0,0,https://geniza.princeton.edu/places/antalya/
+Antioch,Antakya,N,"36° 12′ 23″ N, 36° 9′ 25″ E",,,6,1,0,https://geniza.princeton.edu/places/antioch/
 ʿAqaba,"עקבה, عقبة",N,"29° 31′ 54″ N, 35° 0′ 19″ E",,,1,0,0,https://geniza.princeton.edu/places/aqaba/
 ʿAqrabā,,N,"32° 7′ 40″ N, 35° 20′ 35″ E",,,1,0,0,https://geniza.princeton.edu/places/aqraba/
 ʿArqā,"ערקה, عرقا",N,"34° 31′ 46″ N, 36° 2′ 23″ E",,,1,0,0,https://geniza.princeton.edu/places/arqa/
@@ -131,7 +131,7 @@ Bardād,,N,"13° 30′ 30″ N, 43° 57′ 44″ E",,"Precise location uncertain
 (https://shamela.ws/book/471/61)",1,0,0,https://geniza.princeton.edu/places/bardad/
 Bari,,N,"41° 7′ 30″ N, 16° 51′ 59″ E",,,2,0,0,https://geniza.princeton.edu/places/bari/
 Barqa,,N,"32° 29′ 53″ N, 20° 53′ 34″ E",,"The medieval city Barqa (not to be confused with the placename Barqa used for the eastern region, mostly interchangeable with Cyrenaica) was located in al-Marj, now called Old City Marj مدينة المرج القديمة
-https://geohack.toolforge.org/geohack.php?params=32.4983_N_20.8928_E_globe:earth&language=en",25,2,0,https://geniza.princeton.edu/places/barqa/
+https://geohack.toolforge.org/geohack.php?params=32.4983_N_20.8928_E_globe:earth&language=en",26,2,0,https://geniza.princeton.edu/places/barqa/
 Baṣra,البصرة,N,"30° 30′ 54″ N, 47° 48′ 36″ E",,,7,0,0,https://geniza.princeton.edu/places/basra/
 Basūṭ Nahīsa,كفر الأبحر,N,"31° 7′ 59″ N, 31° 13′ 59″ E",Delta,"The modern name of the village is Kafr al-Abḥar كفر الأبحر. See Halm, Ägypten nach den mamlukischen Lehensregistern. II. Das Delta (Wiesbaden, 1982), pp. 484–485.",1,0,0,https://geniza.princeton.edu/places/basut-nahisa/
 Baysān,Bet Sheʾan,N,"32° 29′ 49″ N, 35° 29′ 50″ E",,,2,0,0,https://geniza.princeton.edu/places/baysan/
@@ -159,7 +159,7 @@ Burṭus,,N,"30° 8′ 49″ N, 31° 8′ 8″ E",,,1,0,0,https://geniza.princet
 Burullus,"Buḥayrat al-Burullus, Lake Burullus",N,"31° 28′ 20″ N, 30° 50′ 11″ E",,,2,0,0,https://geniza.princeton.edu/places/burullus/
 Būsh,"Πωις, ناصر, ⲡⲟⲩϣⲓⲛ",N,"29° 9′ 7″ N, 31° 7′ 53″ E",al-Fayyūm,,8,0,0,https://geniza.princeton.edu/places/bush/
 Būṣīr,"Abū Ṣīr, Būṣīr Qūrīdis, אבוציר, בוציר, ابو صير, بوصير",N,"29° 15′ 0″ N, 31° 4′ 47″ E",al-Fayyūm,,107,1,0,https://geniza.princeton.edu/places/busir/
-Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,12,0,0,https://geniza.princeton.edu/places/byzantium-region/
+Byzantium (region),Bilād al-Rūm,Y,"41° 0′ 23″ N, 28° 58′ 33″ E",,,13,0,0,https://geniza.princeton.edu/places/byzantium-region/
 Caesarea,,N,"32° 30′ 0″ N, 34° 53′ 30″ E",,,12,0,0,https://geniza.princeton.edu/places/caesarea/
 Cairo,"New Cairo, al-Muʿizziyya, al-Qāhira",N,"30° 3′ 6″ N, 31° 15′ 41″ E",,,1112,14,1,https://geniza.princeton.edu/places/cairo/
 Calicut,Kozhikode,N,"11° 15′ 32″ N, 75° 46′ 49″ E",,,1,0,0,https://geniza.princeton.edu/places/calicut/
@@ -247,6 +247,13 @@ Fuwwa,"פוה, فوة",N,"31° 12′ 14″ N, 30° 33′ 13″ E",,,16,0,0,https
 Gafsa,קפצה,N,"34° 25′ 51″ N, 8° 46′ 32″ E",,,1,1,0,https://geniza.princeton.edu/places/gafsa/
 Gaza,,N,"31° 30′ 11″ N, 34° 28′ 4″ E",,,35,0,0,https://geniza.princeton.edu/places/gaza/
 Genoa,,N,"44° 24′ 25″ N, 8° 56′ 2″ E",,,5,0,0,https://geniza.princeton.edu/places/genoa/
+Germanikopolis,"Ermenek, Germanicopolis",N,"36° 38′ 20″ N, 32° 53′ 24″ E",Anatolia,"There are three places in Anatolia by this name, of which this is #2.
+
+(1) Germanicopolis in Bithynia, in northwestern Anatolia, close to Prusa; now Tahtalı in Bursa Province.
+
+(2) Germanicopolis in Isauria (Cilicia), in southern Anatolia; now Ermenek in the Karaman Province. Houses a necropolis with Roman rock tombs.
+
+(3) Germanicopolis in Paphlagonia (northern Turkey), now Çankırı.",1,0,0,https://geniza.princeton.edu/places/germanikopolis/
 Ghadames,"Ghadāmis, غدامس",N,"30° 7′ 54″ N, 9° 29′ 42″ E",,,1,1,0,https://geniza.princeton.edu/places/ghadames/
 Ghulayfiqa,,N,"14° 26′ 2″ N, 43° 0′ 57″ E",,The port of Zabīd,2,0,0,https://geniza.princeton.edu/places/ghulayfiqa/
 Gibraltar,,N,"36° 8′ 26″ N, 5° 21′ 12″ W",,,1,0,0,https://geniza.princeton.edu/places/gibraltar/
@@ -267,6 +274,7 @@ Hamadān,,N,"34° 47′ 53″ N, 48° 30′ 50″ E",,,3,0,0,https://geniza.prin
 Ḥārat Zuwayla,,N,"30° 3′ 7″ N, 31° 15′ 28″ E",,Neighborhood in Cairo.,3,0,0,https://geniza.princeton.edu/places/harat-zuwayla/
 Hawwāra,"Miṣrāta, Qaṣr Aḥmad, הוארה, هوارة",N,"32° 22′ 38″ N, 15° 5′ 31″ E",,"In the 13th century, the port of Hawwāra was known as Qaṣr Aḥmad (Ibn Rushayd al-Sabtī, Riḥla, 6: 5), which became known as Miṣrāta in the 16th century.",1,0,0,https://geniza.princeton.edu/places/hawwara/
 Hebron,"חברון, الخليل",N,"31° 31′ 45″ N, 35° 5′ 37″ E",,,22,0,0,https://geniza.princeton.edu/places/hebron/
+Heraclea Cybistra,"Ereğli, Hiraqla, هرقلة, Ἡράκλεια Κύβιστρα",N,"37° 30′ 53″ N, 34° 2′ 21″ E",Anatolia,,1,0,0,https://geniza.princeton.edu/places/heraclea-cybistra/
 Herat,,N,"34° 21′ 18″ N, 62° 13′ 4″ E",,,1,0,0,https://geniza.princeton.edu/places/herat/
 Ḥijāz,,Y,"22° 0′ 0″ N, 39° 30′ 0″ E",,,4,0,0,https://geniza.princeton.edu/places/hijaz/
 Ḥelwān,حلوان,N,"29° 50′ 31″ N, 31° 19′ 59″ E",,,1,0,0,https://geniza.princeton.edu/places/hilwan/
@@ -563,6 +571,7 @@ Tunis,تونس,N,"36° 48′ 21″ N, 10° 10′ 55″ E",,,9,0,0,https://geniza
 Turin,Torino,N,"45° 4′ 13″ N, 7° 41′ 12″ E",,,1,0,0,https://geniza.princeton.edu/places/turin/
 Turūja,تروجة,N,"30° 30′ 0″ N, 30° 6′ 0″ E",,,1,0,0,https://geniza.princeton.edu/places/turuja/
 Tutun,"Tebtynis, تطون, ططون",N,"29° 6′ 25″ N, 30° 45′ 29″ E",al-Fayyūm,,7,0,0,https://geniza.princeton.edu/places/tutun/
+Tyana,Ṭuwāna,N,"37° 50′ 53″ N, 34° 36′ 29″ E",,,1,0,0,https://geniza.princeton.edu/places/tyana/
 Tyre,"צור, صور",N,"33° 16′ 13″ N, 35° 13′ 50″ E",,,90,3,0,https://geniza.princeton.edu/places/tyre/
 Urmīya,"ארמיה, اروميه",N,"37° 32′ 37″ N, 45° 3′ 52″ E",,,1,0,0,https://geniza.princeton.edu/places/urmiya/
 ואדי לינפש,,N,,,"Unidentified location in Iberia, located ""across the Tagus river. . . in the village of אלב̇יג̇ש."" It is also possible to read the name as ואדי לעפש.",1,0,0,https://geniza.princeton.edu/places/vady-l-psh/
